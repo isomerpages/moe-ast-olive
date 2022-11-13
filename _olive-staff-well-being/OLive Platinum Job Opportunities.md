@@ -272,7 +272,8 @@ Hiring Division: Academy of Singapore Teachers 
 
 **Job Description**
 
-To conduct guided tours at the MOE Heritage Centre and in doing so, fulfill the following objectives:                • Share with visitors the  Singapore Education Story and how education has contributed to nation-building  
+To conduct guided tours at the MOE Heritage Centre and in doing so, fulfill the following objectives:  <br>  
+• Share with visitors the  Singapore Education Story and how education has contributed to nation-building  
 • Educate and inspire teachers on Singapore’s education heritage  
 •Help MOE staff feel connected as a fraternity with a shared heritage and affirm that their contributions are recognised and appreciated  
   
