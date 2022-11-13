@@ -69,4 +69,13 @@ sections:
       url: /olive/spotlight/olivewellness-micro-learning-units/
       image: /images/sw_-mlu-banner-(2).png
       alt: OLiveWellness MLUs
+  - infopic:
+      title: Mental Wellness
+      description: Mental wellness is important to one and all especially during
+        trying times. Care for yourself and your peers by attending some of
+        these courses brought to...
+      button: Click to read more!
+      url: /olive/spotlight/mental-wellness-courses-by-ngee-ann-cet-academy/
+      image: /images/workshop-thumbnail72e754fc655943ea817670d5b3dbf1e8.png
+      alt: Mental Wellness
 ---
