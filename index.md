@@ -51,4 +51,13 @@ sections:
       url: /olive/spotlight/moe-supports-presidents-challenge-2022/
       image: /images/empowering-brighter-future-thumbnail.png
       alt: Empowering a brighter future
+  - infopic:
+      title: Greetings from iCARE
+      description: Feeling upset and need a listening ear? Entertaining negative
+        thoughts that you are all alone to face life's challenges? iCARE
+        officers wish to connect...
+      button: Click to read more!
+      url: /olive/spotlight/greetings-from-icare/
+      image: /images/icare.jpeg
+      alt: iCARE
 ---
