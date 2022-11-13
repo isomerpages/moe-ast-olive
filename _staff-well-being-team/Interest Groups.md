@@ -14,7 +14,7 @@ Sleeping Like A SGBaby
 ----------------------
 
 <img src="/images/sleeping-like-a-sgbaby.png"  
-style="width:50%">
+style="width:35%">
   
 These days, educators are witnessing an increasing number of students who are hyperactive or incapable of sustained attention in lessons. Are you aware that such behavior is usually attributed to those who do not get sufficient and quality sleep? Ever wondered why your child is sleeping poorly? How can I get my child to learn how to fall asleep without assistance? Is it even possible for the whole family to be well-rested? As educators ourselves, we know and value the importance of sleep. We would like to reach out to parents and parents-to-be to understand the science behind sleep and troubleshoot their children's sleep issues through our support group.  
   
@@ -34,7 +34,7 @@ Calling all Board Gamers!
 -------------------------
 
 <img src="/images/friends-playing-a-board-game_23-2147588859.jpeg"  
-style="width:50%">
+style="width:35%">
   
 Board games are for kids, you say? Or something to do when we are stuck indoors and have nothing else to do, huh? We say, ‘nay’! Board gaming is a growing hobby and there are good reasons why:
 
