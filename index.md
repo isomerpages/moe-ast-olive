@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: OLive Staff Well-being
+description: OLive Staff Well-being
+image: /images/moeolive_logo.png
 permalink: /
 notification: ""
 sections:
@@ -88,3 +88,4 @@ sections:
       image: /images/blackmores_head-00.jpeg
       alt: Well Being Programmes
 ---
+
