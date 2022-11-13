@@ -9,7 +9,7 @@ description: ""
 
 If you are unable to attend the on-site health screening and/or flu vaccination exercise organised by your school or HQ, you could make an appointment at one of Minmed's clinics to get this done. You may refer to the attached file for the guide on how to make an appointment.
 
-[(2022) Making an Appointment with Minmed - FV and HS(.pdf, 186.79 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider8/default-document-library/(2022)-making-an-appointment-with-minmed---fv-and-hs.pdf?sfvrsn=48df102c_0 "(2022) Making an Appointment with Minmed - FV and HS")
+[(2022) Making an Appointment with Minmed - FV and HS(.pdf, 186.79 KB)](/files/(2022)-making-an-appointment-with-minmed---fv-and-hs.pdf)
 
 Please remember to bring along your Civil Service/Public Service Card on the day of appointment or verification.
 
@@ -79,7 +79,7 @@ If you missed your appointment, please make a new one **within 1 month from the
 **Eligibility and Payment for the Flu Vaccine** 
 ================================================
 
-**1. W****ho will be entitled for the fully subsidised flu vaccine?**
+**1. Who will be entitled for the fully subsidised flu vaccine?**
 
 All MOE staff under the direct payroll of MOE are included. This includes the following officers:
 
