@@ -12,7 +12,7 @@ style="width:30%">
 
   
 
-##### **Self-Efficacy**
+#### **Self-Efficacy**
 
 Social-Emotional and Cultural Intelligences
 
@@ -32,7 +32,7 @@ Reflective Practice
 
 [Gratitude App - Presently](https://appadvice.com/app/presently-a-gratitude-journal/1474231565)  
 
-##### Self-Knowledge
+#### Self-Knowledge
 
 
 Building Personal Resilience
@@ -47,7 +47,7 @@ Personal Attributes and Traits
 
 [Loving and Accepting Yourself](https://www.healthhub.sg/live-healthy/438/loving_and_accepting_yourself)
 
-##### Self-Management
+#### Self-Management
 
 Emotional/Mental Wellness
 
