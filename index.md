@@ -42,4 +42,13 @@ sections:
       url: /olive/spotlight/singles-exclusive-events/
       image: /images/sparksconnection.png
       alt: Sparks Connection
+  - infopic:
+      title: MOE supports President's Challenge
+      description: You can now make a difference in the lives of beneficiaries
+        supported by the President's Challenge via our MOE online fundraising
+        campaign in just...
+      button: Click to read more!
+      url: /olive/spotlight/moe-supports-presidents-challenge-2022/
+      image: /images/empowering-brighter-future-thumbnail.png
+      alt: Empowering a brighter future
 ---
