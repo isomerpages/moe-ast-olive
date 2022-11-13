@@ -2,5 +2,6 @@ collections:
   staff-well-being-team:
     output: true
     order:
+      - Interest Groups.md
       - Resources.md
       - Staff Well Being Team.md
