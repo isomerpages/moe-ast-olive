@@ -1,0 +1,4 @@
+collections:
+  icare:
+    output: true
+    order: []
