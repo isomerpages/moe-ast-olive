@@ -4,7 +4,7 @@ permalink: /olive/icare/resources/
 description: ""
 ---
 <img src="/images/icare-brochure-qr.jpeg"  
-style="width:40%">
+style="width:30%">
 
 [e-Brochure](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider8/icare-docs/icare-brochure.pdf?sfvrsn=31fd79cc_0 "iCare brochure") (or scan the above QR Code)
 
