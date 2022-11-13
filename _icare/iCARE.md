@@ -4,7 +4,7 @@ permalink: /olive/icare/
 description: ""
 ---
 <img src="/images/icare-gift-logo_small.jpeg"  
-style="width:40%">
+style="width:30%">
 
 **iCARE**
 
