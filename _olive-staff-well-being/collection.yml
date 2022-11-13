@@ -2,6 +2,7 @@ collections:
   olive-staff-well-being:
     output: true
     order:
+      - Singles Exclusive Events.md
       - MOE supports President's Challenge 2022.md
       - Greetings from iCARE.md
       - "#OLiveWellness Micro Learning Units.md"
