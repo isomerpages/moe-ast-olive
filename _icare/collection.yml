@@ -2,5 +2,6 @@ collections:
   icare:
     output: true
     order:
+      - Useful Helplines.md
       - Workshops.md
       - iCARE.md
