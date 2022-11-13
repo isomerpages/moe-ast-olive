@@ -2,6 +2,7 @@ collections:
   olive-staff-well-being:
     output: true
     order:
+      - OLive Platinum Job Opportunities.md
       - MOE Health Screening Programme.md
       - Singles Exclusive Events.md
       - MOE supports President's Challenge 2022.md
