@@ -20,16 +20,16 @@ In support of the President's Challenge 2022, the MOE Community Involvement Prog
 
 You can now contribute towards President's Challenge at your own convenience via our MOE online fundraising campaign on Giving.sg ([https://www.giving.sg/campaigns/moepc2022](https://www.giving.sg/campaigns/moepc2022)) in only four simple steps!  
   
-Step 1  
+Step 1: <br> 
 One-time creation of an account under Giving.sg.  
   
-Step 2  
+Step 2:  <br>
 You are now ready to make your online donation via credit/debit cards or internet banking.  
   
-Step 3  
+Step 3:  <br>
 For donations above $10, you can verify your particulars in the auto-filled form to opt for tax deduction.  
   
-Step 4  
+Step 4:  <br>
 Click on the "Donate Today" button and your donation is on its way to make a difference in the lives of the beneficiaries!  
 
 
