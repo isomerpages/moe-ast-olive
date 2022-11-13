@@ -2,4 +2,5 @@ collections:
   olive-staff-well-being:
     output: true
     order:
+      - Mental Wellness Courses by Ngee Ann CET Academy.md
       - Well Being Programmes for Schools and Divisions.md
