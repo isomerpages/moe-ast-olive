@@ -1308,9 +1308,9 @@ Soh Cheow Kian
 6879 6567  
 soh\_cheow\_kian@moe.gov.sg
 
-\-------------------------------------------------------------------------------------------------------------------------------------------------
+-------
 
-**Editor for** **Individualized Research  Study (IRS) Presentations Programme Booklet** 
+**<u>Editor for Individualized Research  Study (IRS) Presentations Programme Booklet</u>** 
 
 Hiring Division: CPDD1
 
@@ -1340,10 +1340,12 @@ elaine\_yee@moe.gov.sg
 
 30 Aug 2022
 
-\-------------------------------------------------------------------------------------------------------------------------------------------------
+------
 
-Copy Editor (Lianhe Zaobao)**Detailed Job Description / Additional Information**
-================================================================================
+**<u>Copy Editor (Lianhe Zaobao)</u>**
+
+**Detailed Job Description / Additional Information**
+
 
 We are looking for a Copy Editor who has a strong command of the Chinese language, able to oversee our content editing needs in a fast-paced work environment  
 
@@ -1401,10 +1403,9 @@ Designation: Senior Manager
 Email Address: [celestek@sph.com.sg](mailto:celestek@sph.com.sg) / [elainetan@sph.com.sg](mailto:elainetan@sph.com.sg)  
 Contact No: 63191618 / 63191769
 
-\---------------------------------------------------------------------------------------------------------------------------------------------------------
+------
 
-Proofreaders
-============
+**<u>Proofreaders</u>**
 
 **Detailed Job Description / Additional Information**
 
@@ -1455,9 +1456,9 @@ Designation: Assistant Manager
 Email Address: [ssumathi@sph.com.sg](mailto:ssumathi@sph.com.sg)  
 Contact No: 63194009
 
-\-------------------------------------------------------------------------------------------------------------------------------------------------------
+------
 
-**Job opportunities at Lions Befrienders**
+**<u>Job opportunities at Lions Befrienders</u>**
 
 For officers considering post-retirement job opportunities, this is a meaningful opportunity for you to work flexibly, while being socially engaged in the process.
 
@@ -1468,9 +1469,9 @@ We have listed a few job opportunities below that Lions Befrienders is offering.
 *   Care Ambassadors
 *   Healthcare Assistant
 
-\--------------------------------------------------------------------------------------------------------------------------------------------------
+------
 
-**MOE Kindergarten Literacy Support Coach**
+**<u>MOE Kindergarten Literacy Support Coach</u>**
 
 Hiring Division: Schools Division
 
@@ -1515,27 +1516,27 @@ Tel: 6838 7318
 
 Application closing date: Ongoing recruitment
 
-\---------------------------------------------------------------------------------------------------------------------------------------------------------
+------
 
-### **HQ Invigilators**
+**<u>HQ Invigilators</u>**
 
 Period of Engagement: February 2022 to December 2022 (Actual engagement is subject to dates of the examinations/tests as required)
 
 The primary role of an Invigilator is to perform invigilation duties in accordance with the rules and regulations in conducting examinations/tests while ensuring high level of security.
 
-### **HQ Presiding Examiners**
+**<u>HQ Presiding Examiners</u>**
 
 Period of Engagement: February 2022 to December 2022 (Actual engagement is subject to dates of the examinations/tests as required)
 
 The Presiding Examiner (PE) will assist the Chief Presiding Examiner (CPE) in planning and managing the end-to-end conduct of the examinations/tests.
 
-### **Markers for English Language (Primary & Secondary) or Mother Tongue Languages (Secondary & JC–Level)**
+**<u>Markers for English Language (Primary & Secondary) or Mother Tongue Languages (Secondary & JC–Level)</u>**
 
 Period of Engagement: February 2022 to December 2022 (Actual engagement is subject to dates of the marking exercises as required)
 
 The Markers are to understand the assessment requirements of the subject and apply the mark scheme consistently in the marking. They are required to mark a stipulated number of scripts per day in accordance with the mark scheme, and assist in any other duties that may arise.
 
-### **Oral Examiners for Mother Tongue Languages**
+**<u>Oral Examiners for Mother Tongue Languages</u>**
 
 Period of Engagement: July 2022 to September 2022 (Actual engagement is subject to the dates of the oral examinations and as required)
 
@@ -1546,8 +1547,7 @@ LEARN MORE
 
 For more information on these positions, please visit the [SEAB Website](https://www.seab.gov.sg/home/about-us/exam-personnel-openings).
 
-APPLICATION
-===========
+**APPLICATION**
 
 Interested applicants may apply through the links provided below. Applications are open till Sunday, 19 June 2022.
 
@@ -1556,17 +1556,18 @@ Interested applicants may apply through the links provided below. Applications a
     
     In view of the large number of applications, we regret that only shortlisted applicants will be notified via email.
     
-    CONTACTS
-    ========
+**CONTACTS**
     
-    Please write to the following email accounts if you have queries on the positions:
+    
+ Please write to the following email accounts if you have queries on the positions:
     
 *   HQ Invigilators / HQ Presiding Examiners: [SEAB\_GCE\_Admin@seab.gov.sg](mailto:SEAB_GCE_Admin@seab.gov.sg).
 *   Markers / Oral Examiners: [ask\_us@seab.gov.sg](mailto:ask_us@seab.gov.sg).
 
-\--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----
 
-**Mathematics Assessment Items Writer (Secondary)**
+
+**<u>Mathematics Assessment Items Writer (Secondary)</u>**
 
 Officer is required to write assessment items for secondary topics for the AI-Adaptive Learning System.  For each assessment item, officer will craft hints and feedback based on students’ responses to the items. Officer is expected to write 20 distinct assessment items with corresponding hints and feedback per man day. Officer will work closely with curriculum specialists who will guide this writing with samples of feedback for the various types of assessment items, and attend reviews to improve the quality of feedback written. 
 
@@ -1585,9 +1586,10 @@ Contact Person:
 
 New Yi Cheen / 68796826 /new\_yi\_cheen@moe.gov.sg (CPDD1)
 
-\------------------------------------------------------------------------------------------------------------------------------------------------------
+----
 
-**Mathematics Assessment Items Writer (Primary)**
+
+**<u>Mathematics Assessment Items Writer (Primary)</u>**
 
 Officer is required to write assessment items for primary topics for the AI-Adaptive Learning System.  For each assessment item, officer will craft hints and feedback based on students’ responses to the items. Officer is expected to write 20 distinct assessment items with corresponding hints and feedback per man day. Officer will work closely with curriculum specialists who will guide this writing with samples of feedback for the various types of assessment items, and attend reviews to improve the quality of feedback written. 
 
@@ -1607,9 +1609,10 @@ Contact Person:
 
 New Yi Cheen / 68796826 / new\_yi\_cheen@moe.gov.sg (CPDD1)
 
-\------------------------------------------------------------------------------------------------------------------------------------
+----
 
-**Transition Aide**
+
+**<u>Transition Aide</u>**
 
 As a transition aide, you will be assisting school personnel in supporting students with Special Educational Needs (SEN) to learn social and behavioural skills to navigate challenging transition periods.   
 Roles could include:   
@@ -1630,9 +1633,10 @@ Closing Date
 
 To apply, please reach out to SEND with your details via FormSG ([https://form.gov.sg/#!/60583276578da100122c9019](https://form.gov.sg/#!/60583276578da100122c9019)) 
 
-\--------------------------------------------------------------------------------------------------------------------------------------------------
+-----
 
-**MOE Kindergarten Literacy Support Coach**
+
+**<u>MOE Kindergarten Literacy Support Coach</u>**
 
 Hiring Division: Schools Division
 
@@ -1679,9 +1683,10 @@ Aline\_NG@moe.gov.sg
 
 Application closing date: Ongoing
 
-\-----------------------------------------------------------------------------------------------------------------------------------------------------
+-----
 
-**Family befrienders for UPLIFT Community Network (UCN)**
+
+**<u>Family befrienders for UPLIFT Community Network (UCN)</u>**
 
 UPLIFT is an initiative spearheaded by the Ministry of Education (MOE) and supported by the Ministry of Social and Family Development (MSF) to strengthen support for students from disadvantaged family backgrounds. The UPLIFT Community Network (UCN) seeks to match the needs of disadvantaged students and their families to local programmes and resources, through a Town-Level Coordinator (TLC) stationed in the Social Service Office (SSO). The UCN currently operates in Bedok/Geylang Serai, Boon Lay, Bukit Merah/Kreta Ayer, Chua Chu Kang, Punggol, Sengkang, Toa Payoh/Jalan Besar, Woodlands and Yishun.  
   
@@ -1708,4 +1713,4 @@ Contact details
 2\. Ms Nur Aini at 6879 5946  
 (Email: moe\_uplift@moe.gov.sg)
 
-\-----------------------------------------------------------------------------------------------------------------------------------------------
+------
