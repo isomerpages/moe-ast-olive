@@ -1,4 +1,5 @@
 collections:
   icare:
     output: true
-    order: []
+    order:
+      - iCARE.md
