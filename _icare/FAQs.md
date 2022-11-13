@@ -13,7 +13,7 @@ Counselling offers a safe and confidential environment for you to speak and expl
 
 Counselling helps you think through your situation from new perspectives, clarify your thoughts and develop ways to cope with/manage your concerns and problems.
 
-\-------------------------------------------------------------
+-----
 
 **2\. What to expect from counseling?**
 
@@ -25,7 +25,7 @@ In your first session, it is likely that the counsellor will ask you some questi
 *   What is your current situation? - It is important to let your counsellor know your current situation, including any day-to-day issues you are facing and even your work and home life.
 *   What symptoms are you experiencing? - Whether these are physical or psychological.
 
-\-------------------------------------------------------------
+-----
 
 **3\. Is seeking counselling a sign of weakness?**
 
@@ -33,7 +33,7 @@ On the contrary, seeking counselling is indicative of an individual's strength o
 
 It takes inner strength to acknowledge a problem and seek to proactively and responsibly deal with the matter before it negatively impacts on the physical, emotional, social, and spiritual well-being.
 
-\-------------------------------------------------------------
+-----
 
 **4\. Will the counsellor give me a solution to my problem?**
 
@@ -41,7 +41,7 @@ The counselling relationship is not about giving solution, fixing the person, or
 
 Counselling is not giving advice; rather it helps you think through your situation from new perspectives, clarify your thoughts and help you find your own solutions to problems or develop better ways to manage issues.
 
-\-------------------------------------------------------------
+------
 
 **5\. Will anyone know I am seeing a counsellor, and will my Principal and my RO be informed of details of my counselling session?**
 
@@ -57,13 +57,13 @@ There are only three instances where confidentiality can be broken:
 
 Outside of these circumstances, information can only be shared if the client shares it or provides written authorization for releasing information.
 
-\-------------------------------------------------------------
+-----
 
 **6\. As a Principal or RO, can I refer my officer to iCARE for counselling?**
 
 iCARE does not accept referral. iCARE works on the principles of personal choice and respect. Hence, the decision to seek counselling is entirely up to the individual.
 
-\-------------------------------------------------------------
+-----
 
 **Issues that are not under the purview of iCARE**
 
