@@ -34,4 +34,12 @@ sections:
       url: /olive/spotlight/for-schools-info-moe-health-screening-programme/
       image: /images/hs-fv-2022.png
       alt: MOE Health Screening
+  - infopic:
+      title: For Singles - SPARK Connections
+      description: Are you ready to add colours and excitement to your life? Join us
+        and spark a new lifestyle with access to exclusive singles events!
+      button: Click to read more!
+      url: /olive/spotlight/singles-exclusive-events/
+      image: /images/sparksconnection.png
+      alt: Sparks Connection
 ---
