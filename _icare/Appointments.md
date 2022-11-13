@@ -3,7 +3,7 @@ title: Appointments
 permalink: /olive/icare/appointments/
 description: ""
 ---
-**<u>Modes of Counselling** (during office hours only)</u>
+**<u>Modes of Counselling</u>** <u>(during office hours only)</u>
 
 1\. Face-to-face at the Academy of Singapore Teachers (AST) 
 
