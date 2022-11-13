@@ -2,6 +2,7 @@ collections:
   icare:
     output: true
     order:
+      - Appointments.md
       - FAQs.md
       - Feedback.md
       - Resources.md
