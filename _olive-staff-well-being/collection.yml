@@ -1,4 +1,5 @@
 collections:
   olive-staff-well-being:
     output: true
-    order: []
+    order:
+      - Well Being Programmes for Schools and Divisions.md
