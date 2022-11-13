@@ -29,6 +29,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/moeolive_logo.png" alt="OLive Staff Well Being" style="width:50%;">  
+<body><img src="/images/moeolive_logo.png" alt="OLive Staff Well Being" style="width:35%;">  
   
 </body>
