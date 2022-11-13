@@ -13,7 +13,7 @@ Existing officers who wish to find out more about MOE's re-employment policies c
 
 _Use the "find in page" function by typing "crtl + f" and search for the jobs, e.g._
 
-_i. Search by **teaching s****ubjects**:_ _Science/ Mathematics/ CCE etc e.g. Trainer - Exploring the HeART of CCE etc_
+_i. Search by **teaching subjects**:_ _Science/ Mathematics/ CCE etc e.g. Trainer - Exploring the HeART of CCE etc_
 
 _ii. Search by **job roles** e.g. "Trainer/ Assessor/ Proofreader/ copy writer etc e.g._ Oral Examiners for Mother Tongue Languages/ Mathematics,  Assessment Items Writer etc
 
@@ -25,11 +25,11 @@ _ii. Search by **specific key words** e.g. “Lee Kuan Yew Award for All-Round
 
 **\[MOE HQ\]**
 
-**Adviser & Trainer, Economics Unit**
+**<u>Adviser & Trainer, Economics Unit</u>**
 
 Hiring Division: CPDD2
 
-**Job Description**
+**<u>Job Description</u>**
 
 *   Institutional Knowledge – Write and compile an Econs Unit curriculum and institutional overview for training and knowledge retention purposes Induction for new unit members
 *   Induct unit members on key curricular & syllabus developments and considerations (with reference to Institutional Knowledge piece), communications with schools, partners and stakeholders, organising events and PD for schools, SEAB exam work, email submissions, Mcare and PQ responses, staff work, etc.
@@ -52,15 +52,15 @@ Chiang Huimin
 6832 9136   
 chiang\_huimin@moe.gov.sg   
 
-\-----------------------------------------------------------------------------------------------------------------------------------------------------
+----
 
 **\[MOE HQ\]**
 
-**Career Coach**
+**<u>Career Coach</u>**
 
 Hiring Division: HSCD
 
-**Job Description**
+**<u>Job Description</u>**
 
 As a Career Coach with HR Solutions & Capabilities Division (HSCD), you will offer career coaching services to MOE officers in Schools and HQ Divisions to support them in their career planning which may involve finding purpose at work, exploring career interest, starting a new role as well as retiring purposefully.  
   
@@ -106,15 +106,15 @@ Up to 4 days in a month, with subsequent engagement based on overall coaching de
 Mr Dennis Chan \[dennis\_chan@moe.gov.sg / 6879 6830\]  
 Mdm Rowena Wan \[rowena\_Wan@moe.gov.sg / 6879 6829\]   
 
-\-----------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 **\[MOE HQ\]**
 
-**Leadership Workshop Facilitator for Leadership Development Programmes for Senior  Middle Managers** 
+**<u>Leadership Workshop Facilitator for Leadership Development Programmes for Senior  Middle Managers</u>** 
 
 Hiring Division: Schools Division
 
-**Job Description**
+**<u>Job Description</u>**
 
 Main area and job scope are:  
 
@@ -142,21 +142,22 @@ Tan Ai Bee
 64736275  
 TAN\_Ai\_Bee@moe.gov.sg  
 
-\-----------------------------------------------------------------------------------------------------------------------------------------------------
+-----
 
 **\[MOE HQ\]**
 
-**MOE Innergy (Schools) and Outstanding Innovator Awards Judge** 
+**<u>MOE Innergy (Schools) and Outstanding Innovator Awards Judge</u>** 
 
 Hiring Division: HSLD
 
-**Job Description**
+**<u>Job Description</u>**
 
 • The jobholder will be involved in the assessment of the MOE Innergy (Schools) Award and Outstanding Innovator Award (Schools/HQ/Statutory Boards) which recognises individuals/teams who are important in driving innovation at their workplaces and beyond. 
 
 • This requires in-depth knowledge of the unique operating environment in schools and Ministry HQ to provide systemic-level perspectives when evaluating initiatives submitted by different schools across different academic levels and job areas. 
 
-• The jobholder is expected to have knowledge and/or experience in the areas of Teaching & Learning (i.e., pedagogical/subject-based projects that enriches student learning) and Work Processes (i.e., internal administrative/operational improvement projects that benefit the students/staff/school) to be able to evaluate across the different categories.• Beyond evalution of awardees, the jobholder is also required to identify and recommend suitable projects to HQ Divisions for scaling at the Ministry-level.
+• The jobholder is expected to have knowledge and/or experience in the areas of Teaching & Learning (i.e., pedagogical/subject-based projects that enriches student learning) and Work Processes (i.e., internal administrative/operational improvement projects that benefit the students/staff/school) to be able to evaluate across the different categories.<br>
+• Beyond evalution of awardees, the jobholder is also required to identify and recommend suitable projects to HQ Divisions for scaling at the Ministry-level.
 
   
 
@@ -177,19 +178,19 @@ Agency will share the actual engagement dates with the shortlisted candidates
 *   Mr Bryan Tan, TAN\_Gack\_Chong@moe.gov.sg, 6879 6236 
 *   Ms Seah Bee Leng, SEAH\_Bee\_Leng@moe.gov.sg, 6879 6294
 
-\--------------------------------------------------------------------------------------------------------------------------------------------------------
+-----
 
 \[MOE HQ\]
 
   
 
-**Compulsory Education Liaison Officer**
+**<u>Compulsory Education Liaison Officer</u>**
 
 Hiring Division: Schools Division
 
   
 
-**Job Description**
+**<u>Job Description</u>**
 
 1\. Conduct house visits to ascertain reasons for non-registration of Primary 1.  
 2\. Persuade parents who have not registered their child for Primary 1 to do so and to provide advice on P1 registration matters, if necessary.  
@@ -224,7 +225,7 @@ Seow Suat Ling
 
 Closing Date: 4 Nov 2022
 
-\-------------------------------------------------------------------------------------------------------------------------------------------------
+------
 
 \[External Agencies\]
 
@@ -261,11 +262,11 @@ rasheedah\_mahfuz@psd.gov.sg
 
 Closing date: 7 Oct 2022
 
-\-------------------------------------------------------------------------------------------------------------------------------------------------
+------
 
 \[MOE HQ\]
 
-**MOE Heritage Centre Docent**
+**<u>MOE Heritage Centre Docent</u>**
 
 Hiring Division: Academy of Singapore Teachers   
 
@@ -305,11 +306,11 @@ Sarin Abdullah, HP: 93826192,
 
 Email: sarin\_abdullah@moe.gov.sg  
 
-\-------------------------------------------------------------------------------------------------------------------------------------------------
+------
 
 \[MOE HQ\]
 
-**CARE Trainer/Consultant**
+**<u>CARE Trainer/Consultant</u>**
 
 Hiring Division: Student Development Curriculum Division 1 
 
@@ -375,9 +376,9 @@ Foo Kiam Wah
 
 foo\_kiam\_wah@moe.gov.sg
 
-\--------------------------------------------------------------------------------------------------------------------------------------------------------
+-----
 
-**Adjunct Consultant** 
+**<u>Adjunct Consultant</u>** 
 
 Hiring Division: Student Development Curriculum Division 1 
 
@@ -437,9 +438,9 @@ Mrs Stella Kwan
 Evelyn Chan, 68386813,  
 evelyn\_chan@moe.gov.sg
 
-\------------------------------------------------------------------------------------------------------------------------------------------------------
+-------
 
-**Trainer for Key Personnel Student Well-Being (KP SWB) Course Modules**  
+**<u>Trainer for Key Personnel Student Well-Being (KP SWB) Course Modules</u>**  
 
 Hiring Division: Student Development Curriculum Division 1 
 
@@ -500,9 +501,9 @@ Ms Hor I Wei
 6831 9712  
 hor\_i\_wei@moe.gov.sg
 
-\------------------------------------------------------------------------------------------------------------------------------------------------------
+-------
 
-**Trainer for 'Exploring the HeART of CCE (Primary)'**
+**<u>Trainer for 'Exploring the HeART of CCE (Primary)'</u>**
 
 Hiring Division: Student Development Curriculum Division 1 
 
@@ -628,9 +629,9 @@ Mr Jason Pereira
 6831 9761  
 Jason\_PEREIRA@moe.gov.sg
 
-**\---------------------------------------------------------------------------------------------------------------------------------------------------------**
+-------
 
-**Trainer for 'Cross Level Deployment Course (CLDC) (Primary)'**
+**<u>Trainer for 'Cross Level Deployment Course (CLDC) (Primary)'</u>**
 
 Hiring Division: Student Development Curriculum Division 1 
 
@@ -690,9 +691,9 @@ Mr Jason Pereira
 6831 9761  
 Jason\_PEREIRA@moe.gov.sg
 
-  
+ ------- 
 
-**Trainer for 'Cross Level Deployment Course (CLDC) (Secondary)'**
+**<u>Trainer for 'Cross Level Deployment Course (CLDC) (Secondary)'</u>**
 
 Hiring Division: Student Development Curriculum Division 1 
 
@@ -752,7 +753,9 @@ Mr Jason Pereira
 6831 9761  
 Jason\_PEREIRA@moe.gov.sg  
 
-**Trainer for 'LAMPplus Year Head (Primary) and (Secondary)'**
+-------
+
+**<u>Trainer for 'LAMPplus Year Head (Primary) and (Secondary)'</u>**
 
 Hiring Division: Student Development Curriculum Division 1 
 
@@ -815,7 +818,9 @@ Ms Linda Marie Gunalan
 6838 6622   
 Linda\_Marie\_GUNALAN@moe.gov.sg  
 
-**Trainer for 'LAMPplus CCE (Primary) and (Secondary)'**
+------
+
+**<u>Trainer for 'LAMPplus CCE (Primary) and (Secondary)'</u>**
 
 Hiring Division: Student Development Curriculum Division 1 
 
@@ -878,9 +883,9 @@ Ms Charmian Tan
 68319758  
 Charmian\_TAN@moe.gov.sg
 
-  
+------  
 
-**Trainer for 'CCE in Singapore Context' at NIE**
+**<u>Trainer for 'CCE in Singapore Context' at NIE</u>**
 
 Hiring Division: Student Development Curriculum Division 1 
 
@@ -943,9 +948,9 @@ Ms Joy Sim
 Joy\_SIM@moe.gov.sg  
 65 6831 9763
 
-**\---------------------------------------------------------------------------------------------------------------------------------------------------------**  
+------
 
-**Trainer for ITP**
+**<u>Trainer for ITP</u>**
 
 Hiring Division: Student Development Curriculum Division 1 
 
@@ -1001,9 +1006,9 @@ Mdm Koh Teck Siew
 6831 9747   
 KOH\_Teck\_Siew@moe.gov.sg
 
-  
+------  
 
-**Resource development for E2K Science teacher workshop and school-based TM workshops**
+**<u>Resource development for E2K Science teacher workshop and school-based TM workshops</u>**
 
 Hiring Division: Curriculum Planning and Development
 
@@ -1085,9 +1090,9 @@ DDSOP, Ms Rebecca Moh,
 
 6472 3612 <rebecca\_moh@moe.gov.sg>
 
-\-------------------------------------------------------------------------------------------------------------------------------------------------
+------
 
-**Lee Kuan Yew Award for All-Round Excellence Award (Primary) Assessor**
+**<u>Lee Kuan Yew Award for All-Round Excellence Award (Primary) Assessor</u>**
 
 Hiring Division: Schools Division
 
@@ -1113,9 +1118,9 @@ DDSOP, Ms Rebecca Moh,
 
 6472 3612 <rebecca\_moh@moe.gov.sg>  
 
-\-------------------------------------------------------------------------------------------------------------------------------------------------
+------
 
-**Lee Kuan Yew Award for All-Round Excellence Award (Secondary) Chief Administrator**
+**<u>Lee Kuan Yew Award for All-Round Excellence Award (Secondary) Chief Administrator</u>**
 
 Hiring Division: Schools Division
 
@@ -1144,9 +1149,9 @@ DDSOP, Ms Rebecca Moh,
 
 6472 3612 <rebecca\_moh@moe.gov.sg>
 
-\-------------------------------------------------------------------------------------------------------------------------------------------------
+------
 
-**Lee Kuan Yew Award for All-Round Excellence Award (Secondary) Assessor**
+**<u>Lee Kuan Yew Award for All-Round Excellence Award (Secondary) Assessor</u>**
 
 Hiring Division: Schools Division
 
@@ -1172,9 +1177,9 @@ DDSOP, Ms Rebecca Moh,
 
 6472 3612 <rebecca\_moh@moe.gov.sg>  
 
-\-------------------------------------------------------------------------------------------------------------------------------------------------
+------
 
-**Lee Hsien Loong Award for Innovations in Uplifting Students (LHL AIUS) Assessor**  
+**<u>Lee Hsien Loong Award for Innovations in Uplifting Students (LHL AIUS) Assessor</u>**  
 
 Hiring Division: Schools Division
 
@@ -1213,9 +1218,9 @@ DDSOP, Ms Rebecca Moh, 6472 3612
 
 rebecca\_moh@moe.gov.sg
 
-\-------------------------------------------------------------------------------------------------------------------------------------------------
+-------
 
-**CCE Advisor**
+**<u>CCE Advisor</u>**
 
 Hiring Division: SDCD1
 
@@ -1247,9 +1252,9 @@ Venkatraman Chithra
 68319646 (ext 406)  
 chithra\_venkatraman@moe.gov.sg
 
-\-------------------------------------------------------------------------------------------------------------------------------------------------
+-------
 
-**Textbook Reviewer (Food and Consumer Education)**
+**<u>Textbook Reviewer (Food and Consumer Education)</u>**
 
 Hiring Division: CPDD1
 
@@ -1279,9 +1284,9 @@ Derlynn
 97872437  
 derlynn\_chng@moe.gov.sg
 
-\-------------------------------------------------------------------------------------------------------------------------------------------------
+------
 
-**STEM Programme Coordinator (Science / Mathematics)** 
+**<u>STEM Programme Coordinator (Science / Mathematics)</u>** 
 
 Hiring Division: CPDD1
 
