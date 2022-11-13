@@ -1,4 +1,4 @@
-title: OLive Staff Well-being
+title: OLive Staff Well-Being
 url: https://academyofsingaporeteachers.moe.edu.sg
 favicon: /images/moeolive_logo.png
 colors:
@@ -15,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: OLive Staff Well-being
+description: OLive Staff Well-Being
 permalink: none
 baseurl: ""
 exclude:
