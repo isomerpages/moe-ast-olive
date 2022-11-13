@@ -16,7 +16,7 @@ All iCARE counselling sessions **must be pre-arranged.** 
 **<u>Contact Details</u>** 
 
 <img src="/images/mobile-text.png"  
-style="width:30%">
+style="width:23%">
 
 1\. Email:  MOE\_iCARE@moe.gov.sg
 
