@@ -3,7 +3,7 @@ title: Appointments
 permalink: /olive/icare/appointments/
 description: ""
 ---
-**Modes of Counselling** (during office hours only)
+**<u>Modes of Counselling** (during office hours only)</u>
 
 1\. Face-to-face at the Academy of Singapore Teachers (AST) 
 
@@ -13,10 +13,10 @@ description: ""
 
 All iCARE counselling sessions **must be pre-arranged.**   
 
-**Contact Details** 
+**<u>Contact Details</u>** 
 
 <img src="/images/mobile-text.png"  
-style="width:40%">
+style="width:30%">
 
 1\. Email:  MOE\_iCARE@moe.gov.sg
 
@@ -24,15 +24,14 @@ style="width:40%">
 
   
 
-**Operating Hours**
+**<u>Operating Hours</u>**
 
 Weekdays from 8.30am-5pm except public holidays
 
   
 
-**Our Location**
+**<u>Our Location</u>**
 
 Academy of Singapore of Teachers 
 
 2 Malan Road, Singapore 109433
-
