@@ -1,15 +1,8 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About OLive Staff Well-Being
+    url: /olive/
+  - title: Staff Well-Being Team
+    collection: staff-well-being-team
+  - title: iCare
+    collection: icare
