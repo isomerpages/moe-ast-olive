@@ -2,4 +2,5 @@ collections:
   icare:
     output: true
     order:
+      - Workshops.md
       - iCARE.md
