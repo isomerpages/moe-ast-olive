@@ -3,7 +3,7 @@ url: https://academyofsingaporeteachers.moe.edu.sg
 favicon: /images/moeolive_logo.png
 colors:
   primary-color: "#47612d"
-  secondary-color: "#000000"
+  secondary-color: "#47612d"
   media-colors:
     - title: media-color-one
       color: "#49759a"
