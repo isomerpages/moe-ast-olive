@@ -32,6 +32,5 @@ Weekdays from 8.30am-5pm except public holidays
 
 **<u>Our Location</u>**
 
-Academy of Singapore of Teachers 
-
+Academy of Singapore of Teachers <br>
 2 Malan Road, Singapore 109433
