@@ -78,4 +78,13 @@ sections:
       url: /olive/spotlight/mental-wellness-courses-by-ngee-ann-cet-academy/
       image: /images/workshop-thumbnail72e754fc655943ea817670d5b3dbf1e8.png
       alt: Mental Wellness
+  - infopic:
+      title: Well Being Programmes for Schools and Divisions
+      description: "Well-being Programmes for Schools and Division: To find out a list
+        of programmes available for your schools and division, check out the
+        list of examples...."
+      button: CLick to read more!
+      url: /olive/spotlight/well-being-programmes/
+      image: /images/blackmores_head-00.jpeg
+      alt: Well Being Programmes
 ---
