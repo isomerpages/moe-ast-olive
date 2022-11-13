@@ -92,7 +92,7 @@ iCARE offers counselling services and workshops for the individual’s social, e
 MOHT, with its partner organisations Ministry of Social and Family Development (MSF), National Council of Social Service (NCSS) and Institute of Mental Health (IMH), launched [mindline.sg](http://www.bit.ly/moeatwork) in July 2020 to enable self-care and management of whole-of-person wellbeing during the COVID-19 pandemic and beyond. Subsequently, Health Promotion Board has also joined as a strategic partner in this significant national initiative. Access this useful online tool using this [link](http://www.bit.ly/moeatwork) or the QR Code shown below. 
 
 <img src="/images/moe-staff-outreach(new).png"  
-style="width:40%">
+style="width:27%">
 
 #### Other Useful Links
 
