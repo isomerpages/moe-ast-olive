@@ -2,10 +2,10 @@ collections:
   icare:
     output: true
     order:
+      - iCARE.md
       - Appointments.md
       - FAQs.md
       - Feedback.md
       - Resources.md
       - Useful Helplines.md
       - Workshops.md
-      - iCARE.md
