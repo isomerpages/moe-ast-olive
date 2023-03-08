@@ -80,4 +80,3 @@ For all these HR matters, please contact the HR Partner for your school/HR Partn
 *   Appeal against a performance grade
 
 The aggrieved officer should follow the protocol on appealing against the given performance grade as set out in the respective school/HQ division.
-
