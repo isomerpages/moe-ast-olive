@@ -15,11 +15,11 @@ Counselling helps you think through your situation from new perspectives, clarif
 
 -----
 
-**2\. What to expect from counseling?**
+**2\. What to expect from counselling?**
 
 Making the decision to get help and address the issues you are facing is an important first step and it is commendable. Knowing what to expect from a counselling session will help you feel more prepared and less nervous about your first appointment.
 
-In your first session, it is likely that the counsellor will ask you some questions to gain an understanding of what is worrying you. All of the information obtained here will b useful to help you in future sessions. Some questions your counsellor may ask include:
+In your first session, it is likely that the counsellor will ask you some questions to gain an understanding of what is worrying you. All of the information obtained here will be useful to help you in future sessions. Some questions your counsellor may ask include:
 
 *   Why are you seeking counselling? - You will most likely be asked what it is that has brought you to counselling. This is your opportunity to discuss exactly why you are there and what you hope to gain from counselling.
 *   What is your current situation? - It is important to let your counsellor know your current situation, including any day-to-day issues you are facing and even your work and home life.
