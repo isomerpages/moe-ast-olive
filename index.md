@@ -2,7 +2,7 @@
 layout: homepage
 title: OLive Staff Well-Being
 description: OLive Staff Well-Being
-image: /images/moeolive_logo.png
+image: /images/logo.jpeg
 permalink: /
 notification: ""
 sections:
@@ -88,5 +88,6 @@ sections:
       image: /images/blackmores_head-00.jpeg
       alt: Well Being Programmes
 ---
+
 
 
