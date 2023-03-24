@@ -1,6 +1,6 @@
 title: OLive Staff Well-Being
 url: https://academyofsingaporeteachers.moe.edu.sg
-favicon: /images/moeolive_logo.png
+favicon: /images/logo.jpeg
 colors:
   primary-color: "#47612d"
   secondary-color: "#47612d"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d2ck8l3cjc64ct.amplifyapp.com
 prod: https://master.d2ck8l3cjc64ct.amplifyapp.com
-shareicon: /images/moeolive_logo.png
+shareicon: /images/logo.jpeg
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
