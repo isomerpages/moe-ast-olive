@@ -27,12 +27,10 @@ sections:
       alt: Retirement
   - infopic:
       title: MOE Health Screening
-      description: The Enhanced MOE Health Screening Programme will provide all MOE
-        officers aged 50 and above with a subsidy of up to $40 per person per
-        year....
+      description: "[Stay tuned] MOE Health Screening Programme 2023"
       button: Click to read more!
       url: /olive/spotlight/for-schools-info-moe-health-screening-programme/
-      image: /images/hs-fv-2022.png
+      image: /images/AY - 2023 HS FV Notice.png
       alt: MOE Health Screening
   - infopic:
       title: For Singles - SPARK Connections
