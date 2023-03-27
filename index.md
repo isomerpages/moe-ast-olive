@@ -17,7 +17,7 @@ sections:
       image: /images/online-speaker-series.jpeg
       alt: online speaker series
   - infopic:
-      title: Retirement-beach-small OLive Platinum Job Opportunities
+      title: OLive Platinum Job Opportunities
       description: If you are a retiring or retired MOE officer and are keen to
         receive email alerts on future job opportunities, please complete the
         online registration to...
@@ -88,7 +88,3 @@ sections:
       image: /images/blackmores_head-00.jpeg
       alt: Well Being Programmes
 ---
-
-
-
-
