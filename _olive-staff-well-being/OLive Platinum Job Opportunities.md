@@ -21,7 +21,113 @@ _ii. Search by **specific key words** e.g. “Lee Kuan Yew Award for All-Round
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
+
 **Latest Available Assignments**
+
+\[External Agencies\]
+
+Interested applicants must apply through this link [here](https://form.gov.sg/#!/6038bdf2b70f570011022dfb). We regret to inform that only shortlisted applicants will be notified via email.
+
+**1a. HQ Invigilators**
+
+**Roles and Responsibilities**
+
+ As an Invigilator, your primary role is to perform invigilation duties during the conduct of examinations/tests. You are to ensure the security of the examinations/tests that you are assigned to invigilate and to conduct the examinations/tests according to the rules and regulations as determined by SEAB. The key roles and responsibilities of HQ invigilators include:
+
+*   Attend training sessions before the start of the examinations/tests as required by SEAB.
+*   Attend briefing sessions prior to the start of each examination/test activity.
+*   Arrive punctually for the assigned examination/test sessions.
+*   Brief candidates by reading aloud the 'Instructions to Candidates’ prior to the start of the examination/test, which include informing candidates on prohibited items and behaviours to observe in the examination/test venues and attendance taking and reporting.
+*   Safeguard the examination/test materials and distribute the correct examination materials to the candidates.
+*   At the end of the examination/test, collect back all the answer scripts and examination/test materials, and ensure all examination/test materials are handed safely over to the Chief Presiding Examiner (CPE).
+*   Supervise candidates before or after the examinations/tests which include, assisting candidates in entering and leaving examination/test venue in a quiet and orderly manner and ensuring no examination/test materials are taken out of the examination/test venue without permission.
+*   Manage candidates in the examination/test venue to ensure order and safety.
+*   Undertake any other ad-hoc duties assigned by the CPE, PE and SEAB officers to support the smooth conduct of the examinations/tests.
+    
+    **Requirements**
+    
+*   Retired/Former Public/Civil Servant or has examination/test invigilation experience.
+*   A positive individual who possesses a high degree of integrity, strong collaborative skills and good interpersonal and communication skills.
+*   Meticulous, alert and able to carry out instructions.
+*   Able to manage candidates effectively and with sensitivity.
+    
+    **1b. Presiding Examiners**
+    
+    **Roles and Responsibilities**
+    
+     As a Presiding Examiner (PE), you will assist the Chief Presiding Examiner (CPE) in planning and managing the end-to-end conduct of the examinations/tests. The key roles and responsibilities of PEs include:
+    
+*   Attend training sessions before the start of the examinations/tests as required by SEAB.
+*   Attend briefing sessions prior to the start of each examination/test activity.
+*   Plan and manage examination logistical requirement and arrangement.
+*   Plan, deploy and manage exam personnel to carry out crowd control, attendance taking, etc.
+*   Ensure that the examination/test venue set-up is according to the examination/test requirement(s).
+*   Deploy and brief the invigilators prior to the examinations/tests.
+*   Guide and supervise invigilators as well as ensure invigilators are vigilant, mobile and attentive when they carry out the invigilation duties.
+*   Arrive punctually for the assigned examination/test sessions.
+*   Collect question papers from SEAB together with the CPE on the day of the examination/test and bring it to the assigned examination centre. Safeguard the examination/test materials and distribute it correctly to candidates.
+*   Manage candidates in the examination/test venue to ensure order and safety.
+*   Perform invigilation duties when required.
+*   At the end of the examination/test, collect back all the answer scripts and other examination/test materials, and ensure all examination/test materials are handed safely over to the Chief Presiding Examiner (CPE).
+*   Return the answer scripts together with CPE from the assigned examination centre to SEAB at the end of the examination/test day.
+*   Undertake any other ad-hoc duties assigned by the CPE/SEAB Officers to support the smooth conduct of examinations/tests.
+    
+    **Requirements**
+    
+*   Retired/Former Public/Civil Servant, or has examination/test invigilation experience.
+*   A positive individual who possesses a high degree of integrity.
+*   Meticulous, alert and able to carry out instructions.
+*   Excellent communication, interpersonal, leadership and collaboration skills.
+*   Able to effectively manage and guide team of invigilators
+    
+    **Please note:**
+    
+    1.  Invigilation duties or examination/test activities will take place in the following months:
+        *   Non-national examinations/tests period: February to November (Each assignment can last from 1 - 60 days)
+        *   Most invigilation duties or examination activities will take place during the National examinations period: June to November (Please refer to SEAB’s website [www.seab.gov.sg](http://www.seab.gov.sg/) for the exact examinations dates.)
+            
+    2.  Please note that deployment duties will depend on the examination/test requirements. SEAB will work with individuals to confirm the actual number of days to be deployed for invigilation duties. It is preferred that the individuals can perform as many duty days as possible.
+
+  
+
+\-------------------------------------------------------------------------------------------------------------------------------------------------
+
+\[External Agencies\]
+
+**My Legacy Trainers**
+
+Hiring Party: Public Service Divisions (PMO)
+
+**Job Description**
+
+We are looking for trainers who are able to deliver in-person workshops to senior citizens on basic End of Life planning matters (preparing for a Lasting Power of Attorney and Advanced Care Planning). Applicants are not required to have knowledge of the subject matter as we have developed a workshop curriculum and subject matter experts on-site to answer questions.  
+  
+Roles of a Trainer  
+1\. To deliver in-person training content on Lasting Power of Attorney (LPA) and Advanced Care Planning (ACP). This includes the following:    
+                 - Why and how to plan in advance   
+                 - Introduction to LPA and ACP – what are they, what they cover, suggested next steps   
+                 - How to use the My Legacy LPA-ACP Online Tool   
+2\. Facilitate a hands-on activity for participants to try completing the My Legacy LPA-ACP Online Tool
+
+**Requirements:** 
+
+All are welcome to apply as training is provided. 
+
+**Period of Engagement:**
+
+Ongoing until end December 2023
+
+Approx 2 - 5 times a month, depending on demand 
+
+**Contact:**
+
+Rasheedah Mahfuz  
+88166664  
+rasheedah\_mahfuz@psd.gov.sg
+
+  
+
+\-------------------------------------------------------------------------------------------------------------------------------------------------
 
 **\[MOE HQ\]**
 
