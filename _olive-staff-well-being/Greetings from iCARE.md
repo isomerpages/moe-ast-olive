@@ -19,5 +19,6 @@ Email :       moe_icare@moe.gov.sg 
 Tel:            6664 1392 / 6664 1393 (Weekdays from 8am to 5.30pm except public holidays)  
 
 ICONChat: MOE_iCARE_Counsellor1@moe.edu.sg                  
-
-                  MOE_iCARE_Counsellor2@moe.edu.sg
+                 MOE_iCARE_Counsellor2@moe.edu.sg
+									
+Onsite sessions are based at Academy of Singapore Teachers. You can make an appointment by emailing or calling iCARE.
