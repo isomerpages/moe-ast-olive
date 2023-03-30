@@ -30,7 +30,7 @@ sections:
       description: "[Stay tuned] MOE Health Screening Programme 2023"
       button: Click to read more!
       url: /olive/spotlight/for-schools-info-moe-health-screening-programme/
-      image: /images/AY - 2023 HS FV Notice.png
+      image: /images/AY - 2023 HS FV Notice banner.png
       alt: MOE Health Screening
   - infopic:
       title: For Singles - SPARK Connections
