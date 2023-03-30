@@ -85,4 +85,14 @@ sections:
       url: /olive/spotlight/well-being-programmes/
       image: /images/blackmores_head-00.jpeg
       alt: Well Being Programmes
+  - infopic:
+      title: Mass Litter Picking on SG Clean Day
+      subtitle: SG Clean Day (13 May 2023)
+      description: "MOE is supporting the SG Clean Day 2023 for a cleaner and better
+        Singapore and we encourage you to join this meaningful event with your
+        family and friends. "
+      button: Click to read more!
+      url: /olive-staff-well-being/sgcleanday23/
+      image: /images/SGCleanday_banner.jpg
+      alt: Image alt text
 ---
