@@ -67,6 +67,7 @@ sections:
       url: /olive/spotlight/olivewellness-micro-learning-units/
       image: /images/sw_-mlu-banner-(2).png
       alt: OLiveWellness MLUs
+      subtitle: "123"
   - infopic:
       title: Mental Wellness
       description: Mental wellness is important to one and all especially during
