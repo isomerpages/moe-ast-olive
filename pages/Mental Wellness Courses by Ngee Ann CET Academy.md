@@ -7,3 +7,6 @@ description: ""
 
 ### Link: [Ngee Ann CET Academy Courses](https://www.cet.np.edu.sg/)
 
+![](/images/np1-mwc.jpeg)
+
+![](/images/np2-mwc.jpeg)
