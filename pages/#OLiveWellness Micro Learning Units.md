@@ -203,17 +203,5 @@ Just type in the key words for the micro-learning units you are interested in af
   <tr>
     <td class="tg-zr06">The ABCs of Detox</td>
   </tr>
-  <tr>
-    <td class="tg-zr06"> </td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"> </td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"> </td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"> </td>
-  </tr>
 </tbody>
 </table>
