@@ -67,7 +67,6 @@ sections:
       url: /permalink/testing/
       image: /images/sw_-mlu-banner-(2).png
       alt: OLiveWellness MLUs
-      subtitle: why cannot
   - infopic:
       title: Mental Wellness
       description: Mental wellness is important to one and all especially during
