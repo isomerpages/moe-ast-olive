@@ -30,16 +30,8 @@ sections:
       description: "[Stay tuned] MOE Health Screening Programme 2023"
       button: Click to read more!
       url: /olive/spotlight/for-schools-info-moe-health-screening-programme/
-      image: /images/image008.png
+      image: /images/AY - 2023 HS FV Notice banner.png
       alt: MOE Health Screening
-  - infopic:
-      title: For Singles - SPARK Connections
-      description: Are you ready to add colours and excitement to your life? Join us
-        and spark a new lifestyle with access to exclusive singles events!
-      button: Click to read more!
-      url: /olive/spotlight/singles-exclusive-events/
-      image: /images/sparksconnection.png
-      alt: Sparks Connection
   - infopic:
       title: MOE supports President's Challenge
       description: You can now make a difference in the lives of beneficiaries
@@ -85,4 +77,14 @@ sections:
       url: /olive/spotlight/well-being-programmes/
       image: /images/blackmores_head-00.jpeg
       alt: Well Being Programmes
+  - infopic:
+      title: Mass Litter Picking on SG Clean Day
+      subtitle: SG Clean Day 2023
+      description: MOE is supporting the SG Clean Day 2023 for a cleaner and better
+        Singapore and we encourage you to join this meaningful event with your
+        family and friends.
+      button: Click to read more!
+      url: /olive-staff-well-being/sgcleanday23/
+      image: /images/SGCleanday_banner.jpg
+      alt: Image alt text
 ---
