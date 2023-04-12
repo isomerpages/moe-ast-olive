@@ -1,15 +1,12 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/moeolive_logo.png
 links:
+  - title: About OLive Staff Well-Being
+    url: /olive/
+  - title: Staff Well-Being Team
+    collection: staff-well-being-team
+  - title: iCare
+    collection: icare
+  - title: MERSC
+    url: /olive/mesrc/
   - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+    url: /olive/contact-us/
