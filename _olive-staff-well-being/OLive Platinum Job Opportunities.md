@@ -1742,57 +1742,6 @@ To apply, please reach out to SEND with your details via FormSG ([https://form.g
 
 -----
 
-
-**<u>MOE Kindergarten Literacy Support Coach</u>**
-
-Hiring Division: Schools Division
-
-Job Description:
-
-As an MK Literacy Support Coach, you will be mentoring MOE Kindergarten Educators (MKEs) and supporting them in providing literacy support (e.g., differentiated instruction) to the class and identified children. You will also have the opportunity to provide feedback and make recommendations to enhance MK literacy instruction and MK literacy support. &nbsp;
-
-Your key roles and responsibilities include coaching MKEs and conducting regular professional development on literacy support (developmental lesson observations and sharing sessions):
-
-*   Conduct at least two developmental lesson observations per MKE
-*   Facilitate a centre-based sharing on-a-needs basis
-*   Together with the Pre-school Literacy Support Co-ordinator, plan and conduct workshops for MKEs&nbsp;
-
-_\[MK&nbsp;Literacy Support Coach will be deployed to the MK for at least&nbsp;a&nbsp;year as more MKEs are being recruited and trained.\]_
-
-Interested applicants should have:
-
-*   A&nbsp;pleasant disposition
-*   Mentoring experience
-*   Good knowledge of intervention approaches and word-level skills
-*   Experience with literacy support/ intervention programmes at the lower primary level E.g., SH/EL, ST/EL, LSC
-
-Zone: All zones
-
-Subject Area: English Language
-
-Level required:&nbsp;KP or ST (GEO 5 or SEO 1)
-
-Commencement Date:&nbsp;May 2022
-
-Commitment required:&nbsp;Contract for Service (Duration of 1 year offered but 2 years preferred)
-
-Frequency: Flexible work hours (max 3.5 days per week)
-
-Training to be provided by Division: On-the-job training&nbsp;is provided&nbsp;to familiarise&nbsp;the&nbsp;officer with MK Starlight (EL) Literacy.
-
-Contact person:
-
-Ms Aline Ng
-
-Aline\_NG@moe.gov.sg
-
-6838 7318
-
-Application closing date: Ongoing
-
------
-
-
 **<u>Family befrienders for UPLIFT Community Network (UCN)</u>**
 
 UPLIFT is an initiative spearheaded by the Ministry of Education (MOE) and supported by the Ministry of Social and Family Development (MSF) to strengthen support for students from disadvantaged family backgrounds. The UPLIFT Community Network (UCN) seeks to match the needs of disadvantaged students and their families to local programmes and resources, through a Town-Level Coordinator (TLC) stationed in the Social Service Office (SSO). The UCN currently operates in Bedok/Geylang Serai, Boon Lay, Bukit Merah/Kreta Ayer, Chua Chu Kang, Punggol, Sengkang, Toa Payoh/Jalan Besar, Woodlands and Yishun.  
