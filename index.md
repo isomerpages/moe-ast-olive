@@ -39,7 +39,7 @@ sections:
         campaign in just...
       button: Click to read more!
       url: /olive/spotlight/moe-supports-presidents-challenge-2022/
-      image: /images/empowering-brighter-future-thumbnail.png
+      image: /images/moe supports pc2023 banner.jpg
       alt: Empowering a brighter future
   - infopic:
       title: Greetings from iCARE
