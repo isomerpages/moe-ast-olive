@@ -87,4 +87,12 @@ sections:
       url: /olive-staff-well-being/sgcleanday23/
       image: /images/SGCleanday_banner.jpg
       alt: Image alt text
+  - infopic:
+      title: "[For singles] SPARK Connections 2023"
+      description: Spark Connections is a lifestyle-centric events platform for
+        singles to network and make new friends!
+      button: Click to read more!
+      url: https://attractions.changirecommends.com/ticket/city/Spark%20Connections%20Singapore/162/1
+      image: /images/sdn spark connections banner 2023.PNG
+      alt: Image alt text
 ---
