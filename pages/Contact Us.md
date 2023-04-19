@@ -36,5 +36,5 @@ iCARE offers counselling services and workshops for MOE staff on social, emotion
 
 ### iCARE
 
-[moe\_icare@moe.gov.sg](mailto:moe_icare@moe.gov.sg)<br>[academyofsingaporeteachers.moe.edu.sg/olive/icare](https://academyofsingaporeteachers.moe.edu.sg/olive/icare)<br>
+[moe\_icare@moe.gov.sg](mailto:moe_icare@moe.gov.sg)<br>[https://olive.moe.edu.sg/olive/icare/](https://olive.moe.edu.sg/olive/icare/)<br>
 [6664 1392 / 6664 1393 (Weekdays from 8am-5.30pm except public holidays)](tel:6664 1392 / 6664 1393 (Weekdays from 8am-5.30pm except public holidays))
