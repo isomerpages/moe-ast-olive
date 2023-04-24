@@ -3,7 +3,6 @@ title: OLive Platinum Job Opportunities
 permalink: /olive/spotlight/olive-platinum-job-opportunities/
 description: ""
 ---
-
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vSbFiboIhamiTbY2jmUjcimw3noKHALRj3nCxcVUawx7hwSG6emMKNnS6I7m5TTNh43_tT6Rq_2FD5o/pub?embedded=true" height="700px" width="1000px"></iframe>
 
 
