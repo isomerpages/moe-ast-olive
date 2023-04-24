@@ -7,7 +7,12 @@ If you are keen to receive email alerts on future job opportunities, please comp
 
 Click here:&nbsp;[OLive Platinum Community Online Registration](https://form.gov.sg/5c0f62dd0690e60017a86c67)
 
+[Click here to access the job opportunities](https://docs.google.com/document/d/e/2PACX-1vSbFiboIhamiTbY2jmUjcimw3noKHALRj3nCxcVUawx7hwSG6emMKNnS6I7m5TTNh43_tT6Rq_2FD5o/pub)
+
 Existing officers who wish to find out more about MOE's re-employment policies can refer to MOE HR Online (under the 'Career' section of the Intranet webpage).&nbsp;
+
+
+
 
 **_Tip:_**
 
