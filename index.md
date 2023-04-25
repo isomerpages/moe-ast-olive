@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero banner for olive website 2023 (1000 × 400 px).gif
+      background: /images/hero banner for olive website 2023 (1000 × 400 px) new.gif
   - infopic:
       title: Online Speaker Series SWB Online Speaker Series
       description: For your convenience and safety, our well-being programmes are
