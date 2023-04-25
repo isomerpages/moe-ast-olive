@@ -57,7 +57,7 @@ sections:
         OPAL2.0 to recharge...
       button: Click to read more!
       url: /olivewellness-micro-learning-units/
-      image: /images/sw_-mlu-banner-(2).png
+      image: /images/opal mlu thumbnail.png
       alt: OLiveWellness MLUs
   - infopic:
       title: Mental Wellness
