@@ -38,7 +38,7 @@ sections:
         supported by the President's Challenge via our MOE online fundraising
         campaign in just...
       button: Click to read more!
-      url: /olive/spotlight/moe-supports-presidents-challenge-2022/
+      url: /olive/spotlight/moe-supports-presidents-challenge-2023/
       image: /images/moe supports pc2023 banner.jpg
       alt: Empowering a brighter future
   - infopic:
