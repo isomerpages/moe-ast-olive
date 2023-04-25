@@ -39,7 +39,7 @@ sections:
         campaign in just...
       button: Click to read more!
       url: /olive/spotlight/moe-supports-presidents-challenge-2022/
-      image: /images/empowering-brighter-future-thumbnail.png
+      image: /images/moe supports pc2023 banner.jpg
       alt: Empowering a brighter future
   - infopic:
       title: Greetings from iCARE
@@ -57,7 +57,7 @@ sections:
         OPAL2.0 to recharge...
       button: Click to read more!
       url: /olivewellness-micro-learning-units/
-      image: /images/sw_-mlu-banner-(2).png
+      image: /images/opal mlu thumbnail.png
       alt: OLiveWellness MLUs
   - infopic:
       title: Mental Wellness
@@ -86,5 +86,13 @@ sections:
       button: Click to read more!
       url: /olive-staff-well-being/sgcleanday23/
       image: /images/SGCleanday_banner.jpg
+      alt: Image alt text
+  - infopic:
+      title: "[For singles] SPARK Connections 2023"
+      description: Spark Connections is a lifestyle-centric events platform for
+        singles to network and make new friends!
+      button: Click to read more!
+      url: https://attractions.changirecommends.com/ticket/city/Spark%20Connections%20Singapore/162/1
+      image: /images/sdn spark connections banner 2023.PNG
       alt: Image alt text
 ---
