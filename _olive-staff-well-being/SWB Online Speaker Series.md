@@ -11,6 +11,16 @@ You may refer to the ZOOM user Guide below for details to access sessions conduc
 
 <style>  
 img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img src="/images/ay%20oss%20feb%202022.jpg" style="width:50%;">  
+
+<p>
+<style>  
+img {  
     display: block;  
   margin-left: auto;  
   margin-right: auto; 
@@ -18,14 +28,5 @@ img {
 </style>  
 <img src="/images/ay%20&amp;%20ra%20oss%20term%203%20(jul).jpg" style="width:50%;">  
 
-<p>
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/ay%20oss%20feb%202022.jpg" style="width:50%;">  
 
 </p>
