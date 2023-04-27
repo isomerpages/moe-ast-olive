@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/astOlive.gif
+      background: /images/hero banner for olive website 2023 (1000 × 400 px) new.gif
   - infopic:
       title: Online Speaker Series SWB Online Speaker Series
       description: For your convenience and safety, our well-being programmes are
@@ -38,7 +38,7 @@ sections:
         supported by the President's Challenge via our MOE online fundraising
         campaign in just...
       button: Click to read more!
-      url: /olive/spotlight/moe-supports-presidents-challenge-2022/
+      url: /olive/spotlight/moe-supports-presidents-challenge-2023/
       image: /images/moe supports pc2023 banner.jpg
       alt: Empowering a brighter future
   - infopic:

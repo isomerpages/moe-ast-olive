@@ -1,6 +1,6 @@
 ---
-title: MOE supports President's Challenge 2022
-permalink: /olive/spotlight/moe-supports-presidents-challenge-2022/
+title: MOE supports President's Challenge 2023
+permalink: /olive/spotlight/moe-supports-presidents-challenge-2023/
 description: ""
 ---
 <style>  
@@ -10,15 +10,14 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/pc2022.jpg" alt="MOE supports President's Challenge 2022" style="width:50%;">  
+<img src="/images/moe%20supports%20pc2023%20banner.jpg" alt="MOE supports President's Challenge 2023" style="width:100%;">  
   
-</body>
 
-In support of the President's Challenge 2022, the MOE Community Involvement Programme (MCIP) Committee is coordinating MOE's efforts in supporting this cause through fundraising activities such as the PC Heart Train/Bus Campaign, OLive Steps Challenge for Charity 2022 and OLive Fiesta.  
+In support of the President's Challenge 2023, the MOE Community Involvement Programme (MCIP) Committee is coordinating MOE's efforts in supporting this cause through fundraising activities such as the PC Heart Train/Bus Campaign, OLive Run and OLive Fiesta.  
   
 "The COVID-19 pandemic has hastened Singapore's digitalisation efforts, but also has the potential to widen the digital divide. The President's Challenge hopes to support efforts to build a digitally inclusive society, where all Singaporeans feel excited, empowered and enriched by digital technologies." - President Halimah Yacob
 
-You can now contribute towards President's Challenge at your own convenience via our MOE online fundraising campaign on Giving.sg ([https://www.giving.sg/campaigns/moepc2022](https://www.giving.sg/campaigns/moepc2022)) in only four simple steps!  
+You can now contribute towards President's Challenge at your own convenience via our MOE online fundraising campaign on Giving.sg ([https://www.giving.sg/campaigns/moepc2023](https://www.giving.sg/campaigns/moepc2023)) in only four simple steps!  
   
 Step 1: <br> 
 One-time creation of an account under Giving.sg.  
