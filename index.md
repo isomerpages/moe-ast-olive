@@ -13,7 +13,7 @@ sections:
       description: Look out for our publicity on our well-being programmes!
       button: Click to read more!
       url: /olive/spotlight/swb-online-speaker-series/
-      image: /images/online-speaker-series.jpeg
+      image: /images/olive speaker series thumbnail.png
       alt: online speaker series
   - infopic:
       title: OLive Platinum Job Opportunities
