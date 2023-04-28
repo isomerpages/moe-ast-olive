@@ -35,7 +35,7 @@ sections:
       title: MOE supports President's Challenge
       description: You can now make a difference in the lives of beneficiaries
         supported by the President's Challenge via our MOE online fundraising
-        campaign in just...
+        campaign.
       button: Click to read more!
       url: /olive/spotlight/moe-supports-presidents-challenge-2023/
       image: /images/moe supports pc2023 banner.jpg
