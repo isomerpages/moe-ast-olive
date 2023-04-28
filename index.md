@@ -18,7 +18,7 @@ sections:
   - infopic:
       title: OLive Platinum Job Opportunities
       description: If you are a retiring or retired MOE officer, join our OLive
-        Platinum Community to email alerts on future job opportunities.
+        Platinum Community to receive email alerts on future job opportunities.
       button: Click to read more!
       url: /olive/spotlight/olive-platinum-job-opportunities/
       image: /images/retirement-beach-small.jpeg
