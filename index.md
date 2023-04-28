@@ -7,20 +7,18 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero banner for olive website 2023 (1000 × 400 px) new.gif
+      background: /images/hero banner 2023.png
   - infopic:
-      title: Online Speaker Series SWB Online Speaker Series
-      description: For your convenience and safety, our well-being programmes are
-        still mainly conducted online. Look out for our monthly publicity on...
+      title: OLive Speaker Series
+      description: Look out for our publicity on upcoming well-being programmes!
       button: Click to read more!
       url: /olive/spotlight/swb-online-speaker-series/
-      image: /images/online-speaker-series.jpeg
+      image: /images/olive speaker series thumbnail.png
       alt: online speaker series
   - infopic:
       title: OLive Platinum Job Opportunities
-      description: If you are a retiring or retired MOE officer and are keen to
-        receive email alerts on future job opportunities, please complete the
-        online registration to...
+      description: If you are a retiring or retired MOE officer, join our OLive
+        Platinum Community to receive email alerts on future job opportunities.
       button: Click to read more!
       url: /olive/spotlight/olive-platinum-job-opportunities/
       image: /images/retirement-beach-small.jpeg
@@ -36,7 +34,7 @@ sections:
       title: MOE supports President's Challenge
       description: You can now make a difference in the lives of beneficiaries
         supported by the President's Challenge via our MOE online fundraising
-        campaign in just...
+        campaign.
       button: Click to read more!
       url: /olive/spotlight/moe-supports-presidents-challenge-2023/
       image: /images/moe supports pc2023 banner.jpg
@@ -44,8 +42,8 @@ sections:
   - infopic:
       title: Greetings from iCARE
       description: Feeling upset and need a listening ear? Entertaining negative
-        thoughts that you are all alone to face life's challenges? iCARE
-        officers wish to connect...
+        thoughts that you are all alone to face life's challenges? Connect with
+        our iCARE officers today.
       button: Click to read more!
       url: /olive/spotlight/greetings-from-icare/
       image: /images/icare.jpeg
@@ -53,26 +51,16 @@ sections:
   - infopic:
       title: "#OLiveWellness MLUs"
       description: Need a perk-me-up after sitting at your home work area for hours?
-        Take a break and pick one of our well-being Micro-learning Units from
-        OPAL2.0 to recharge...
+        Take a break and re-energise with our well-being Micro-learning Units
+        from OPAL2.0.
       button: Click to read more!
       url: /olivewellness-micro-learning-units/
       image: /images/opal mlu thumbnail.png
       alt: OLiveWellness MLUs
   - infopic:
-      title: Mental Wellness
-      description: Mental wellness is important to one and all especially during
-        trying times. Care for yourself and your peers by attending some of
-        these courses brought to...
-      button: Click to read more!
-      url: /olive/spotlight/mental-wellness-courses-by-ngee-ann-cet-academy/
-      image: /images/workshop-thumbnail72e754fc655943ea817670d5b3dbf1e8.png
-      alt: Mental Wellness
-  - infopic:
-      title: Well Being Programmes for Schools and Divisions
-      description: "Well-being Programmes for Schools and Division: To find out a list
-        of programmes available for your schools and division, check out the
-        list of examples...."
+      title: Well-being Programmes for Schools and Divisions
+      description: Check out these resources on well-being programmes available for
+        your schools and division.
       button: CLick to read more!
       url: /olive/spotlight/well-being-programmes/
       image: /images/blackmores_head-00.jpeg
@@ -88,11 +76,12 @@ sections:
       image: /images/SGCleanday_banner.jpg
       alt: Image alt text
   - infopic:
-      title: "[For singles] SPARK Connections 2023"
+      title: SPARK Connections 2023
       description: Spark Connections is a lifestyle-centric events platform for
-        singles to network and make new friends!
+        singles to network and make new friends.
       button: Click to read more!
       url: https://attractions.changirecommends.com/ticket/city/Spark%20Connections%20Singapore/162/1
       image: /images/sdn spark connections banner 2023.PNG
       alt: Image alt text
+      subtitle: For singles only
 ---
