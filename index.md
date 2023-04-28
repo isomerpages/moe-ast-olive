@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero banner for olive website 2023 (1000 × 400 px) new.gif
+      background: /images/hero banner 2023.png
   - infopic:
       title: OLive Speaker Series
       description: Look out for our publicity on upcoming well-being programmes!
