@@ -42,8 +42,8 @@ sections:
   - infopic:
       title: Greetings from iCARE
       description: Feeling upset and need a listening ear? Entertaining negative
-        thoughts that you are all alone to face life's challenges? iCARE
-        officers wish to connect...
+        thoughts that you are all alone to face life's challenges? Connect with
+        our iCARE officers today.
       button: Click to read more!
       url: /olive/spotlight/greetings-from-icare/
       image: /images/icare.jpeg
@@ -52,16 +52,15 @@ sections:
       title: "#OLiveWellness MLUs"
       description: Need a perk-me-up after sitting at your home work area for hours?
         Take a break and pick one of our well-being Micro-learning Units from
-        OPAL2.0 to recharge...
+        OPAL2.0!
       button: Click to read more!
       url: /olivewellness-micro-learning-units/
       image: /images/opal mlu thumbnail.png
       alt: OLiveWellness MLUs
   - infopic:
       title: Well Being Programmes for Schools and Divisions
-      description: "Well-being Programmes for Schools and Division: To find out a list
-        of programmes available for your schools and division, check out the
-        list of examples...."
+      description: Come check out these resources for well-being programmes available
+        for your schools and division.
       button: CLick to read more!
       url: /olive/spotlight/well-being-programmes/
       image: /images/blackmores_head-00.jpeg
@@ -77,11 +76,12 @@ sections:
       image: /images/SGCleanday_banner.jpg
       alt: Image alt text
   - infopic:
-      title: "[For singles] SPARK Connections 2023"
+      title: SPARK Connections 2023
       description: Spark Connections is a lifestyle-centric events platform for
-        singles to network and make new friends!
+        singles to network and make new friends.
       button: Click to read more!
       url: https://attractions.changirecommends.com/ticket/city/Spark%20Connections%20Singapore/162/1
       image: /images/sdn spark connections banner 2023.PNG
       alt: Image alt text
+      subtitle: For singles only
 ---
