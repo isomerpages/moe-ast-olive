@@ -9,9 +9,8 @@ sections:
   - hero:
       background: /images/hero banner for olive website 2023 (1000 × 400 px) new.gif
   - infopic:
-      title: Online Speaker Series SWB Online Speaker Series
-      description: For your convenience and safety, our well-being programmes are
-        still mainly conducted online. Look out for our monthly publicity on...
+      title: OLive Speaker Series
+      description: Look out for our publicity on our well-being programmes!
       button: Click to read more!
       url: /olive/spotlight/swb-online-speaker-series/
       image: /images/online-speaker-series.jpeg
