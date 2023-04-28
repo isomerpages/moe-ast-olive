@@ -16,7 +16,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/ay%20oss%20feb%202022.jpg" style="width:50%;">  
+<img src="/images/ay%20oss%20feb%202022.jpg" style="width:60%;">  
 
 <p>
 <style>  
@@ -26,7 +26,7 @@ img {
   margin-right: auto; 
 }  
 </style>  
-<img src="/images/ay%20&amp;%20ra%20oss%20term%203%20(jul).jpg" style="width:50%;">  
+<img src="/images/ay%20&amp;%20ra%20oss%20term%203%20(jul).jpg" style="width:60%;">  
 
 
 </p>
