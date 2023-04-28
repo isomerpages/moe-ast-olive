@@ -10,7 +10,7 @@ sections:
       background: /images/hero banner for olive website 2023 (1000 × 400 px) new.gif
   - infopic:
       title: OLive Speaker Series
-      description: Look out for our publicity on our well-being programmes!
+      description: Look out for our publicity on upcoming well-being programmes!
       button: Click to read more!
       url: /olive/spotlight/swb-online-speaker-series/
       image: /images/olive speaker series thumbnail.png
@@ -58,9 +58,9 @@ sections:
       image: /images/opal mlu thumbnail.png
       alt: OLiveWellness MLUs
   - infopic:
-      title: Well Being Programmes for Schools and Divisions
-      description: Come check out these resources for well-being programmes available
-        for your schools and division.
+      title: Well-being Programmes for Schools and Divisions
+      description: Check out these resources on well-being programmes available for
+        your schools and division.
       button: CLick to read more!
       url: /olive/spotlight/well-being-programmes/
       image: /images/blackmores_head-00.jpeg
