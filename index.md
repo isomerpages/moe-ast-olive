@@ -84,4 +84,10 @@ sections:
       image: /images/sdn spark connections banner 2023.PNG
       alt: Image alt text
       subtitle: For singles only
+  - infopic:
+      title: Education Symposium 2023
+      description: Please access infographic for more information you if you are
+        interested to attend this education symposium.
+      image: /images/symposium poster_jun2023 thumbnail.jpeg
+      alt: Image alt text
 ---
