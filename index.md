@@ -90,4 +90,6 @@ sections:
         interested to attend this education symposium.
       image: /images/symposium poster_jun2023 thumbnail.jpeg
       alt: Image alt text
+      url: /edu-symposium2023/
+      button: Click to read more!
 ---
