@@ -35,7 +35,7 @@ Click on the "Donate Today" button and your donation is on its way to make a dif
 <br>
 <br>
   
-Why should I donate to President's Challenge?  
+**Why should I donate to President's Challenge?**
 
 100% of donations raised under President’s Challenge go to charities, causes and social service organisations supported by President’s Challenge.  
   
