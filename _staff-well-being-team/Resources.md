@@ -9,7 +9,7 @@ Social
 Bonding with family and friends  
   
 [www.csc.sg](http://www.csc.sg/)  <br>
-The Civil Service Club is the home club for the Public Service Officers and organising body of many Public Service activities and the STAR Games, a series of competitive sports played annually, by representatives from the different Ministries and Statutory Boards, for networking and honour. The Club also offers an array of facilities, activities and venue for events, where individuals and families can come together for unanimous fun and quality time.
+The Civil Service Club is the home club for the Public Service Officers and organising body of many Public Service activities and the STAR Games, a series of competitive sports played annually, by representatives from the different Ministries and Statutory Boards, for networking and honour.&nbsp;The Club also offers an array of facilities, activities and venue for events, where individuals and families can come together for unanimous fun and quality time.
 
   
 [www.sdn.sg](http://www.sdn.sg/) <br>
@@ -24,7 +24,7 @@ Enhancing health and wellness
   
 
 [www.mesrc.net](http://www.mesrc.net/) <br>
-The Ministry of Education Sports and Recreation Club (MESRC) is a society which promotes sports, social and recreational activities amongst members. MESRC Clubhouse @ Evans operates a full range of sports and recreation facilities to cater to the needs of all its members.  
+The Ministry of Education Sports and Recreation Club (MESRC) is a society which promotes sports, social and recreational activities amongst members.&nbsp;MESRC Clubhouse @ Evans operates a full range of sports and recreation facilities to cater to the needs of all its members.  
 
   
 
@@ -33,11 +33,11 @@ The Health Promotion Board (HPB) is a government organisation committed to promo
 
   
 
-[Chair aerobics (PESTA) – by Ms Cassandra Siua and Ms Diana Goh (7:11 mins)](https://drive.google.com/file/d/1h8emer1NzmBcN-QuUih1dZcjAisO1AZk/view?usp=sharing) 
+[Chair aerobics (PESTA) – by Ms Cassandra Siua and Ms Diana Goh (7:11 mins)](https://drive.google.com/file/d/1h8emer1NzmBcN-QuUih1dZcjAisO1AZk/view?usp=sharing)&nbsp;
 
   
 
-[Chair aerobics (PESTA) – by Mr Teng Tse Seng, Jia En and Abigail (17:26 mins)](https://drive.google.com/file/d/1ZMXIVhDhXBMEh6_9k81aBTe4sWp96VzE/view?usp=sharing)   
+[Chair aerobics (PESTA) – by Mr Teng Tse Seng, Jia En and Abigail (17:26 mins)](https://drive.google.com/file/d/1ZMXIVhDhXBMEh6_9k81aBTe4sWp96VzE/view?usp=sharing)&nbsp;  
 
   
 
@@ -65,7 +65,7 @@ Caring for the community
   
 
 [www.giving.sg](http://www.giving.sg/) <br>
-Giving.sg is created and powered by the [National Volunteer & Philanthropy Centre (NVPC).](https://www.nvpc.org.sg/) The NVPC is an independent, not-for-profit organisation that advocates giving in Singapore. Its visions is to be a Giving Nation and to cultivate a strong culture of contribution where giving is part of every Singaporean’s DNA. NVPC is also a supporter of the #SGCares movement, which believes in building a more caring and inclusive home for all. By inspiring and supporting one another, we can show the world that we are a nation with a big heart.
+Giving.sg is created and powered by the&nbsp;[National Volunteer &amp; Philanthropy Centre (NVPC).](https://www.nvpc.org.sg/)&nbsp;The NVPC is an independent, not-for-profit organisation that advocates giving in Singapore. Its visions is to be a Giving Nation and to cultivate a strong culture of contribution where giving is part of every Singaporean’s DNA. NVPC is also a supporter of the #SGCares movement, which believes in building a more caring and inclusive home for all. By inspiring and supporting one another, we can show the world that we are a nation with a big heart.
 
 [www.pc.org.sg](http://www.pc.org.sg/) <br>
 President's Challenge is a movement supported by the kindness and generosity of people from all walks of life, regardless of culture, religion or family background, to help those less fortunate. It is the President's call to the nation to do their part to build a more caring and inclusive society.
@@ -85,19 +85,22 @@ Embracing balance and positivity
 
 [iCARE resources](https://www.academyofsingaporeteachers.moe.gov.sg/professional-growth/staff-well-being/icare/resources)
 
-iCARE offers counselling services and workshops for the individual’s social, emotional and psychological growth. The aim is to enhance staff well-being and build personal and professional capacity.  
+iCARE offers counselling services and workshops for the individual’s social, emotional and psychological growth.&nbsp;The aim is to enhance staff well-being and build personal and professional capacity.  
 
-[MOH Office for Healthcare Transformation (MOHT) resources](http://www.bit.ly/moeatwork)
+[mindline at work for MOE](https://www.mindline.sg/moe)
 
-MOHT, with its partner organisations Ministry of Social and Family Development (MSF), National Council of Social Service (NCSS) and Institute of Mental Health (IMH), launched [mindline.sg](http://www.bit.ly/moeatwork) in July 2020 to enable self-care and management of whole-of-person wellbeing during the COVID-19 pandemic and beyond. Subsequently, Health Promotion Board has also joined as a strategic partner in this significant national initiative. Access this useful online tool using this [link](http://www.bit.ly/moeatwork) or the QR Code shown below. 
+This resource is specially created for MOE staff in collaboration with MOH Office for Healthcare Transformation (MOHT). Please access this useful online resource via this [link](https://www.mindline.sg/moe "https://www.mindline.sg/moe") or the QR Code shown below for the following and more:
 
-<img src="/images/moe-staff-outreach(new).png"  
-style="width:27%">
+*   Links to curated online articles, videos and comic relief
+*   Clinically validated self-assessment tool
+*   Helplines
+
+<img src="/images/mindline-at-work-moe.png" style="width:27%">
 
 #### Other Useful Links
 
 [IM Guidelines on the Use of the Staff Welfare Fund](https://intranet.mof.gov.sg/portal/IM/Themes/Staff/2N-Other-Benefits/Topics/Appendix-N1-EXAMPLES-OF-STAFF-WELFARE-ACTIVITIES.aspx)
 
-Govt Intranet > IM Home > Themes > Staff > 2N Other Benefits > Appendix N1 - Examples of Staff Welfare Activities
+Govt Intranet &gt; IM Home &gt; Themes &gt; Staff &gt; 2N Other Benefits &gt; Appendix N1 - Examples of Staff Welfare Activities
 
 (only accessible via WOG or SSOE devices)

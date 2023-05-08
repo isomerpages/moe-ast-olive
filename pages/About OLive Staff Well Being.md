@@ -3,11 +3,21 @@ title: About OLive Staff Well Being
 permalink: /olive/
 description: ""
 ---
-At MOE, we recognise that the well-being of our officers will directly affect their capacity and motivation for work. We believe in nurturing a workplace culture that would help our officers better manage their well-being, work and family commitments effectively. In addressing staff well-being, MOE subscribes to the OLive approach which stands for “Opportunities for Lives to be ignited with vitality and exuberance”.  
+At MOE, we recognise that the well-being of our officers will directly affect their capacity and motivation for work. We believe in nurturing a workplace culture that would help our officers better manage their well-being, work and family commitments effectively. In addressing staff well-being, MOE subscribes to the OLive approach which stands for “Opportunities for&nbsp;Lives to be&nbsp;ignited with&nbsp;vitality and&nbsp;exuberance”.  
 
 #### What is OLive?
 
 OLive is an integrated approach to developing and enhancing staff well-being. It looks into the social, physical, intellectual, community and emotional (SPICE) development of staff so as to enable them to achieve well-being in different aspects of their lives – self, family, work, community and environment.
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img src="/images/spice%20framework.PNG" alt="OLive Staff Well Being" style="width:50%;">
+
 
 <p style="text-align:center;"><strong>OLive Philosophy</strong></p>
 
@@ -29,6 +39,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/moeolive_logo.png" alt="OLive Staff Well Being" style="width:35%;">  
-  
-</body>
+<img src="/images/moeolive_logo.png" alt="OLive Staff Well Being" style="width:35%;">
