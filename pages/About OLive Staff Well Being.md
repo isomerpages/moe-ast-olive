@@ -9,7 +9,15 @@ At MOE, we recognise that the well-being of our officers will directly affect th
 
 OLive is an integrated approach to developing and enhancing staff well-being. It looks into the social, physical, intellectual, community and emotional (SPICE) development of staff so as to enable them to achieve well-being in different aspects of their lives – self, family, work, community and environment.
 
-![](/images/spice%20framework.PNG)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img src="/images/spice%20framework.PNG" alt="OLive Staff Well Being" style="width:50%;">
+
 
 <p style="text-align:center;"><strong>OLive Philosophy</strong></p>
 
