@@ -9,6 +9,14 @@ sections:
   - hero:
       background: /images/hero banner 2023.png
   - infopic:
+      title: OLive Family Symposium 2023
+      description: Join us for the inaugural OLive Family Symposium and enjoy learning
+        and bonding with your family through your preferred workshop!
+      button: Click to read more!
+      url: https://sites.google.com/view/olive-family-symposium23/home
+      image: /images/olive family symposium banner 2.png
+      alt: Image alt text
+  - infopic:
       title: OLive Speaker Series
       description: Look out for our publicity on upcoming well-being programmes!
       button: Click to read more!
@@ -82,12 +90,4 @@ sections:
       alt: Image alt text
       url: /edu-symposium2023/
       button: Click to read more!
-  - infopic:
-      title: OLive Family Symposium 2023
-      description: Join us for the inaugural OLive Family Symposium and enjoy learning
-        and bonding with your family through your preferred workshop!
-      button: Click to read more!
-      url: https://sites.google.com/view/olive-family-symposium23/home
-      image: /images/olive family symposium banner 2.png
-      alt: Image alt text
 ---
