@@ -9,6 +9,14 @@ sections:
   - hero:
       background: /images/hero banner 2023.png
   - infopic:
+      title: OLive Family Symposium 2023
+      description: Join us for the inaugural OLive Family Symposium and enjoy learning
+        and bonding with your family through your preferred workshop!
+      button: Click to read more!
+      url: https://sites.google.com/view/olive-family-symposium23/home
+      image: /images/olive family symposium banner 2.png
+      alt: Image alt text
+  - infopic:
       title: OLive Speaker Series
       description: Look out for our publicity on upcoming well-being programmes!
       button: Click to read more!
@@ -65,16 +73,6 @@ sections:
       url: /olive/spotlight/well-being-programmes/
       image: /images/blackmores_head-00.jpeg
       alt: Well Being Programmes
-  - infopic:
-      title: Mass Litter Picking on SG Clean Day
-      subtitle: SG Clean Day 2023
-      description: MOE is supporting the SG Clean Day 2023 for a cleaner and better
-        Singapore and we encourage you to join this meaningful event with your
-        family and friends.
-      button: Click to read more!
-      url: /olive-staff-well-being/sgcleanday23/
-      image: /images/SGCleanday_banner.jpg
-      alt: Image alt text
   - infopic:
       title: SPARK Connections 2023
       description: Spark Connections is a lifestyle-centric events platform for
