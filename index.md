@@ -88,6 +88,6 @@ sections:
         and bonding with your family through your preferred workshop!
       button: Click to read more!
       url: https://sites.google.com/view/olive-family-symposium23/home
-      image: /images/olive family symposium banner.png
+      image: /images/olive family symposium banner 2.png
       alt: Image alt text
 ---
