@@ -2,7 +2,6 @@ collections:
   olive-staff-well-being:
     output: true
     order:
-      - OLive Family Symposium.md
       - SWB OLive Speaker Series.md
       - OLive Platinum Job Opportunities.md
       - MOE Health Screening Programme.md
