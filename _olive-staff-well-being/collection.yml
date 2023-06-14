@@ -2,7 +2,6 @@ collections:
   olive-staff-well-being:
     output: true
     order:
-      - Read for Books.md
       - SWB OLive Speaker Series.md
       - OLive Platinum Job Opportunities.md
       - MOE Health Screening Programme.md
@@ -13,3 +12,4 @@ collections:
       - Well Being Programmes for Schools and Divisions.md
       - SG Clean Day (13 May 2023).md
       - Education Symposium 2023.md
+      - Read for Books.md
