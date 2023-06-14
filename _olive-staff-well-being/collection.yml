@@ -2,6 +2,7 @@ collections:
   olive-staff-well-being:
     output: true
     order:
+      - Read for Books.md
       - SWB OLive Speaker Series.md
       - OLive Platinum Job Opportunities.md
       - MOE Health Screening Programme.md
