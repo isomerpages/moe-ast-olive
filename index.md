@@ -90,4 +90,13 @@ sections:
       alt: Image alt text
       url: /edu-symposium2023/
       button: Click to read more!
+  - infopic:
+      title: Read for Books 2023
+      subtitle: Read and Do Good
+      description: Read for Books is a book donation charity drive running from 1-31
+        July 2023!
+      button: Click to read more!
+      url: https://sites.google.com/view/olive-read-for-books-2023/home
+      image: /images/nlb_2023.JPG
+      alt: Image alt text
 ---
