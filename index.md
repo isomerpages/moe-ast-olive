@@ -96,7 +96,7 @@ sections:
       description: Read for Books is a book donation charity drive running from 1-31
         July 2023!
       button: Click to read more!
-      url: https://sites.google.com/view/olive-read-for-books-2023/home
+      url: /olive/spotlight/read-for-books-2023/
       image: /images/nlb_2023.JPG
       alt: Image alt text
 ---
