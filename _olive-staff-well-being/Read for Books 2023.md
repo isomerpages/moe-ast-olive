@@ -5,7 +5,7 @@ description: ""
 image: /images/nlb_2023.JPG
 ---
 ![](/images/nlb_2023_2.JPG)
-[go.gov.sg/rfb23](go.gov.sg/rfb23)
+[https://go.gov.sg/rfb23](https://go.gov.sg/rfb23)
 
 You can also access the attached FAQs for more information. 
 [](/files/annex%202%20-%20rfb%202023%20faqs_public%20agencies.pdf)
