@@ -33,7 +33,7 @@ sections:
       alt: Retirement
   - infopic:
       title: MOE Health Screening
-      description: "[Stay tuned] MOE Health Screening Programme 2023"
+      description: MOE Health Screening Programme 2023 is now available!
       button: Click to read more!
       url: /olive/spotlight/for-schools-info-moe-health-screening-programme/
       image: /images/AY - 2023 HS FV Notice banner.png
