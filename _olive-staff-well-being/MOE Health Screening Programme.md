@@ -8,4 +8,4 @@ description: ""
 
 **Health Screening and Flu Vaccination 2023**
 
-
+![](/images/hs_minmed_updated.JPG)[FAQs for MOE Health Screening and Flu Vaccination Programme]()
