@@ -9,4 +9,3 @@ description: ""
 **Health Screening and Flu Vaccination 2023**
 
 
-![](/images/ay---2023-hs-fv-notice-(2).png)
