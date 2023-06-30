@@ -23,7 +23,9 @@ MOE is also providing health screening subsidies which can only be used on any o
 
 Any unused subsidy on the day of health screening cannot be accumulated nor carried forward to another screening session or future years.
 
-All packages and tests offered for the health screening exercise can be found&nbsp;[**here**](https://minmed.sg/wp-content/uploads/2023/06/Non-Fasting-MOE-Package-Brochure-2023.pdf).
+All packages and tests offered for the health screening exercise can be found&nbsp;[**here**](https://minmed.sg/wp-content/uploads/2023/06/Non-Fasting-MOE-Package-Brochure-2023.pdf). 
+
+For more information on booking a test, you can refer to the booking instructions here[[Making an appointment with Minmed](/files/(2023)%20making%20an%20individual%20appointment%20with%20minmed%20-%20fv%20and%20hs.pdf)](). 
 
 Staff not under MOE payroll will still be able to take part in the health screening exercise, however, do note that the basic screening package will be chargeable at $10.80 each inclusive of GST, either payable by individual or the school if the school wishes to fund the health screening for these staff.
 
