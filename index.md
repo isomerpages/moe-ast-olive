@@ -75,6 +75,15 @@ sections:
       alt: Image alt text
       subtitle: For singles only
   - infopic:
+      title: Read for Books 2023
+      subtitle: Read and Do Good
+      description: Read for Books is a book donation charity drive running from 1-31
+        July 2023!
+      button: Click to read more!
+      url: /olive/spotlight/read-for-books-2023/
+      image: /images/nlb_2023.JPG
+      alt: Image alt text
+  - infopic:
       title: Comm Chest Heartstrings Walk 2023
       subtitle: Walk for good
       description: As part of Community Chest’s 40th anniversary celebrations this
@@ -84,13 +93,4 @@ sections:
       url: /olive-staff-well-being/commchest-heartwalk2023/
       button: Click to read more
       image: /images/comm chest heart strings walk 2023 thumbnail.png
-  - infopic:
-      title: Read for Books 2023
-      subtitle: Read and Do Good
-      description: Read for Books is a book donation charity drive running from 1-31
-        July 2023!
-      button: Click to read more!
-      url: /olive/spotlight/read-for-books-2023/
-      image: /images/nlb_2023.JPG
-      alt: Image alt text
 ---
