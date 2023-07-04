@@ -9,14 +9,6 @@ sections:
   - hero:
       background: /images/hero banner 2023.png
   - infopic:
-      title: OLive Family Symposium 2023
-      description: Join us for the inaugural OLive Family Symposium and enjoy learning
-        and bonding with your family through your preferred workshop!
-      button: Click to read more!
-      url: https://sites.google.com/view/olive-family-symposium23/home
-      image: /images/olive family symposium banner 2.png
-      alt: Image alt text
-  - infopic:
       title: OLive Speaker Series
       description: Look out for our publicity on upcoming well-being programmes!
       button: Click to read more!
@@ -83,13 +75,15 @@ sections:
       alt: Image alt text
       subtitle: For singles only
   - infopic:
-      title: Education Symposium 2023
-      description: Please access infographic for more information if you are
-        interested to attend this education symposium.
-      image: /images/symposium poster_jun2023 thumbnail.jpeg
+      title: Comm Chest Heartstrings Walk 2023
+      subtitle: Walk for good
+      description: As part of Community Chest’s 40th anniversary celebrations this
+        year, the Heartstrings Walk 2023 aims to raise funds in support of
+        communities in need.
       alt: Image alt text
-      url: /edu-symposium2023/
-      button: Click to read more!
+      url: /olive-staff-well-being/commchest-heartwalk2023/
+      button: Click to read more
+      image: /images/comm chest heart strings walk 2023 thumbnail.png
   - infopic:
       title: Read for Books 2023
       subtitle: Read and Do Good
