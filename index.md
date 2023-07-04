@@ -83,4 +83,9 @@ sections:
       url: /olive/spotlight/read-for-books-2023/
       image: /images/nlb_2023.JPG
       alt: Image alt text
+  - infopic:
+      title: Comm Chest Heart Strings Walk 2023
+      subtitle: Walk for good
+      description: Infopic description
+      alt: Image alt text
 ---
