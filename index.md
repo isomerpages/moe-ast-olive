@@ -86,6 +86,11 @@ sections:
   - infopic:
       title: Comm Chest Heart Strings Walk 2023
       subtitle: Walk for good
-      description: Infopic description
+      description: "As part of Community Chest’s 40th anniversary celebrations this
+        year, the Heartstrings Walk 2023 aims to raise funds in support of
+        communities in need. "
       alt: Image alt text
+      url: /olive-staff-well-being/commchest-heartwalk2023/
+      button: Click to read more
+      image: /images/comm chest heart strings walk 2023 thumbnail.png
 ---
