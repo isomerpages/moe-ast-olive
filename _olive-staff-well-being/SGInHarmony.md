@@ -3,7 +3,7 @@ title: SGInHarmony
 permalink: /olive-staff-well-being/sginharmony/
 description: ""
 ---
-Read more about the Harmony Circle, which partners the Ministry of Culture, Community and Youth (MCCY) to deepen Singaporeans' understanding of the various faiths, beliefs and practices. 
+Read more about the [Harmony Circle](https://www.harmonycircle.sg/about-harmonycircle/) , which partners the Ministry of Culture, Community and Youth (MCCY) to deepen Singaporeans' understanding of the various faiths, beliefs and practices. 
 
 Follow the Harmony Circle [Facebook page](https://www.facebook.com/HarmonyCircleSG) and [Instagram page](https://www.instagram.com/harmonycirclesg) for more information and updates!
 
