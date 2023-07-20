@@ -93,4 +93,13 @@ sections:
       url: /olive-staff-well-being/commchest-heartwalk2023/
       button: Click to read more
       image: /images/comm chest heart strings walk 2023 thumbnail.png
+  - infopic:
+      title: SGInHarmony
+      subtitle: One Singapore for All
+      description: Understand what the Racial and Religious Harmony Circles (Harmony
+        Circle) do to promote racial and religious harmony in Singapore.
+      button: Click to read more
+      url: /olive-staff-well-being/sginharmony/
+      image: /images/sginharmony.jpg
+      alt: Image alt text
 ---
