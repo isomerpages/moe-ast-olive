@@ -99,7 +99,7 @@ sections:
       description: Understand what the Racial and Religious Harmony Circles (Harmony
         Circle) do to promote racial and religious harmony in Singapore.
       button: Click to read more
-      url: /olive-staff-well-being/SGInHarmony/
+      url: /olive-staff-well-being/sginharmony/
       image: /images/sginharmony.jpg
       alt: Image alt text
 ---
