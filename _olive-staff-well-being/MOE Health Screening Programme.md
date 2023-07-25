@@ -56,10 +56,10 @@ The health screening is not compulsory. However, this exercise is a workplace he
 
 All MOE officers under the direct payroll of MOE are entitled to the fully subsidised basic health screening and flu vaccination&nbsp;package. MOE staff will include the following:
 
-*   Teaching Staff, i.e., EOs (including CAJTs and FAJTs), MKEs, AEDs and NIE trainees
+*   Teaching Staff, i.e., EOs, MKEs, AEDs and NIE trainees
 *   Non-Teaching Staff, i.e., EAS
 
-Note: Staff attending the health screening and/or flu vaccination programme are required to show their Civil Service Card for verification purposes
+Note: Staff attending the health screening and/or flu vaccination programme are required to show their **Civil Service Card** for verification purposes
 
 **7. Can I go for health screening when I am pregnant/breastfeeding?**
 
