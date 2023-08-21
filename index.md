@@ -102,4 +102,13 @@ sections:
       url: /olive-staff-well-being/sginharmony/
       image: /images/sginharmony.jpg
       alt: Image alt text
+  - infopic:
+      title: Fostering Open House
+      subtitle: Foster a child. Change a life.
+      description: Learn what it takes to provide a safe, and nurturing home for
+        children in need.
+      button: Click to read more
+      url: /olive/spotlight/fostering-open-house
+      image: /images/fostering.JPG
+      alt: Image alt text
 ---
