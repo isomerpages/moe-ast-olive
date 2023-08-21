@@ -3,7 +3,7 @@ title: Staff Well Being Team
 permalink: /olive/staff-well-being-programmes/
 description: ""
 ---
-Staff Well-Being Team (SWB Team) plans programmes in alignment with MOE’s OLive vision and goal by providing opportunities for staff to take ownership of their well-being so as to achieve harmony in self, family, work, community and environment. To promote well-being among MOE staff, the team implements workplace health strategies and leadership commitment inspires a strong workplace health culture.
+Staff Well-being Team (SWB Team) plans programmes in alignment with MOE’s OLive vision and goal by providing opportunities for staff to take ownership of their well-being so as to achieve harmony in self, family, work, community and environment. To promote well-being among MOE staff, the team implements workplace health strategies and leadership commitment inspires a strong workplace health culture.
 
   
 
