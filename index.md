@@ -75,6 +75,24 @@ sections:
       alt: Image alt text
       subtitle: For singles only
   - infopic:
+      title: Fostering Open House
+      subtitle: Foster a child. Change a life.
+      description: Learn what it takes to provide a safe, and nurturing home for
+        children in need.
+      button: Click to read more
+      url: /olive/spotlight/fostering-open-house
+      image: /images/fostering.JPG
+      alt: Image alt text
+  - infopic:
+      title: SGInHarmony
+      subtitle: One Singapore for All
+      description: Understand what the Racial and Religious Harmony Circles (Harmony
+        Circle) do to promote racial and religious harmony in Singapore.
+      button: Click to read more
+      url: /olive-staff-well-being/sginharmony/
+      image: /images/sginharmony.jpg
+      alt: Image alt text
+  - infopic:
       title: Read for Books 2023
       subtitle: Read and Do Good
       description: Read for Books is a book donation charity drive running from 1-31
@@ -93,13 +111,4 @@ sections:
       url: /olive-staff-well-being/commchest-heartwalk2023/
       button: Click to read more
       image: /images/comm chest heart strings walk 2023 thumbnail.png
-  - infopic:
-      title: SGInHarmony
-      subtitle: One Singapore for All
-      description: Understand what the Racial and Religious Harmony Circles (Harmony
-        Circle) do to promote racial and religious harmony in Singapore.
-      button: Click to read more
-      url: /olive-staff-well-being/sginharmony/
-      image: /images/sginharmony.jpg
-      alt: Image alt text
 ---
