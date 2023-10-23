@@ -113,6 +113,7 @@ sections:
       image: /images/comm chest heart strings walk 2023 thumbnail.png
   - infopic:
       title: Priority Codes for CSC Chalets
+      subtitle: CSC Chalets
       id: infopic
       description: "Please use priority code CS2311 for bookings made between 29 Sep
         2023 to 28 Sep 2024 "
