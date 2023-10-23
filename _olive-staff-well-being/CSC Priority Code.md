@@ -3,7 +3,7 @@ title: CSC Priority Code
 permalink: /olive-staff-well-being/cscprioritycode/
 description: ""
 ---
-The Priority Code for booking of CSC Chalets  **CS2311** and valid from 29 Sep 2023 to 28 Sep 2024. 
+The Priority Code for booking of CSC Chalets is  **CS2311** and valid from 29 Sep 2023 to 28 Sep 2024. 
 
 Please note that the Priority Code is **only applicable for in-service civil servants employed by MOE**. Civil servants are required to bring along their **Public Service (PS) Card and NRIC** for verification during check-in to enjoy the civil servant rental fee.
 
