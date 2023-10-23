@@ -58,6 +58,16 @@ sections:
       image: /images/opal mlu thumbnail.png
       alt: OLiveWellness MLUs
   - infopic:
+      title: Priority Codes for CSC Chalets
+      subtitle: CSC Chalets
+      id: infopic
+      description: Please use priority code CS2311 for bookings made between 29 Sep
+        2023 to 28 Sep 2024
+      button: Click here to learn more
+      url: /olive-staff-well-being/csc-priority-code/
+      image: /images/new csc priority code 2023 (banner).png
+      alt: Image alt text
+  - infopic:
       title: Well-being Programmes for Schools and Divisions
       description: Check out these resources on well-being programmes available for
         your schools and division.
