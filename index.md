@@ -118,7 +118,7 @@ sections:
       description: Please use priority code CS2311 for bookings made between 29 Sep
         2023 to 28 Sep 2024
       button: Click here to learn more
-      url: https://www.cschalets.sg
+      url: /olive-staff-well-being/csc-priority-code/
       image: /images/new csc priority code 2023 (banner).png
       alt: Image alt text
 ---
