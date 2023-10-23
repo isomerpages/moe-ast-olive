@@ -111,4 +111,13 @@ sections:
       url: /olive-staff-well-being/commchest-heartwalk2023/
       button: Click to read more
       image: /images/comm chest heart strings walk 2023 thumbnail.png
+  - infopic:
+      title: "Latest Code: CS2311"
+      subtitle: Priority Codes for CSC Chalets
+      id: infopic
+      description: "Please "
+      button: "Click here to book "
+      url: https://www.cschalets.sg
+      image: /images/new csc priority code 2023 (banner).png
+      alt: Image alt text
 ---
