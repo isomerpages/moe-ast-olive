@@ -8,11 +8,6 @@ description: ""
 
 **Health Screening and Flu Vaccination 2023**
 
-![](/images/hs_minmed_updated.JPG)
-Please refer to attached PDF for the frequently asked questions or continue scrolling for the information you may need.
-[](/files/faq_hs.pdf)
-
-
 **Frequently Asked Questions for MOE Health Screening and Vaccination Programme**
 
 **1. What is offered for the health screening and flu vaccination programme?**
