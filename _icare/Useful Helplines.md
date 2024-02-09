@@ -2,6 +2,7 @@
 title: Useful Helplines
 permalink: /olive/icare/useful-helplines/
 description: ""
+variant: markdown
 ---
 **Samaritans of Singapore (SOS)**   
 
@@ -11,9 +12,7 @@ description: ""
 
 6389-2222 (24hr)
 
-**Whole-Of-Government Counselling Hotline (for public officers only)**  
 
-6865-9209 (24hr)
 
 **National Anti-Violence Helpline**
 
