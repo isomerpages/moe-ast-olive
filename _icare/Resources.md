@@ -2,27 +2,19 @@
 title: Resources
 permalink: /olive/icare/resources/
 description: ""
+variant: markdown
 ---
-<img src="/images/icare-brochure-qr.jpeg"  
-style="width:30%">
-
-[e-Brochure](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider8/icare-docs/icare-brochure.pdf?sfvrsn=31fd79cc_0 "iCare brochure") (or scan the above QR Code)
-
-[Hope Map](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider8/icare-docs/hope-map.pdf?sfvrsn=84e6fc5e_0 "Hope Map")
-
-  
-
 ##### **Self-Efficacy**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Social-Emotional and Cultural Intelligences
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Emotional Intelligence](https://www.healthhub.sg/live-healthy/579/mental_health_emotional_intelligence_pdf)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Finding Emo: Managing Your Emotions](https://www.healthhub.sg/live-healthy/1754/finding-emo-know-and-manage-your-emotions)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Anger Management](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider8/icare-docs/anger-management.pdf?sfvrsn=d983454f_2 "Anger Management")
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Working Well with Your Colleagues](https://www.healthhub.sg/live-healthy/592/workingwell-withyourcolleagues)
+
+
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reflective Practice
 
@@ -99,17 +91,17 @@ style="width:30%">
 
 **Read@Academy**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [The power of full engagement: Managing energy, not time, is the key to high performance and personal renewal (Jim Loehr, Tony Schwartz)](https://readacademy.moe.edu.sg/cgi-bin/spydus.exe/FULL/WPAC/ALLENQ/303392/578349,1)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [The power of full engagement: Managing energy, not time, is&nbsp;the&nbsp;key to high performance and personal renewal (Jim Loehr, Tony Schwartz)](https://readacademy.moe.edu.sg/cgi-bin/spydus.exe/FULL/WPAC/ALLENQ/303392/578349,1)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Authentic happiness (Martin Seligman)](https://readacademy.moe.edu.sg/cgi-bin/spydus.exe/FULL/WPAC/ALLENQ/246711/187946,1)  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [The teacher's ultimate stress mastery guide: 77 proven prescriptions to build your resilience](https://readacademy.moe.edu.sg/cgi-bin/spydus.exe/FULL/WPAC/ALLENQ/303427/358230,8) [(Jack Singer)](https://readacademy.moe.edu.sg/cgi-bin/spydus.exe/FULL/WPAC/ALLENQ/303436/358230,9)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [The teacher's ultimate stress mastery guide: 77 proven prescriptions to build your&nbsp;resilience](https://readacademy.moe.edu.sg/cgi-bin/spydus.exe/FULL/WPAC/ALLENQ/303427/358230,8)&nbsp;[(Jack Singer)](https://readacademy.moe.edu.sg/cgi-bin/spydus.exe/FULL/WPAC/ALLENQ/303436/358230,9)  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Mindfulness for the next generation: helping emerging adults manage stress and lead healthier lives (Holly Rogers)](https://readacademy.moe.edu.sg/cgi-bin/spydus.exe/FULL/WPAC/ALLENQ/303436/274953,5)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Mindfulness for the next generation: helping emerging adults manage&nbsp;stress&nbsp;and lead healthier lives (Holly Rogers)](https://readacademy.moe.edu.sg/cgi-bin/spydus.exe/FULL/WPAC/ALLENQ/303436/274953,5)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Cultivating teacher renewal: guarding against stress and burnout (Barbara Larrivee)](https://readacademy.moe.edu.sg/cgi-bin/spydus.exe/FULL/WPAC/ALLENQ/303436/274953,5)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Cultivating teacher renewal: guarding against&nbsp;stress&nbsp;and burnout (Barbara Larrivee)](https://readacademy.moe.edu.sg/cgi-bin/spydus.exe/FULL/WPAC/ALLENQ/303436/274953,5)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Stress management for teachers (Elizabeth Hartney)](https://readacademy.moe.edu.sg/cgi-bin/spydus.exe/FULL/WPAC/ALLENQ/303436/467424,11)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Stress&nbsp;management for teachers (Elizabeth Hartney)](https://readacademy.moe.edu.sg/cgi-bin/spydus.exe/FULL/WPAC/ALLENQ/303436/467424,11)
 
 **Webinar Talk (Slides)**
 
@@ -117,14 +109,14 @@ style="width:30%">
 
 **Videos**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [What makes us feel good about our work? - Dan Ariely (20:26 mins)](https://www.ted.com/talks/dan_ariely_what_makes_us_feel_good_about_our_work.html)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [What makes us feel good about our work? - Dan Ariely&nbsp;(20:26 mins)](https://www.ted.com/talks/dan_ariely_what_makes_us_feel_good_about_our_work.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [What makes a good life? Lessons from the longest study on happiness - Robert Waldinger (12:46 mins)](https://www.ted.com/talks/robert_waldinger_what_makes_a_good_life_lessons_from_the_longest_study_on_happiness.html)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [What makes a good life? Lessons from the longest study on happiness -&nbsp;Robert Waldinger (12:46 mins)](https://www.ted.com/talks/robert_waldinger_what_makes_a_good_life_lessons_from_the_longest_study_on_happiness.html)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Why we all need to practice emotional first aid - Guy Winch (17:24 mins)](https://www.ted.com/talks/guy_winch_the_case_for_emotional_hygiene.html)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [How to make stress your friend - Kelly McGonigal (14:29 mins)](https://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [How to do Deep Breathing (3:43 mins)](https://www.youtube.com/watch?time_continue=22&v=EYQsRBNYdPk&feature=emb_logo)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [How to do Deep Breathing (3:43 mins)](https://www.youtube.com/watch?time_continue=22&amp;v=EYQsRBNYdPk&amp;feature=emb_logo)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Staying Calm and Grounded In The Midst of Pandemic - Angie Chew from Brahm Centre (59:14 mins)](https://youtu.be/BXtov6Lc5C8)
