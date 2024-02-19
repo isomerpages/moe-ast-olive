@@ -25,7 +25,7 @@ sections:
       alt: Retirement
   - infopic:
       title: MOE Health Screening
-      description: MOE Health Screening Programme 2023 is now available!
+      description: MOE Health Screening Programme and Flu Vaccination is now available!
       button: Click to read more!
       url: /olive/spotlight/for-schools-info-moe-health-screening-programme/
       image: /images/AY - 2023 HS FV Notice banner.png
