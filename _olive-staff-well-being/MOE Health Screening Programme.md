@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>MOE Health Screening Programme</h3>
-<p><strong>Health Screening and Flu Vaccination 2023</strong>
+<p><strong>Health Screening and Flu Vaccination </strong>
 </p>
 <p>Please refer to attached PDF for the frequently asked questions or continue
 scrolling for the information you may need.</p>
@@ -24,7 +24,8 @@ MOE staff dated 19 June 2023 or the Staff Welfare Fund Circular PA-15-22.</p>
 <p>Any unused subsidy on the day of health screening cannot be accumulated
 nor carried forward to another screening session or future years.</p>
 <p>All packages and tests offered for the health screening exercise can be
-found&nbsp;here.</p>
+found <a href="https://minmed.sg/wp-content/uploads/2024/01/MOE-Package-2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+</p>
 <p><a href="/files/HS &amp; FV/_2024__Making_an_Individual_Appointment_with_Minmed___FV_and_HS.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for booking instructions.</a>
 </p>
 <p>Staff not under MOE payroll will still be able to take part in the health
