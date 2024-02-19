@@ -25,7 +25,7 @@ sections:
       alt: Retirement
   - infopic:
       title: MOE Health Screening
-      description: MOE Health Screening Programme 2023 is now available!
+      description: MOE Health Screening Programme and Flu Vaccination is now available!
       button: Click to read more!
       url: /olive/spotlight/for-schools-info-moe-health-screening-programme/
       image: /images/AY - 2023 HS FV Notice banner.png
@@ -85,15 +85,6 @@ sections:
       alt: Image alt text
       subtitle: For singles only
   - infopic:
-      title: Fostering Open House
-      subtitle: Foster a child. Change a life.
-      description: Learn what it takes to provide a safe, and nurturing home for
-        children in need.
-      button: Click to read more
-      url: /olive/spotlight/fostering-open-house
-      image: /images/fostering.JPG
-      alt: Image alt text
-  - infopic:
       title: SGInHarmony
       subtitle: One Singapore for All
       description: Understand what the Racial and Religious Harmony Circles (Harmony
@@ -102,23 +93,4 @@ sections:
       url: /olive-staff-well-being/sginharmony/
       image: /images/sginharmony.jpg
       alt: Image alt text
-  - infopic:
-      title: Read for Books 2023
-      subtitle: Read and Do Good
-      description: Read for Books is a book donation charity drive running from 1-31
-        July 2023!
-      button: Click to read more!
-      url: /olive/spotlight/read-for-books-2023/
-      image: /images/nlb_2023.JPG
-      alt: Image alt text
-  - infopic:
-      title: Comm Chest Heartstrings Walk 2023
-      subtitle: Walk for good
-      description: As part of Community Chest’s 40th anniversary celebrations this
-        year, the Heartstrings Walk 2023 aims to raise funds in support of
-        communities in need.
-      alt: Image alt text
-      url: /olive-staff-well-being/commchest-heartwalk2023/
-      button: Click to read more
-      image: /images/comm chest heart strings walk 2023 thumbnail.png
 ---
