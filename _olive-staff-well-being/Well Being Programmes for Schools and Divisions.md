@@ -24,10 +24,10 @@ variant: tiptap
 <p>Health Promotion Board</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Health Promotion Board Health Champs Programme</u>
+<p><u>Health Promotion Board Health Champs Programme</u> 
 <br>This list of programmes is non-exhaustive and may be updated by HPB along
 the way. For more information, refer to the attachment and find out more.
-<br><a href="/files/Health_Champs_Programme_For_MOE_and_SPED_Schools_Jan24.pdf" rel="noopener noreferrer nofollow" target="_blank">Health Champs Programme</a>
+<br><a href="/files/Health_Champs_Programme_For_MOE_and_SPED_Schools_Jan24.pdf" rel="noopener noreferrer nofollow" target="_blank">Health Champs Programme</a> 
 <br>
 </p>
 </td>
