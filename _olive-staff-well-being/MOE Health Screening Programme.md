@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>MOE Health Screening Programme</h3>
-<p><strong>Health Screening and Flu Vaccination </strong>
+<p><strong>Health Screening and Flu Vaccination</strong>
 </p>
 <p>Please refer to attached PDF for the frequently asked questions or continue
 scrolling for the information you may need.</p>
@@ -26,8 +26,7 @@ nor carried forward to another screening session or future years.</p>
 <p>All packages and tests offered for the health screening exercise can be
 found <a href="https://minmed.sg/wp-content/uploads/2024/01/MOE-Package-2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
-<p><a href="/files/HS &amp; FV/_2024__Making_an_Individual_Appointment_with_Minmed___FV_and_HS.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for booking instructions.</a>
-</p>
+<p>For booking instructions and codes, please email <a href="mailto:moe_swb@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">moe_swb@moe.gov.sg</a>.</p>
 <p>Staff not under MOE payroll will still be able to take part in the health
 screening exercise, however, do note that the basic screening package will
 be chargeable at $10.80 each inclusive of GST, either payable by individual
