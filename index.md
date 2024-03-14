@@ -76,15 +76,6 @@ sections:
       image: /images/blackmores_head-00.jpeg
       alt: Well Being Programmes
   - infopic:
-      title: SPARK Connections 2023
-      description: Spark Connections is a lifestyle-centric events platform for
-        singles to network and make new friends.
-      button: Click to read more!
-      url: https://attractions.changirecommends.com/ticket/city/Spark%20Connections%20Singapore/162/1
-      image: /images/sdn spark connections banner 2023.PNG
-      alt: Image alt text
-      subtitle: For singles only
-  - infopic:
       title: SGInHarmony
       subtitle: One Singapore for All
       description: Understand what the Racial and Religious Harmony Circles (Harmony
