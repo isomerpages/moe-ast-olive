@@ -15,7 +15,7 @@ img {
 
 In support of the President's Challenge 2024, the MOE Community Involvement Programme (MCIP) Committee is coordinating MOE's efforts in supporting this cause through fundraising activities such as the PC Heart Train/Bus Campaign, OLive Run and OLive Fiesta.  
 
-You can now contribute towards President's Challenge at your own convenience via our MOE online fundraising campaign on Giving.sg ([https://www.giving.sg/donate/campaign/moepc2024](https://www.giving.sg/donate/campaign/moepc2024)) in only four simple steps!  
+You can now contribute towards President's Challenge at your own convenience via our MOE online fundraising campaign on Giving.sg ([https://www.giving.sg/donate/campaign/moepc2024](https://www.giving.sg/donate/campaign/moepc2024)) in four simple steps!  
   
 Step 1: <br> 
 One-time creation of an account under Giving.sg.  
