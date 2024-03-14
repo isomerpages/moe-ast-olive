@@ -36,8 +36,8 @@ sections:
         supported by the President's Challenge via our MOE online fundraising
         campaign.
       button: Click to read more!
-      url: /olive/spotlight/moe-supports-presidents-challenge-2023/
-      image: /images/moe supports pc2023 banner.jpg
+      url: /olive/spotlight/moe-supports-presidents-challenge-2024/
+      image: /images/Giving_sg_campaign_banner.jpg
       alt: Empowering a brighter future
   - infopic:
       title: Greetings from iCARE
@@ -75,15 +75,6 @@ sections:
       url: /olive/spotlight/well-being-programmes/
       image: /images/blackmores_head-00.jpeg
       alt: Well Being Programmes
-  - infopic:
-      title: SPARK Connections 2023
-      description: Spark Connections is a lifestyle-centric events platform for
-        singles to network and make new friends.
-      button: Click to read more!
-      url: https://attractions.changirecommends.com/ticket/city/Spark%20Connections%20Singapore/162/1
-      image: /images/sdn spark connections banner 2023.PNG
-      alt: Image alt text
-      subtitle: For singles only
   - infopic:
       title: SGInHarmony
       subtitle: One Singapore for All
