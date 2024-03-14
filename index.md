@@ -36,8 +36,8 @@ sections:
         supported by the President's Challenge via our MOE online fundraising
         campaign.
       button: Click to read more!
-      url: /olive/spotlight/moe-supports-presidents-challenge-2023/
-      image: /images/moe supports pc2023 banner.jpg
+      url: /olive/spotlight/moe-supports-presidents-challenge-2024/
+      image: /images/Giving_sg_campaign_banner.jpg
       alt: Empowering a brighter future
   - infopic:
       title: Greetings from iCARE
