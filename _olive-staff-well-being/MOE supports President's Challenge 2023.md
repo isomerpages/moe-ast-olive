@@ -2,6 +2,7 @@
 title: MOE supports President's Challenge 2023
 permalink: /olive/spotlight/moe-supports-presidents-challenge-2023/
 description: ""
+variant: markdown
 ---
 <style>  
 img {  
@@ -10,14 +11,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/moe%20supports%20pc2023%20banner.jpg" alt="MOE supports President's Challenge 2023" style="width:100%;">  
-  
+<img src="/images/Giving_sg_campaign_banner.jpg" alt="MOE supports President's Challenge 2024" style="width:100%;"> 
 
-In support of the President's Challenge 2023, the MOE Community Involvement Programme (MCIP) Committee is coordinating MOE's efforts in supporting this cause through fundraising activities such as the PC Heart Train/Bus Campaign, OLive Run and OLive Fiesta.  
-  
-"The COVID-19 pandemic has hastened Singapore's digitalisation efforts, but also has the potential to widen the digital divide. The President's Challenge hopes to support efforts to build a digitally inclusive society, where all Singaporeans feel excited, empowered and enriched by digital technologies." - President Halimah Yacob
+In support of the President's Challenge 2024, the MOE Community Involvement Programme (MCIP) Committee is coordinating MOE's efforts in supporting this cause through fundraising activities such as the PC Heart Train/Bus Campaign, OLive Run and OLive Fiesta.  
 
-You can now contribute towards President's Challenge at your own convenience via our MOE online fundraising campaign on Giving.sg ([https://www.giving.sg/campaigns/moepc2023](https://www.giving.sg/campaigns/moepc2023)) in only four simple steps!  
+You can now contribute towards President's Challenge at your own convenience via our MOE online fundraising campaign on Giving.sg ([https://www.giving.sg/donate/campaign/moepc2024](https://www.giving.sg/donate/campaign/moepc2024)) in only four simple steps!  
   
 Step 1: <br> 
 One-time creation of an account under Giving.sg.  
