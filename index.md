@@ -98,7 +98,7 @@ sections:
       subtitle: "#OLiveWellness"
       id: infopic
       description: "Check out the Top 10 submissions for our #OLiveWellness Gratitude
-        Jar Challenge, and get inspired!"
+        Jar Challenge, and be inspired!"
       button: Click to read more
       url: /olive-staff-well-being/gratitudejar/
       image: /images/banner_gratitude_jar.png
