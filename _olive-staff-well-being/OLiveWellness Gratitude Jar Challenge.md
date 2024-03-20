@@ -4,6 +4,6 @@ permalink: /olive-staff-well-being/gratitudejar/
 variant: markdown
 description: ""
 ---
-<p></p>
+![](/images/Top_10__OW_Gratitude_Jar_Challenge.jpg)<p></p>
 <p></p>
 <p></p>
