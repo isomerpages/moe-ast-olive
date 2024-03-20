@@ -50,9 +50,9 @@ sections:
       alt: iCARE
   - infopic:
       title: "#OLiveWellness MLUs"
-      description: Need a perk-me-up after sitting at your home work area for hours?
-        Take a break and re-energise with our well-being Micro-learning Units
-        from OPAL2.0.
+      description: Need a perk-me-up after sitting at your work area for hours? Take a
+        break and re-energise with our well-being Micro-learning Units from
+        OPAL2.0.
       button: Click to read more!
       url: /olivewellness-micro-learning-units/
       image: /images/opal mlu thumbnail.png
@@ -83,5 +83,24 @@ sections:
       button: Click to read more
       url: /olive-staff-well-being/sginharmony/
       image: /images/sginharmony.jpg
+      alt: Image alt text
+  - infopic:
+      title: Volunteers Wanted
+      id: infopic
+      description: Your expertise matters. Check out the various volunteering
+        opportunities with Singapore Science Centre!
+      button: Click to read more
+      url: /olive-staff-well-being/volunteer/
+      image: /images/Volunteers_Wanted.png
+      alt: Image alt text
+  - infopic:
+      title: Gratitude Jar Challenge
+      subtitle: "#OLiveWellness"
+      id: infopic
+      description: "Check out the Top 10 submissions for our #OLiveWellness Gratitude
+        Jar Challenge, and be inspired!"
+      button: Click to read more
+      url: /olive-staff-well-being/gratitudejar/
+      image: /images/banner_gratitude_jar.png
       alt: Image alt text
 ---

@@ -2,6 +2,8 @@ collections:
   olive-staff-well-being:
     output: true
     order:
+      - OLiveWellness Gratitude Jar Challenge.md
+      - Volunteers Wanted.md
       - SWB OLive Speaker Series.md
       - OLive Platinum Job Opportunities.md
       - MOE Health Screening Programme.md
