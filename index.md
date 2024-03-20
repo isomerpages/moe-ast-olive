@@ -87,7 +87,7 @@ sections:
   - infopic:
       title: Volunteers Wanted
       id: infopic
-      description: Your expertise matters. Check out the list of volunteering
+      description: Your expertise matters. Check out the various volunteering
         opportunities with Singapore Science Centre!
       button: Click to read more
       url: /olive-staff-well-being/volunteer/
