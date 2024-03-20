@@ -93,4 +93,14 @@ sections:
       url: /olive-staff-well-being/volunteer/
       image: /images/Volunteers_Wanted.png
       alt: Image alt text
+  - infopic:
+      title: Gratitude Jar Challenge
+      subtitle: "#OLiveWellness"
+      id: infopic
+      description: "Check out the Top 10 submissions for our #OLiveWellness Gratitude
+        Jar Challenge, and get inspired!"
+      button: Click to read more
+      url: /olive-staff-well-being/gratitudejar/
+      image: /images/banner_gratitude_jar.png
+      alt: Image alt text
 ---
