@@ -50,9 +50,9 @@ sections:
       alt: iCARE
   - infopic:
       title: "#OLiveWellness MLUs"
-      description: Need a perk-me-up after sitting at your home work area for hours?
-        Take a break and re-energise with our well-being Micro-learning Units
-        from OPAL2.0.
+      description: Need a perk-me-up after sitting at your work area for hours? Take a
+        break and re-energise with our well-being Micro-learning Units from
+        OPAL2.0.
       button: Click to read more!
       url: /olivewellness-micro-learning-units/
       image: /images/opal mlu thumbnail.png
