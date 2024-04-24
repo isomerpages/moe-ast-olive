@@ -2,6 +2,7 @@
 title: Greetings from iCARE
 permalink: /olive/spotlight/greetings-from-icare/
 description: ""
+variant: markdown
 ---
 <img src="/images/canoe2.png" style="width:40%">
 
