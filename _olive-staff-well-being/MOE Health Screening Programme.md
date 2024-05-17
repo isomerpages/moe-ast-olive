@@ -7,7 +7,10 @@ variant: tiptap
 <h3>MOE Health Screening Programme</h3>
 <p><strong>Health Screening and Flu Vaccination</strong>
 </p>
-<p>Please refer to attached PDF for the frequently asked questions or continue
+<p>For booking instructions, please follow the steps listed in the link below.</p>
+<p><a href="/files/HS &amp; FV/_2024__Making_an_Individual_Appointment_with_Minmed___FV_and_HS.pdf" rel="noopener noreferrer nofollow" target="_blank">Making an individual appointment with Minmed</a>
+</p>
+<p>Please refer to link below for the frequently asked questions or continue
 scrolling for the information you may need.</p>
 <p><a href="/files/HS &amp; FV/Frequently_Asked_Questions.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQ</a>
 </p>
