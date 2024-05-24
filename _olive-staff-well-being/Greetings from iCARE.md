@@ -2,10 +2,11 @@
 title: Greetings from iCARE
 permalink: /olive/spotlight/greetings-from-icare/
 description: ""
+variant: markdown
 ---
 <img src="/images/canoe2.png" style="width:40%">
 
-iCARE&nbsp;offers&nbsp;[counselling services](http://www.academyofsingaporeteachers.moe.gov.sg/professional-growth/staff-well-being/icare)&nbsp;and&nbsp;[workshops](http://www.academyofsingaporeteachers.moe.gov.sg/ast/slot/u2597/iCARE/iCARE_Workshops%20(2017)%20updated%2011%20Jan17.pdf)&nbsp;for MOE staff. The aim is to enhance staff well-being and build their personal and professional capacity to enable them to be effective professionals who can positively influence the lives of others. Respect, personal choice and adherence to confidentiality are the principles that guide counselling practice at iCARE.&nbsp;
+iCARE&nbsp;offers&nbsp;[counselling services](http://www.academyofsingaporeteachers.moe.gov.sg/professional-growth/staff-well-being/icare)&nbsp;and&nbsp;workshops&nbsp;for MOE staff. The aim is to enhance staff well-being and build their personal and professional capacity to enable them to be effective professionals who can positively influence the lives of others. Respect, personal choice and adherence to confidentiality are the principles that guide counselling practice at iCARE.&nbsp;
 
   
 
