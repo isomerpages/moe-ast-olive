@@ -18,8 +18,7 @@ scrolling for the information you may need.</p>
 </p>
 <p>Fully subsidised basic health screening is offered to all MOE staff and
 staff can also opt for additional packages and tests depending on needs.
-4-in-1<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> flu
-vaccination is also fully subsidised for MOE staff.</p>
+4-in-1 [FN#1] flu vaccination is also fully subsidised for MOE staff.</p>
 <p>MOE is also providing health screening subsidies which can only be used
 on any of the optional packages and tests offered by our appointed vendor.
 For more information on the subsidies, please refer to our email to all
@@ -106,7 +105,6 @@ is an elective procedure.</p>
 <p>You may email&nbsp;<a href="mailto:ask@minmed.sg" rel="noopener noreferrer nofollow" target="_blank">ask@minmed.sg</a>&nbsp;to reschedule an appointment,
 whether it is at your office or at Minmed Health Screeners.</p>
 <hr>
-<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> A <strong>4-in-1 flu vaccination</strong> uses
-the <strong>quadrivalent influenza</strong>  <strong>(flu) vaccine,</strong> which
+<p>[FN#1] A <strong>4-in-1 flu vaccination</strong> uses the <strong>quadrivalent influenza</strong>  <strong>(flu) vaccine,</strong> which
 is designed to protect against <strong>four</strong> different flu viruses,
 including two influenza A viruses and two <strong>influenza</strong> B viruses.</p>
