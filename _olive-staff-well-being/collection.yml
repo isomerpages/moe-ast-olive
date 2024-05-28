@@ -2,6 +2,7 @@ collections:
   olive-staff-well-being:
     output: true
     order:
+      - AUPE Union Membership.md
       - OLiveWellness Gratitude Jar Challenge.md
       - Volunteers Wanted.md
       - SWB OLive Speaker Series.md
