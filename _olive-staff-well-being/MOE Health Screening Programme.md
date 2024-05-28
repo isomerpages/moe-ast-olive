@@ -7,9 +7,7 @@ variant: tiptap
 <h3>MOE Health Screening Programme</h3>
 <p><strong>Health Screening and Flu Vaccination</strong>
 </p>
-<p>For booking instructions, please follow the steps listed in the link below.</p>
-<p><a href="/files/HS &amp; FV/_2024__Making_an_Individual_Appointment_with_Minmed___FV_and_HS.pdf" rel="noopener noreferrer nofollow" target="_blank">Making an individual appointment with Minmed</a>
-</p>
+<p>For booking instructions and codes, please email <a href="mailto:moe_swb@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">moe_swb@moe.gov.sg</a>.</p>
 <p>Please note that only MOE staff holding on to the Civil Service Card will
 enjoy the MOE health screening subsidies. Do ensure that you bring along
 your Civil Service Card when you attend your health screening and/or flu
@@ -30,9 +28,8 @@ MOE staff dated 19 June 2023 or the Staff Welfare Fund Circular PA-15-22.</p>
 <p>Any unused subsidy on the day of health screening cannot be accumulated
 nor carried forward to another screening session or future years.</p>
 <p>All packages and tests offered for the health screening exercise can be
-found <a href="https://minmed.sg/wp-content/uploads/2024/01/MOE-Package-2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+found <a href="/files/HS &amp; FV/Frequently_Asked_Questions.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
-<p>For booking instructions and codes, please email <a href="mailto:moe_swb@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">moe_swb@moe.gov.sg</a>.</p>
 <p>Staff not under MOE payroll will still be able to take part in the health
 screening exercise, however, do note that the basic screening package will
 be chargeable at $10.80 each inclusive of GST, either payable by individual
@@ -44,7 +41,7 @@ staff.</p>
 staff to take good care of your health.</p>
 <p>The selection of screening tests should be made based on individual risk
 factors. If you are unsure, please take reference from the Health Promotion
-Board’s screening recommendations&nbsp;<strong><a href="https://www.healthhub.sg/live-healthy/403/abcs_of_health_screening" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
+Board’s screening recommendations&nbsp;<strong><a href="https://www.healthhub.sg/programmes/screen_for_life" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
 </p>
 <p><strong>3. What is the Lifestyle Survey about?</strong>
 </p>
