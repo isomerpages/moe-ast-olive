@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>MOE Health Screening and Flu Vaccination Programme</h3>
-<p><strong>Administered by Minmed Group Pte. Ltd. </strong>
+<p><strong>Administered by Minmed Group Pte. Ltd.</strong>
 </p>
 <p>Please email <a href="mailto:moe_swb@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">moe_swb@moe.gov.sg</a> for
 booking instructions and codes.</p>
