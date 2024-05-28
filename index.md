@@ -104,10 +104,12 @@ sections:
       image: /images/banner_gratitude_jar.png
       alt: Image alt text
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: AUPE Union Membership
+      subtitle: AUPE Promotion
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Labour Day Promotion
+      button: Click to read more
       alt: Image alt text
+      url: /olive-staff-well-being/aupemembership/
+      image: /images/AUPE.jpg
 ---
