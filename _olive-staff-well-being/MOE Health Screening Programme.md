@@ -4,56 +4,48 @@ permalink: /olive/spotlight/for-schools-info-moe-health-screening-programme/
 description: ""
 variant: tiptap
 ---
-<h3>MOE Health Screening Programme</h3>
-<p><strong>Health Screening and Flu Vaccination</strong>
+<h3>MOE Health Screening and Flu Vaccination Programme</h3>
+<p><strong>Administered by Minmed Group Pte. Ltd.</strong>
 </p>
-<p>For booking instructions, please follow the steps listed in the link below.</p>
-<p><a href="/files/HS &amp; FV/_2024__Making_an_Individual_Appointment_with_Minmed___FV_and_HS.pdf" rel="noopener noreferrer nofollow" target="_blank">Making an individual appointment with Minmed</a>
-</p>
-<p>Please note that only MOE staff holding on to the Civil Service Card will
-enjoy the MOE health screening subsidies. Do ensure that you bring along
-your Civil Service Card when you attend your health screening and/or flu
-vaccination appointment. &nbsp;</p>
-<p>Please refer to link below for the frequently asked questions or continue
-scrolling for the information you may need.</p>
-<p><a href="/files/HS &amp; FV/Frequently_Asked_Questions.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQ</a>
-</p>
-<p><strong>1. What is offered for the health screening and flu vaccination programme?</strong>
+<p>Please email <a href="mailto:moe_swb@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">moe_swb@moe.gov.sg</a> for
+booking instructions and codes.</p>
+<p>Please note that only MOE staff with Civil Service Cards will enjoy the
+MOE health screening subsidies and fully subsidised flu vaccination. Do
+ensure that you bring along your Civil Service Card when you attend your
+health screening and/or flu vaccination appointment. &nbsp;</p>
+<p><strong>1. What is offered for the MOE Health Screening and Flu Vaccination Programme?</strong>
 </p>
 <p>Fully subsidised basic health screening is offered to all MOE staff and
-staff can also opt for additional packages and tests depending on needs.
-4-in-1 [FN#1] flu vaccination is also fully subsidised for MOE staff.</p>
+you can also opt for additional packages and tests depending on your needs.
+4-in-1 [FN#1] flu vaccination is fully subsidised for MOE staff.</p>
 <p>MOE is also providing health screening subsidies which can only be used
 on any of the optional packages and tests offered by our appointed vendor.
 For more information on the subsidies, please refer to our email to all
 MOE staff dated 19 June 2023 or the Staff Welfare Fund Circular PA-15-22.</p>
-<p>Any unused subsidy on the day of health screening cannot be accumulated
-nor carried forward to another screening session or future years.</p>
-<p>All packages and tests offered for the health screening exercise can be
-found <a href="https://minmed.sg/wp-content/uploads/2024/01/MOE-Package-2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a>
-</p>
-<p>For booking instructions and codes, please email <a href="mailto:moe_swb@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">moe_swb@moe.gov.sg</a>.</p>
-<p>Staff not under MOE payroll will still be able to take part in the health
-screening exercise, however, do note that the basic screening package will
-be chargeable at $10.80 each inclusive of GST, either payable by individual
-or the school if the school wishes to fund the health screening for these
-staff.</p>
-<p><strong>2. Is it compulsory for MOE staff to utilise the health screening subsidy every year</strong>
+<p>Any unused subsidy on the day of your health screening cannot be accumulated
+or carried forward to another screening session or future years.</p>
+<p>Please note that Relief/Contract staff without Civil Service Cards can
+take part in the health screening exercises conducted in schools at their
+own cost. The basic health screening package will be chargeable at $10.80
+inclusive of GST, either payable by the individual or the school if the
+school wishes to fund the health screening cost for relief/contract staff.</p>
+<p><strong>2. Is it compulsory for MOE staff to utilise the health screening subsidy every year?</strong>
 </p>
 <p>No. The objective of the health screening subsidy is to encourage MOE
 staff to take good care of your health.</p>
 <p>The selection of screening tests should be made based on individual risk
 factors. If you are unsure, please take reference from the Health Promotion
-Board’s screening recommendations&nbsp;<strong><a href="https://www.healthhub.sg/live-healthy/403/abcs_of_health_screening" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
+Board’s screening recommendations&nbsp;<strong><a href="https://www.healthhub.sg/programmes/screen_for_life" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
 </p>
-<p><strong>3. What is the Lifestyle Survey about?</strong>
+<p><strong>3. What is the Healthy Lifestyle Survey all about?</strong>
 </p>
-<p>The Lifestyle Survey is a ministry-wide online survey to assess the general
-health and lifestyle habits and how it relates to the general health status.</p>
+<p>The Healthy Lifestyle Survey is a ministry-wide online survey to assess
+the general health and lifestyle habits and how it relates to the general
+health status.</p>
 <p>The results obtained from this survey will help MOE identify areas for
 targeted workplace health strategies. This includes workshops and other
 well-being programmes organised.</p>
-<p>This survey will be conducted during online registration.</p>
+<p>This survey will be conducted during your online health screening registration.</p>
 <p><strong>4. How often is health screening organised for MOE staff?</strong>
 </p>
 <p>The MOE health screening and flu vaccination programme is organised for
@@ -62,12 +54,12 @@ all MOE officers on an annual basis.</p>
 </p>
 <p>The health screening is not compulsory. However, this exercise is a workplace
 health initiative from MOE and all staff are encouraged to participate
-actively to promote a healthy lifestyle</p>
-<p><strong>6. Who will be entitled for the health screening under MOE?</strong>
+actively to promote a healthy lifestyle.</p>
+<p><strong>6. Who is entitled for the health screening under MOE?</strong>
 </p>
-<p>All MOE officers under the direct payroll of MOE are entitled to the fully
-subsidised basic health screening and flu vaccination&nbsp;package. MOE
-staff will include the following:</p>
+<p>All MOE officers under the direct payroll of MOE with Civil Service Cards
+are entitled to the fully subsidised basic health screening and flu vaccination&nbsp;package.
+MOE staff will include the following:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Teaching Staff, i.e., EOs, MKEs, AEDs and NIE trainees</p>
@@ -77,7 +69,7 @@ staff will include the following:</p>
 </li>
 </ul>
 <p>Note: Staff attending the health screening and/or flu vaccination programme
-are required to show their <strong>Civil Service Card</strong> for verification
+are required to show their <strong>Civil Service Cards</strong> for verification
 purposes</p>
 <p><strong>7. Can I go for health screening when I am pregnant/breastfeeding?</strong>
 </p>
