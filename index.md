@@ -103,4 +103,11 @@ sections:
       url: /olive-staff-well-being/gratitudejar/
       image: /images/banner_gratitude_jar.png
       alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
