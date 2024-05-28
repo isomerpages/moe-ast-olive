@@ -110,6 +110,6 @@ sections:
       description: Labour Day Promotion
       button: Click to read more
       alt: Image alt text
-      url: /olive-staff-well-being/aupe-union-membership/
+      url: /aupe-union-membership/
       image: /images/AUPE.jpg
 ---
