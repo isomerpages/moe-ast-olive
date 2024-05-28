@@ -9,6 +9,15 @@ sections:
   - hero:
       background: /images/hero banner 2023.png
   - infopic:
+      title: AUPE Union Membership
+      subtitle: AUPE Promotion
+      id: infopic
+      description: Labour Day Promotion
+      button: Click to read more
+      alt: Image alt text
+      url: /aupe-union-membership/
+      image: /images/AUPE.jpg
+  - infopic:
       title: OLive Speaker Series
       description: Look out for our publicity on upcoming well-being programmes!
       button: Click to read more!
