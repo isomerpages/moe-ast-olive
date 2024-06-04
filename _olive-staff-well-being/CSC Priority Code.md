@@ -8,7 +8,7 @@ The Priority Code for booking of CSC Chalets is  **CS2311** and valid from 29 Se
 
 Please note that the Priority Code is **only applicable for in-service civil servants employed by MOE**. Civil servants are required to bring along their **Public Service (PS) Card and NRIC** for verification during check-in to enjoy the civil servant rental fee.
 
-Refer to their [FAQ page](https://www.csc.sg/events/FAQ) and visit their website https://www.cscchalets.sg to find out more. 
+Refer to their [FAQ here](/files/CSC_Chalets_FAQ_as_at_Dec_2023.pdf) and visit their website https://www.cscchalets.sg to find out more. 
 
 ![](/images/csc%20priority%20code%202023.png)
 
