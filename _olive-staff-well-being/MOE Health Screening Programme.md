@@ -7,8 +7,14 @@ variant: tiptap
 <h3>MOE Health Screening and Flu Vaccination Programme</h3>
 <p><strong>Administered by Minmed Group Pte. Ltd.</strong>
 </p>
-<p>Please email <a href="mailto:moe_swb@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">moe_swb@moe.gov.sg</a> for
-booking instructions and codes.</p>
+<p>Schools may write in to <a href="mailto:moe@minmed.sg" rel="noopener noreferrer nofollow" target="_blank">moe@minmed.sg</a> to schedule their school-wide
+health screening and flu vaccination exercise. Similar exercises will be
+organised for MOE@HQ site locations. Registration instructions will be
+sent via email.</p>
+<p></p>
+<p>Alternatively, if you wish to walk-in to Minmed clinics, please email
+<a href="mailto:moe_swb@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">moe_swb@moe.gov.sg</a>for the individual booking instructions and codes.</p>
+<p></p>
 <p>Please note that only MOE staff with Civil Service Cards will enjoy the
 MOE health screening subsidies and fully subsidised flu vaccination. Do
 ensure that you bring along your Civil Service Card when you attend your
