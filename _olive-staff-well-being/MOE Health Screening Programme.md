@@ -9,8 +9,8 @@ variant: tiptap
 </p>
 <p>Schools may write in to <a href="mailto:moe@minmed.sg" rel="noopener noreferrer nofollow" target="_blank">moe@minmed.sg</a> to schedule their school-wide
 health screening and flu vaccination exercise. Similar exercises will be
-organised for MOE@HQ site locations. Registration instructions will be
-sent via email.</p>
+organised for MOE@HQ site locations and registration instructions will
+be sent separately.</p>
 <p></p>
 <p>Alternatively, if you wish to walk-in to Minmed clinics, please email
 <a href="mailto:moe_swb@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">moe_swb@moe.gov.sg</a>for the individual booking instructions and codes.</p>
