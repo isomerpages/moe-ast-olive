@@ -12,8 +12,9 @@ health screening and flu vaccination exercise. Similar exercises will be
 organised for MOE@HQ site locations and registration instructions will
 be sent separately.</p>
 <p></p>
-<p>Alternatively, if you wish to walk-in to Minmed clinics, please email
-<a href="mailto:moe_swb@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">moe_swb@moe.gov.sg</a>for the individual booking instructions and codes.</p>
+<p>Alternatively, if you wish to walk-in to Minmed clinics, please refer
+to <a href="https://intranet.moe.gov.sg/academy/Staff_Well-Being/MOE-HS-FV/Pages/default.aspx" rel="noopener noreferrer nofollow" target="_blank">MOE SWB's intranet page here</a> for
+the individual booking instructions and codes.</p>
 <p></p>
 <p>Please note that only MOE staff with Civil Service Cards will enjoy the
 MOE health screening subsidies and fully subsidised flu vaccination. Do
