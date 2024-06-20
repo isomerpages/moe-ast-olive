@@ -90,6 +90,6 @@ variant: markdown
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [How to make stress your friend? - Kelly McGonigal (14:28)](https://www.youtube.com/watch?v=RcGyVTAoXEU)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [How to do Deep Breathing (3:43 mins)](https://www.youtube.com/watch?time_continue=22&amp;v=EYQsRBNYdPk&amp;feature=emb_logo)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [How to do Deep Breathing (3:43 mins)](https://www.youtube.com/watch?v=EYQsRBNYdPk&t=22s
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Staying Calm and Grounded In The Midst of Pandemic - Angie Chew from Brahm Centre (59:14 mins)](https://youtu.be/BXtov6Lc5C8)
