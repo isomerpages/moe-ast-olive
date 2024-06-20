@@ -9,21 +9,12 @@ sections:
   - hero:
       background: /images/hero banner 2023.png
   - infopic:
-      title: AUPE Union Membership
-      subtitle: AUPE Promotion
-      id: infopic
-      description: Labour Day Promotion
-      button: Click to read more
-      alt: Image alt text
-      url: /olive-staff-well-being/aupe-union-membership/
-      image: /images/AUPE.jpg
-  - infopic:
-      title: OLive Speaker Series
-      description: Look out for our publicity on upcoming well-being programmes!
+      title: MOE Health Screening
+      description: MOE Health Screening Programme and Flu Vaccination is now available!
       button: Click to read more!
-      url: /olive/spotlight/swb-online-speaker-series/
-      image: /images/olive speaker series thumbnail.png
-      alt: online speaker series
+      url: /olive/spotlight/for-schools-info-moe-health-screening-programme/
+      image: /images/AY - 2023 HS FV Notice banner.png
+      alt: MOE Health Screening
   - infopic:
       title: OLive Platinum Job Opportunities
       description: If you are a retiring or retired MOE officer, join our OLive
@@ -32,13 +23,6 @@ sections:
       url: /olive/spotlight/olive-platinum-job-opportunities/
       image: /images/retirement-beach-small.jpeg
       alt: Retirement
-  - infopic:
-      title: MOE Health Screening
-      description: MOE Health Screening Programme and Flu Vaccination is now available!
-      button: Click to read more!
-      url: /olive/spotlight/for-schools-info-moe-health-screening-programme/
-      image: /images/AY - 2023 HS FV Notice banner.png
-      alt: MOE Health Screening
   - infopic:
       title: MOE supports President's Challenge
       description: You can now make a difference in the lives of beneficiaries
@@ -77,23 +61,6 @@ sections:
       image: /images/new csc priority code 2023 (banner).png
       alt: Image alt text
   - infopic:
-      title: Well-being Programmes for Schools and Divisions
-      description: Check out these resources on well-being programmes available for
-        your schools and division.
-      button: CLick to read more!
-      url: /olive/spotlight/well-being-programmes/
-      image: /images/blackmores_head-00.jpeg
-      alt: Well Being Programmes
-  - infopic:
-      title: SGInHarmony
-      subtitle: One Singapore for All
-      description: Understand what the Racial and Religious Harmony Circles (Harmony
-        Circle) do to promote racial and religious harmony in Singapore.
-      button: Click to read more
-      url: /olive-staff-well-being/sginharmony/
-      image: /images/sginharmony.jpg
-      alt: Image alt text
-  - infopic:
       title: Volunteers Wanted
       id: infopic
       description: Your expertise matters. Check out the various volunteering
@@ -103,6 +70,14 @@ sections:
       image: /images/Volunteers_Wanted.png
       alt: Image alt text
   - infopic:
+      title: Well-being Programmes for Schools and Divisions
+      description: Check out these resources on well-being programmes available for
+        your schools and division.
+      button: CLick to read more!
+      url: /olive/spotlight/well-being-programmes/
+      image: /images/blackmores_head-00.jpeg
+      alt: Well Being Programmes
+  - infopic:
       title: Gratitude Jar Challenge
       subtitle: "#OLiveWellness"
       id: infopic
@@ -111,5 +86,30 @@ sections:
       button: Click to read more
       url: /olive-staff-well-being/gratitudejar/
       image: /images/banner_gratitude_jar.png
+      alt: Image alt text
+  - infopic:
+      title: OLive Speaker Series
+      description: Look out for our publicity on upcoming well-being programmes!
+      button: Click to read more!
+      url: /olive/spotlight/swb-online-speaker-series/
+      image: /images/olive speaker series thumbnail.png
+      alt: online speaker series
+  - infopic:
+      title: AUPE Union Membership
+      subtitle: AUPE Promotion
+      id: infopic
+      description: Labour Day Promotion
+      button: Click to read more
+      alt: Image alt text
+      url: /olive-staff-well-being/aupe-union-membership/
+      image: /images/AUPE.jpg
+  - infopic:
+      title: SGInHarmony
+      subtitle: One Singapore for All
+      description: Understand what the Racial and Religious Harmony Circles (Harmony
+        Circle) do to promote racial and religious harmony in Singapore.
+      button: Click to read more
+      url: /olive-staff-well-being/sginharmony/
+      image: /images/sginharmony.jpg
       alt: Image alt text
 ---
