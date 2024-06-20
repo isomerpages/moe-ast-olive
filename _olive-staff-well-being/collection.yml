@@ -2,14 +2,13 @@ collections:
   olive-staff-well-being:
     output: true
     order:
-      - MOE supports President's Challenge 2024.md
       - MOE Health Screening Programme.md
-      - CSC Priority Code.md
-      - AUPE Union Membership.md
       - OLive Platinum Job Opportunities.md
-      - OLiveWellness Gratitude Jar Challenge.md
-      - Greetings from iCARE.md
+      - MOE supports President's Challenge 2024.md
       - OLiveWellness Micro Learning Units.md
+      - Greetings from iCARE.md
+      - CSC Priority Code.md
+      - OLiveWellness Gratitude Jar Challenge.md
       - SWB OLive Speaker Series.md
       - Singles Exclusive Events.md
       - Well Being Programmes for Schools and Divisions.md
@@ -18,3 +17,4 @@ collections:
       - Fostering Open House.md
       - Read for Books 2023.md
       - Community Chest Heartstrings Walk.md
+      - AUPE Union Membership.md
