@@ -87,7 +87,8 @@ variant: markdown
 
 **Videos**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [What makes us feel good about our work? - Dan Ariely&nbsp;(20:26 mins)](https://www.youtube.com/watch?v=5aH2Ppjpcho)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[What makes us feel good about our work? | Dan Ariely - YouTube](https://www.youtube.com/watch?v=5aH2Ppjpcho)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [What makes a good life? Lessons from the longest study on happiness -&nbsp;Robert Waldinger (12:46 mins)][undefined](https://www.youtube.com/watch?v=8KkKuTCFvzI&t=72s)
 
