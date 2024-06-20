@@ -87,29 +87,4 @@ sections:
       url: /olive-staff-well-being/gratitudejar/
       image: /images/banner_gratitude_jar.png
       alt: Image alt text
-  - infopic:
-      title: OLive Speaker Series
-      description: Look out for our publicity on upcoming well-being programmes!
-      button: Click to read more!
-      url: /olive/spotlight/swb-online-speaker-series/
-      image: /images/olive speaker series thumbnail.png
-      alt: online speaker series
-  - infopic:
-      title: AUPE Union Membership
-      subtitle: AUPE Promotion
-      id: infopic
-      description: Labour Day Promotion
-      button: Click to read more
-      alt: Image alt text
-      url: /olive-staff-well-being/aupe-union-membership/
-      image: /images/AUPE.jpg
-  - infopic:
-      title: SGInHarmony
-      subtitle: One Singapore for All
-      description: Understand what the Racial and Religious Harmony Circles (Harmony
-        Circle) do to promote racial and religious harmony in Singapore.
-      button: Click to read more
-      url: /olive-staff-well-being/sginharmony/
-      image: /images/sginharmony.jpg
-      alt: Image alt text
 ---
