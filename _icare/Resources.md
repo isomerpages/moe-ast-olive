@@ -84,11 +84,11 @@ variant: markdown
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [What makes us feel good about our work? | Dan Ariely - YouTube](https://www.youtube.com/watch?v=5aH2Ppjpcho)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [What makes a good life? Lessons from the longest study on happiness -&nbsp;Robert Waldinger (12:46 mins)][undefined](https://www.youtube.com/watch?v=8KkKuTCFvzI&t=72s)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[What makes a good life? - Robert Waldinger (12:46 mins)](https://www.youtube.com/watch?v=8KkKuTCFvzI&t=81s) 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Why we all need to practice emotional first aid - Guy Winch (17:24 mins)](https://www.ted.com/talks/guy_winch_the_case_for_emotional_hygiene.html)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Why we need to practice emotional first aid? - Guy Winch (17:28)](https://www.youtube.com/watch?v=F2hc2FLOdhI)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [How to make stress your friend - Kelly McGonigal (14:29 mins)](https://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [How to make stress your friend? - Kelly McGonigal (14:28)](https://www.youtube.com/watch?v=RcGyVTAoXEU)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [How to do Deep Breathing (3:43 mins)](https://www.youtube.com/watch?time_continue=22&amp;v=EYQsRBNYdPk&amp;feature=emb_logo)
 
