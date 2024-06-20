@@ -27,7 +27,6 @@ The Health Promotion Board (HPB) is a government organisation committed to promo
 
 [Chair aerobics (PESTA) – by Mr Teng Tse Seng, Jia En and Abigail (17:26 mins)](https://drive.google.com/file/d/1ZMXIVhDhXBMEh6_9k81aBTe4sWp96VzE/view?usp=sharing)&nbsp;  
 
-  
 Intellectual
 ------------
 
@@ -52,7 +51,6 @@ President's Challenge is a movement supported by the kindness and generosity of 
 
 [www.msf.gov.sg/fostering](http://www.msf.gov.sg/fostering) <br>
 The Ministry of Social and Family Development (MSF) administers the Fostering Scheme to help vulnerable children and teenagers below the age of 18 to find foster families who will offer them a home. These children and teens are unable to live with their own families as they could have been abandoned, neglected or abused. Foster parents provide, not only a place of safety, but also warmth, comfort and a positive experience of family to the foster children in their care.  
-  
 
 Emotional
 ---------
