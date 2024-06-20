@@ -6,7 +6,7 @@ variant: markdown
 ---
 <img src="/images/canoe2.png" style="width:40%">
 
-iCARE&nbsp;offers&nbsp;[counselling services](http://www.academyofsingaporeteachers.moe.gov.sg/professional-growth/staff-well-being/icare)&nbsp;and&nbsp;workshops&nbsp;for MOE staff. The aim is to enhance staff well-being and build their personal and professional capacity to enable them to be effective professionals who can positively influence the lives of others. Respect, personal choice and adherence to confidentiality are the principles that guide counselling practice at iCARE.&nbsp;
+iCARE offers counselling services and workshops for MOE staff. The aim is to enhance staff well-being and build their personal and professional capacity to enable them to be effective professionals who can positively influence the lives of others. Respect, personal choice and adherence to confidentiality are the principles that guide counselling practice at iCARE.&nbsp;
 
   
 
@@ -35,14 +35,8 @@ Contact &nbsp;iCARE through the following ways:
     <td class="tg-0lax">6664 1392 / 6664 1393 (Weekdays from 8am to 5.30pm except public holidays)</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">ICONChat:</span></td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">MOE_iCARE_Counsellor1@moe.edu.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">MOE_iCARE_Counsellor2@moe.edu.sg</td>
-  </tr>
-</tbody>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">
+</span></td></tr></tbody>
 </table>
 									
 Onsite sessions are based at Academy of Singapore Teachers. You can make an appointment by emailing or calling iCARE.
