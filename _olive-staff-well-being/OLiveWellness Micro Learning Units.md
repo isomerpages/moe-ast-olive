@@ -2,6 +2,7 @@
 title: "#OLiveWellness Micro Learning Units"
 permalink: /olivewellness-micro-learning-units/
 description: ""
+variant: markdown
 ---
 <img src="/images/sw_-mlu-banner-(2).png" style="width:40%">
 
