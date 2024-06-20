@@ -6,7 +6,7 @@ variant: markdown
 ---
 <img src="/images/sw_-mlu-banner-(2).png" style="width:40%">
 
-Welcome to #OLiveWellness catalogue of well-being related MLUs on&nbsp;[OPAL2.0](https://opal2.moe.edu.sg/). New MLUs will be posted monthly on&nbsp;[OPAL2.0](http://opal2.moe.edu.sg/)&nbsp;so do look out for them!
+Welcome to #OLiveWellness catalogue of well-being related MLUs on&nbsp;[OPAL2.0](https://opal2.moe.edu.sg/). 
 
 Just type in the key words for the micro-learning units you are interested in after you have logged into&nbsp;[OPAL2.0](http://opal2.moe.edu.sg/)&nbsp;and the unit will be made available for your selection. Cheers to more wellness in your life! :)
 
@@ -49,57 +49,22 @@ Just type in the key words for the micro-learning units you are interested in af
     <td class="tg-ktyi">Work It Out – Chair Aerobics</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Managing COVID-19 with Mental Toughness Strategies</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Eye Exercises</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Towel Workout @ Home/Office</td>
+     <td class="tg-ktyi">Eye Exercises</td>
   </tr>
   <tr>
     <td class="tg-zr06">Stretch @ Desk</td>
   </tr>
   <tr>
-    <td class="tg-zr06">Gamed Enough for the WorkFromHome Challenge?</td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Scrambled Eggs with Chef Martens</td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Survival at Home during Circuit Breaker</td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5"> <br>Emotional &amp; Mental Well-being (iCARE- led)</td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Resilience &amp; Us - Gratitude</td>
+      <td class="tg-dgl5"> <br>Emotional &amp; Mental Well-being (iCARE- led)</td>
   </tr>
   <tr>
     <td class="tg-zr06">Deep Breathing for A Calmer You</td>
   </tr>
   <tr>
-    <td class="tg-zr06">Resilience &amp; Us - Managing Stress During Covid 19</td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Resilence &amp; Us - Managing Work from home with kids during Covid-19 outbreak</td>
-  </tr>
-  <tr>
     <td class="tg-zr06">Resilience &amp; Us - Emotional First-Aid Kit</td>
   </tr>
   <tr>
-    <td class="tg-zr06">Resilience &amp; Us - Managing Loneliness During Covid 19</td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Resilience &amp; Us - Managing Negative Thoughts the ABC Way<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Resilience &amp; Us - Self-Compassion</td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"> </td>
-  </tr>
-  <tr>
+		
     <td class="tg-dgl5">SPICE Well-being (AST-SWB led)</td>
   </tr>
   <tr>
