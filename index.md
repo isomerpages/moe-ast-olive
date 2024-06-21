@@ -62,6 +62,7 @@ sections:
       url: /olive/spotlight/olive-platinum-job-opportunities/
       image: /images/retirement-beach-small.jpeg
       alt: Retirement
+      subtitle: Financial Well-being
   - infopic:
       title: Priority Codes for CSC Chalets
       subtitle: CSC Chalets
