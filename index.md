@@ -44,6 +44,7 @@ sections:
       url: /olive/spotlight/moe-supports-presidents-challenge-2024/
       image: /images/Giving_sg_campaign_banner.jpg
       alt: Empowering a brighter future
+      subtitle: Community Well-being
   - infopic:
       title: MOE Health Screening
       description: Prevention is better than cure! Check out MOE Health Screening and
