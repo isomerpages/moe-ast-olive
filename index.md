@@ -10,7 +10,7 @@ sections:
       background: /images/hero banner 2023.png
   - infopic:
       title: Well-being@Gov
-      subtitle: Emotional Well-being
+      subtitle: Holistic Well-being
       id: infopic
       description: A comprehensive wellness app for your well-being
       button: Click to read more
