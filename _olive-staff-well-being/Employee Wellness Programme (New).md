@@ -34,3 +34,8 @@ Please follow the steps below.</p>
 <p>3. Enter agency code available from <a href="https://intranet.moe.gov.sg/academy/Staff_Well-Being/Pages/access_code.aspx" rel="noopener noreferrer nofollow" target="_blank">MOE Intranet</a>
 </p>
 <p>4. Sign up with your official work email address</p>
+<p>Please reach out to the Intellect team at <a href="mailto:ewp@intellect.co" rel="noopener noreferrer nofollow" target="_blank">ewp@intellect.co</a> for the following:</p>
+<p>1. App/web portal technical related issues</p>
+<p>2. User account issues</p>
+<p>Join us to kickstart this journey towards a healthier and happy you!</p>
+<p></p>
