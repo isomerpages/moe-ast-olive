@@ -91,6 +91,7 @@ sections:
       url: /olive/spotlight/well-being-programmes/
       image: /images/blackmores_head-00.jpeg
       alt: Well Being Programmes
+      subtitle: Holistic Well-being
   - infopic:
       title: "#OLiveWellness MLUs"
       description: Need a perk-me-up after sitting at your work area for hours? Take a
