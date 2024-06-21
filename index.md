@@ -61,6 +61,15 @@ sections:
       image: /images/new csc priority code 2023 (banner).png
       alt: Image alt text
   - infopic:
+      title: Read for Books 2024
+      subtitle: Community Well-being
+      id: infopic
+      description: Turn pages and change lives!
+      button: click to read more
+      url: /olive-staff-well-being/read-for-books-2024/
+      image: /images/Read2024.jpg
+      alt: Image alt text
+  - infopic:
       title: Volunteers Wanted
       id: infopic
       description: Your expertise matters. Check out the various volunteering
