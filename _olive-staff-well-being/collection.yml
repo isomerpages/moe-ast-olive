@@ -2,6 +2,7 @@ collections:
   olive-staff-well-being:
     output: true
     order:
+      - Employee Wellness Programme (New).md
       - Fostering Open House.md
       - Read for Books 2024.md
       - MOE supports President's Challenge 2024.md
