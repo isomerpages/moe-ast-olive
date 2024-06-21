@@ -53,7 +53,7 @@ sections:
       url: /olive/spotlight/for-schools-info-moe-health-screening-programme/
       image: /images/HS2024.jpg
       alt: MOE Health Screening
-      subtitle: Physical Health
+      subtitle: Physical Well-being
   - infopic:
       title: OLive Platinum Job Opportunities
       description: If you are a retiring or retired MOE officer, join our OLive
