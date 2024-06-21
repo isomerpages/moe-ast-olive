@@ -84,7 +84,7 @@ variant: markdown
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [What makes us feel good about our work? | Dan Ariely - YouTube](https://www.youtube.com/watch?v=5aH2Ppjpcho)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[What makes a good life? - Robert Waldinger (12:46 mins)](https://www.youtube.com/watch?v=8KkKuTCFvzl&t=81s)
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [How to practice emotional first aid? - Guy Winch (17:28)](https://www.youtube.com/watch?v=F2hc2FLOdhI)
 
