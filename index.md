@@ -79,6 +79,14 @@ sections:
       image: /images/icare.jpeg
       alt: iCARE
   - infopic:
+      title: Well-being Programmes for Schools and Divisions
+      description: Check out these resources on well-being programmes available for
+        your schools and division.
+      button: CLick to read more!
+      url: /olive/spotlight/well-being-programmes/
+      image: /images/blackmores_head-00.jpeg
+      alt: Well Being Programmes
+  - infopic:
       title: "#OLiveWellness MLUs"
       description: Need a perk-me-up after sitting at your work area for hours? Take a
         break and re-energise with our well-being Micro-learning Units from
@@ -88,14 +96,6 @@ sections:
       image: /images/opal mlu thumbnail.png
       alt: OLiveWellness MLUs
   - infopic:
-      title: Well-being Programmes for Schools and Divisions
-      description: Check out these resources on well-being programmes available for
-        your schools and division.
-      button: CLick to read more!
-      url: /olive/spotlight/well-being-programmes/
-      image: /images/blackmores_head-00.jpeg
-      alt: Well Being Programmes
-  - infopic:
       title: Volunteers Wanted
       id: infopic
       description: Your expertise matters. Check out the various volunteering
@@ -104,6 +104,7 @@ sections:
       url: /olive-staff-well-being/volunteer/
       image: /images/Volunteers_Wanted.png
       alt: Image alt text
+      subtitle: Community well-being
   - infopic:
       title: Gratitude Jar Challenge
       subtitle: "#OLiveWellness"
