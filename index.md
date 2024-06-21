@@ -44,13 +44,16 @@ sections:
       url: /olive/spotlight/moe-supports-presidents-challenge-2024/
       image: /images/Giving_sg_campaign_banner.jpg
       alt: Empowering a brighter future
+      subtitle: Community Well-being
   - infopic:
       title: MOE Health Screening
-      description: MOE Health Screening Programme and Flu Vaccination is now available!
+      description: Prevention is better than cure! Check out MOE Health Screening and
+        Flu Vaccination Programme!
       button: Click to read more!
       url: /olive/spotlight/for-schools-info-moe-health-screening-programme/
-      image: /images/AY - 2023 HS FV Notice banner.png
+      image: /images/HS2024.jpg
       alt: MOE Health Screening
+      subtitle: Physical Well-being
   - infopic:
       title: OLive Platinum Job Opportunities
       description: If you are a retiring or retired MOE officer, join our OLive
@@ -59,6 +62,7 @@ sections:
       url: /olive/spotlight/olive-platinum-job-opportunities/
       image: /images/retirement-beach-small.jpeg
       alt: Retirement
+      subtitle: Financial Well-being
   - infopic:
       title: Priority Codes for CSC Chalets
       subtitle: CSC Chalets
@@ -78,6 +82,7 @@ sections:
       url: /olive/spotlight/greetings-from-icare/
       image: /images/icare.jpeg
       alt: iCARE
+      subtitle: Emotional Well-being
   - infopic:
       title: Well-being Programmes for Schools and Divisions
       description: Check out these resources on well-being programmes available for
@@ -86,6 +91,7 @@ sections:
       url: /olive/spotlight/well-being-programmes/
       image: /images/blackmores_head-00.jpeg
       alt: Well Being Programmes
+      subtitle: Holistic Well-being
   - infopic:
       title: "#OLiveWellness MLUs"
       description: Need a perk-me-up after sitting at your work area for hours? Take a
@@ -95,6 +101,7 @@ sections:
       url: /olivewellness-micro-learning-units/
       image: /images/opal mlu thumbnail.png
       alt: OLiveWellness MLUs
+      subtitle: Holistic Well-being
   - infopic:
       title: Volunteers Wanted
       id: infopic
