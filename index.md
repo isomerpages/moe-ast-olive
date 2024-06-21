@@ -9,6 +9,42 @@ sections:
   - hero:
       background: /images/hero banner 2023.png
   - infopic:
+      title: Well-being@Gov
+      subtitle: Holistic Well-being
+      id: infopic
+      description: A comprehensive wellness app for your well-being
+      button: Click to read more
+      url: /olive-staff-well-being/employee-wellness-programme-new/
+      alt: Image alt text
+      image: /images/ewp3.jpg
+  - infopic:
+      title: Read for Books 2024
+      subtitle: Community Well-being
+      id: infopic
+      description: Turn pages and change lives! MOE supports Read for Books 2024!
+      button: click to read more
+      url: /olive-staff-well-being/read-for-books-2024/
+      image: /images/Read2024.jpg
+      alt: Image alt text
+  - infopic:
+      title: MSF Fostering Scheme
+      subtitle: Community well-being
+      id: infopic
+      description: Foster a child and make a difference
+      button: Click to read more
+      url: https://www.msf.gov.sg/what-we-do/fostering/home
+      image: /images/fostering2024_1.jpg
+      alt: Image alt text
+  - infopic:
+      title: MOE supports President's Challenge
+      description: You can now make a difference in the lives of beneficiaries
+        supported by the President's Challenge via our MOE online fundraising
+        campaign.
+      button: Click to read more!
+      url: /olive/spotlight/moe-supports-presidents-challenge-2024/
+      image: /images/Giving_sg_campaign_banner.jpg
+      alt: Empowering a brighter future
+  - infopic:
       title: MOE Health Screening
       description: MOE Health Screening Programme and Flu Vaccination is now available!
       button: Click to read more!
@@ -24,33 +60,6 @@ sections:
       image: /images/retirement-beach-small.jpeg
       alt: Retirement
   - infopic:
-      title: MOE supports President's Challenge
-      description: You can now make a difference in the lives of beneficiaries
-        supported by the President's Challenge via our MOE online fundraising
-        campaign.
-      button: Click to read more!
-      url: /olive/spotlight/moe-supports-presidents-challenge-2024/
-      image: /images/Giving_sg_campaign_banner.jpg
-      alt: Empowering a brighter future
-  - infopic:
-      title: Greetings from iCARE
-      description: Feeling upset and need a listening ear? Entertaining negative
-        thoughts that you are all alone to face life's challenges? Connect with
-        our iCARE officers today.
-      button: Click to read more!
-      url: /olive/spotlight/greetings-from-icare/
-      image: /images/icare.jpeg
-      alt: iCARE
-  - infopic:
-      title: "#OLiveWellness MLUs"
-      description: Need a perk-me-up after sitting at your work area for hours? Take a
-        break and re-energise with our well-being Micro-learning Units from
-        OPAL2.0.
-      button: Click to read more!
-      url: /olivewellness-micro-learning-units/
-      image: /images/opal mlu thumbnail.png
-      alt: OLiveWellness MLUs
-  - infopic:
       title: Priority Codes for CSC Chalets
       subtitle: CSC Chalets
       id: infopic
@@ -61,14 +70,31 @@ sections:
       image: /images/new csc priority code 2023 (banner).png
       alt: Image alt text
   - infopic:
-      title: Read for Books 2024
-      subtitle: Community Well-being
-      id: infopic
-      description: Turn pages and change lives!
-      button: click to read more
-      url: /olive-staff-well-being/read-for-books-2024/
-      image: /images/Read2024.jpg
-      alt: Image alt text
+      title: Greetings from iCARE
+      description: Feeling upset and need a listening ear? Entertaining negative
+        thoughts that you are all alone to face life's challenges? Connect with
+        our iCARE officers today.
+      button: Click to read more!
+      url: /olive/spotlight/greetings-from-icare/
+      image: /images/icare.jpeg
+      alt: iCARE
+  - infopic:
+      title: Well-being Programmes for Schools and Divisions
+      description: Check out these resources on well-being programmes available for
+        your schools and division.
+      button: CLick to read more!
+      url: /olive/spotlight/well-being-programmes/
+      image: /images/blackmores_head-00.jpeg
+      alt: Well Being Programmes
+  - infopic:
+      title: "#OLiveWellness MLUs"
+      description: Need a perk-me-up after sitting at your work area for hours? Take a
+        break and re-energise with our well-being Micro-learning Units from
+        OPAL2.0.
+      button: Click to read more!
+      url: /olivewellness-micro-learning-units/
+      image: /images/opal mlu thumbnail.png
+      alt: OLiveWellness MLUs
   - infopic:
       title: Volunteers Wanted
       id: infopic
@@ -78,14 +104,7 @@ sections:
       url: /olive-staff-well-being/volunteer/
       image: /images/Volunteers_Wanted.png
       alt: Image alt text
-  - infopic:
-      title: Well-being Programmes for Schools and Divisions
-      description: Check out these resources on well-being programmes available for
-        your schools and division.
-      button: CLick to read more!
-      url: /olive/spotlight/well-being-programmes/
-      image: /images/blackmores_head-00.jpeg
-      alt: Well Being Programmes
+      subtitle: Community well-being
   - infopic:
       title: Gratitude Jar Challenge
       subtitle: "#OLiveWellness"

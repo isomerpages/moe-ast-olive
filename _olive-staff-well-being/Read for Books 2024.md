@@ -1,6 +1,6 @@
 ---
 title: Read for Books 2024
-permalink: /olive/spotlight/read-for-books-2024/
+permalink: /olive-staff-well-being/read-for-books-2024/
 description: ""
 image: /images/Read2024.jpg
 variant: markdown
