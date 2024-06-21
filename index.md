@@ -9,6 +9,24 @@ sections:
   - hero:
       background: /images/hero banner 2023.png
   - infopic:
+      title: Read for Books 2024
+      subtitle: Community Well-being
+      id: infopic
+      description: Turn pages and change lives!
+      button: click to read more
+      url: /olive-staff-well-being/read-for-books-2024/
+      image: /images/Read2024.jpg
+      alt: Image alt text
+  - infopic:
+      title: MOE supports President's Challenge
+      description: You can now make a difference in the lives of beneficiaries
+        supported by the President's Challenge via our MOE online fundraising
+        campaign.
+      button: Click to read more!
+      url: /olive/spotlight/moe-supports-presidents-challenge-2024/
+      image: /images/Giving_sg_campaign_banner.jpg
+      alt: Empowering a brighter future
+  - infopic:
       title: MOE Health Screening
       description: MOE Health Screening Programme and Flu Vaccination is now available!
       button: Click to read more!
@@ -24,14 +42,15 @@ sections:
       image: /images/retirement-beach-small.jpeg
       alt: Retirement
   - infopic:
-      title: MOE supports President's Challenge
-      description: You can now make a difference in the lives of beneficiaries
-        supported by the President's Challenge via our MOE online fundraising
-        campaign.
-      button: Click to read more!
-      url: /olive/spotlight/moe-supports-presidents-challenge-2024/
-      image: /images/Giving_sg_campaign_banner.jpg
-      alt: Empowering a brighter future
+      title: Priority Codes for CSC Chalets
+      subtitle: CSC Chalets
+      id: infopic
+      description: Please use priority code CS2311 for bookings made between 29 Sep
+        2023 to 28 Sep 2024
+      button: Click here to learn more
+      url: /olive-staff-well-being/csc-priority-code/
+      image: /images/new csc priority code 2023 (banner).png
+      alt: Image alt text
   - infopic:
       title: Greetings from iCARE
       description: Feeling upset and need a listening ear? Entertaining negative
@@ -51,24 +70,13 @@ sections:
       image: /images/opal mlu thumbnail.png
       alt: OLiveWellness MLUs
   - infopic:
-      title: Priority Codes for CSC Chalets
-      subtitle: CSC Chalets
-      id: infopic
-      description: Please use priority code CS2311 for bookings made between 29 Sep
-        2023 to 28 Sep 2024
-      button: Click here to learn more
-      url: /olive-staff-well-being/csc-priority-code/
-      image: /images/new csc priority code 2023 (banner).png
-      alt: Image alt text
-  - infopic:
-      title: Read for Books 2024
-      subtitle: Community Well-being
-      id: infopic
-      description: Turn pages and change lives!
-      button: click to read more
-      url: /olive-staff-well-being/read-for-books-2024/
-      image: /images/Read2024.jpg
-      alt: Image alt text
+      title: Well-being Programmes for Schools and Divisions
+      description: Check out these resources on well-being programmes available for
+        your schools and division.
+      button: CLick to read more!
+      url: /olive/spotlight/well-being-programmes/
+      image: /images/blackmores_head-00.jpeg
+      alt: Well Being Programmes
   - infopic:
       title: Volunteers Wanted
       id: infopic
@@ -79,14 +87,6 @@ sections:
       image: /images/Volunteers_Wanted.png
       alt: Image alt text
   - infopic:
-      title: Well-being Programmes for Schools and Divisions
-      description: Check out these resources on well-being programmes available for
-        your schools and division.
-      button: CLick to read more!
-      url: /olive/spotlight/well-being-programmes/
-      image: /images/blackmores_head-00.jpeg
-      alt: Well Being Programmes
-  - infopic:
       title: Gratitude Jar Challenge
       subtitle: "#OLiveWellness"
       id: infopic
@@ -95,5 +95,14 @@ sections:
       button: Click to read more
       url: /olive-staff-well-being/gratitudejar/
       image: /images/banner_gratitude_jar.png
+      alt: Image alt text
+  - infopic:
+      title: MSF Fostering Scheme
+      subtitle: Community well-being
+      id: infopic
+      description: Foster a child and make a difference
+      button: Click to read more
+      url: https://www.msf.gov.sg/what-we-do/fostering/home
+      image: /images/fostering2024_1.jpg
       alt: Image alt text
 ---
