@@ -101,6 +101,7 @@ sections:
       url: /olivewellness-micro-learning-units/
       image: /images/opal mlu thumbnail.png
       alt: OLiveWellness MLUs
+      subtitle: Holistic Well-being
   - infopic:
       title: Volunteers Wanted
       id: infopic
