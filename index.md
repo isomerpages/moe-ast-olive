@@ -14,7 +14,7 @@ sections:
       id: infopic
       description: A comprehensive wellness app for your well-being
       button: Click to read more
-      url: https://academyofsingaporeteachers.moe.edu.sg/employee-wellness-programme-new/
+      url: /olive-staff-well-being/employee-wellness-programme-new/
       alt: Image alt text
       image: /images/ewp3.jpg
   - infopic:
