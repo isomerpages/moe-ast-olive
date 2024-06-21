@@ -14,7 +14,7 @@ sections:
       id: infopic
       description: A comprehensive wellness app for your well-being
       button: Click to read more
-      url: https://intranet.moe.gov.sg/academy/Staff_Well-Being/Pages/access_code.aspx
+      url: https://academyofsingaporeteachers.moe.edu.sg/employee-wellness-programme-new/
       alt: Image alt text
       image: /images/ewp3.jpg
   - infopic:
