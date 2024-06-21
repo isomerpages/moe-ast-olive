@@ -12,10 +12,19 @@ sections:
       title: Read for Books 2024
       subtitle: Community Well-being
       id: infopic
-      description: Turn pages and change lives!
+      description: Turn pages and change lives! MOE supports Read for Books 2024!
       button: click to read more
       url: /olive-staff-well-being/read-for-books-2024/
       image: /images/Read2024.jpg
+      alt: Image alt text
+  - infopic:
+      title: MSF Fostering Scheme
+      subtitle: Community well-being
+      id: infopic
+      description: Foster a child and make a difference
+      button: Click to read more
+      url: https://www.msf.gov.sg/what-we-do/fostering/home
+      image: /images/fostering2024_1.jpg
       alt: Image alt text
   - infopic:
       title: MOE supports President's Challenge
@@ -95,14 +104,5 @@ sections:
       button: Click to read more
       url: /olive-staff-well-being/gratitudejar/
       image: /images/banner_gratitude_jar.png
-      alt: Image alt text
-  - infopic:
-      title: MSF Fostering Scheme
-      subtitle: Community well-being
-      id: infopic
-      description: Foster a child and make a difference
-      button: Click to read more
-      url: https://www.msf.gov.sg/what-we-do/fostering/home
-      image: /images/fostering2024_1.jpg
       alt: Image alt text
 ---
