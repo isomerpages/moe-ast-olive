@@ -46,11 +46,13 @@ sections:
       alt: Empowering a brighter future
   - infopic:
       title: MOE Health Screening
-      description: MOE Health Screening Programme and Flu Vaccination is now available!
+      description: Prevention is better than cure! Check out MOE Health Screening and
+        Flu Vaccination Programme!
       button: Click to read more!
       url: /olive/spotlight/for-schools-info-moe-health-screening-programme/
-      image: /images/AY - 2023 HS FV Notice banner.png
+      image: /images/HS2024.jpg
       alt: MOE Health Screening
+      subtitle: Physical Health
   - infopic:
       title: OLive Platinum Job Opportunities
       description: If you are a retiring or retired MOE officer, join our OLive
