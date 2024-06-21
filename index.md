@@ -113,4 +113,5 @@ sections:
       button: Click to read more
       url: https://intranet.moe.gov.sg/academy/Staff_Well-Being/Pages/access_code.aspx
       alt: Image alt text
+      image: /images/ewp3.jpg
 ---
