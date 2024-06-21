@@ -82,6 +82,7 @@ sections:
       url: /olive/spotlight/greetings-from-icare/
       image: /images/icare.jpeg
       alt: iCARE
+      subtitle: Emotional Well-being
   - infopic:
       title: Well-being Programmes for Schools and Divisions
       description: Check out these resources on well-being programmes available for
