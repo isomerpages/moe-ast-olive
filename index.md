@@ -18,14 +18,14 @@ sections:
       alt: Image alt text
       image: /images/ewp3.jpg
   - infopic:
-      title: Read for Books 2024
+      title: Community Chest Heartstrings Walk 2024
       subtitle: Community Well-being
       id: infopic
-      description: Turn pages and change lives! MOE supports Read for Books 2024!
-      button: click to read more
-      url: /olive-staff-well-being/read-for-books-2024/
-      image: /images/Read2024.jpg
+      description: Making a difference starts with a single step!
+      button: Click to read more
       alt: Image alt text
+      url: /community-chest-heartstrings-walk-2024/
+      image: /images/Commchest_2024.jpg
   - infopic:
       title: MSF Fostering Scheme
       subtitle: Community well-being
@@ -34,6 +34,15 @@ sections:
       button: Click to read more
       url: https://www.msf.gov.sg/what-we-do/fostering/home
       image: /images/fostering2024_1.jpg
+      alt: Image alt text
+  - infopic:
+      title: Read for Books 2024
+      subtitle: Community Well-being
+      id: infopic
+      description: Turn pages and change lives! MOE supports Read for Books 2024!
+      button: click to read more
+      url: /olive-staff-well-being/read-for-books-2024/
+      image: /images/Read2024.jpg
       alt: Image alt text
   - infopic:
       title: MOE supports President's Challenge
@@ -122,13 +131,4 @@ sections:
       url: /olive-staff-well-being/gratitudejar/
       image: /images/banner_gratitude_jar.png
       alt: Image alt text
-  - infopic:
-      title: Community Chest Heartstrings Walk 2024
-      subtitle: Community Well-being
-      id: infopic
-      description: Making a difference starts with a single step!
-      button: Click to read more
-      alt: Image alt text
-      url: /community-chest-heartstrings-walk-2024/
-      image: /images/Commchest_2024.jpg
 ---
