@@ -123,10 +123,12 @@ sections:
       image: /images/banner_gratitude_jar.png
       alt: Image alt text
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Community Chest Heartstrings Walk 2024
+      subtitle: Community Well-being
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Making a difference starts with a single step!
+      button: Click to read more
       alt: Image alt text
+      url: /community-chest-heartstrings-walk-2024/
+      image: /images/Commchest_2024.jpg
 ---
