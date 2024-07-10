@@ -2,6 +2,7 @@ collections:
   olive-staff-well-being:
     output: true
     order:
+      - Community Chest Heartstrings Walk 2024.md
       - Employee Wellness Programme (New).md
       - Fostering Open House.md
       - Read for Books 2024.md
