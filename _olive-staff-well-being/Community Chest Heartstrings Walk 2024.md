@@ -9,4 +9,4 @@ image: /images/Commchest_2024.jpg
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Heartstrings.jpg">
 </div>
-<p></p>
+<p>More details can be found on <a rel="noopener noreferrer nofollow" target="_blank">https://www.comchest.gov.sg/hsw</a>.&nbsp;</p>
