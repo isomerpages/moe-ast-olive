@@ -111,7 +111,7 @@ sections:
       url: /olive-staff-well-being/volunteer/
       image: /images/Volunteers_Wanted.png
       alt: Image alt text
-      subtitle: Community well-being
+      subtitle: Community Well-being
   - infopic:
       title: Gratitude Jar Challenge
       subtitle: "#OLiveWellness"
@@ -121,5 +121,12 @@ sections:
       button: Click to read more
       url: /olive-staff-well-being/gratitudejar/
       image: /images/banner_gratitude_jar.png
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
       alt: Image alt text
 ---
