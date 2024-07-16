@@ -131,4 +131,13 @@ sections:
       url: /olive-staff-well-being/gratitudejar/
       image: /images/banner_gratitude_jar.png
       alt: Image alt text
+  - infopic:
+      title: Join AUPE - the largest public sector union in Singapore
+      subtitle: AUPE Membership
+      id: infopic
+      description: Celebrate National Day with AUPE
+      button: Click to read more
+      url: /AUPE
+      image: /images/AUPE_July.jpg
+      alt: Image alt text
 ---
