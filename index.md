@@ -23,7 +23,7 @@ sections:
       id: infopic
       description: Celebrate National Day with AUPE
       button: Click to read more
-      url: /AUPE/
+      url: /aupe/
       image: /images/AUPE_July.jpg
       alt: Image alt text
   - infopic:
