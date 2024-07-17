@@ -2,8 +2,8 @@ collections:
   olive-staff-well-being:
     output: true
     order:
-      - AUPE.md
       - Employee Wellness Programme (New).md
+      - AUPE.md
       - Community Chest Heartstrings Walk 2024.md
       - Fostering Open House.md
       - Read for Books 2024.md
