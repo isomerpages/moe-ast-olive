@@ -18,6 +18,15 @@ sections:
       alt: Image alt text
       image: /images/ewp3.jpg
   - infopic:
+      title: Join AUPE - the largest public sector union in Singapore
+      subtitle: AUPE Membership
+      id: infopic
+      description: Celebrate National Day with AUPE
+      button: Click to read more
+      url: /AUPE/
+      image: /images/AUPE_July.jpg
+      alt: Image alt text
+  - infopic:
       title: Community Chest Heartstrings Walk 2024
       subtitle: Community Well-being
       id: infopic
@@ -130,14 +139,5 @@ sections:
       button: Click to read more
       url: /olive-staff-well-being/gratitudejar/
       image: /images/banner_gratitude_jar.png
-      alt: Image alt text
-  - infopic:
-      title: Join AUPE - the largest public sector union in Singapore
-      subtitle: AUPE Membership
-      id: infopic
-      description: Celebrate National Day with AUPE
-      button: Click to read more
-      url: /AUPE/
-      image: /images/AUPE_July.jpg
       alt: Image alt text
 ---
