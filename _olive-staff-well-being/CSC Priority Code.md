@@ -9,8 +9,50 @@ valid from 29 Sep 2024 to 28 Sep 2025.</p>
 <p>Please note that the Priority Code is <strong>only applicable for in-service civil servants employed by MOE</strong>.
 Civil servants are required to bring along their <strong>Public Service (PS) Card and NRIC</strong> for
 verification during check-in to enjoy the civil servant rental fee.</p>
-<p>Refer to their <a href="/files/CSC_Chalets_FAQ_as_at_Dec_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQ here</a> and
-visit their website https://www.cscchalets.sg to find out more.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Officers can make a booking for the chalets directly at the website listed
+here. <a href="https://www.cscchalets.sg" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.cscchalets.sg</u></a>
+</p>
+</li>
+<li>
+<p>Officers can find out more information on the chalets at the websites
+listed below:</p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="http://​www.cscloyang.sg" rel="noopener noreferrer nofollow" target="_blank"><u>​</u></a>
+<a href="https://www.cscchalets.sg" rel="noopener noreferrer nofollow" target="_blank"><u>www.cscloyang.sg</u>
+</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.cscchalets.sg" rel="noopener noreferrer nofollow" target="_blank"><u>www.cscchangi.sg</u></a>
+</p>
+</li>
+</ul>
+<p></p>
+<p>If you encounter difficulties in your booking, please email or contact
+the following:</p>
+<p>o&nbsp;&nbsp; CSC@Changi I (6709 4706 / <a href="https://www.cscchalets.sg" rel="noopener noreferrer nofollow" target="_blank"><u>rooms@csc.sg</u></a>)</p>
+<p>o&nbsp;&nbsp; CSC@Changi II (6545 2343 / 6545 6373 / <a href="https://www.cscchalets.sg" rel="noopener noreferrer nofollow" target="_blank"><u>changi2@csc.sg</u></a>)</p>
+<p>o&nbsp;&nbsp; CSC@Loyang (6581 9033 / 6582 8006 / <a href="https://www.cscchalets.sg" rel="noopener noreferrer nofollow" target="_blank"><u>loyang@csc.sg</u></a>)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>FAQs about CSC Chalets and instructions to book a chalet</p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.cscchangi.sg/Upload/Whats-Happening/PDF/8/CSC%20Chalets%20FAQ.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CSC Chalets FAQ</u></a>&nbsp;(updated
+on 12 Sep 2024)</p>
+</li>
+<li>
+<p><a href="http://www.cscchangi.sg/howtobook.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>How to Book Chalet</u></a>
+</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/csc%20priority%20code%202023.png">
 </div>
