@@ -48,5 +48,12 @@ on 12 Sep 2024)</p>
 </ul>
 <p>For other enquiries on your CSC@Loyang and CSC@Changi account or bookings,
 please contact them directly at the following:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CSC@Changi (65452343 / <a href="mailto:changi@csc.sg" rel="noopener noreferrer nofollow" target="_blank">changi@csc.sg</a>)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CSC@Loyang (65819033 / <a href="mailto:chalets@csc.sg" rel="noopener noreferrer nofollow" target="_blank">chalets@csc.sg</a>)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>CSC@Changi (65452343 / <a href="mailto:changi@csc.sg" rel="noopener noreferrer nofollow" target="_blank">changi@csc.sg</a>)</p>
+</li>
+<li>
+<p>CSC@Loyang (65819033 / <a href="mailto:chalets@csc.sg" rel="noopener noreferrer nofollow" target="_blank">chalets@csc.sg</a>)</p>
+</li>
+</ul>
+<p></p>
