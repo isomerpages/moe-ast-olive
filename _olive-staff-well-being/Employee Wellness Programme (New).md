@@ -30,10 +30,13 @@ health coaching). Officers can download the app and sign up for an account
 using the agency code which can be accessed from <a href="https://intranet.moe.gov.sg/academy/Staff_Well-Being/Pages/access_code.aspx" rel="noopener noreferrer nofollow" target="_blank">MOE Intranet</a>.
 Please follow the steps below.</p>
 <p>1. Download the ‘Intellect’ app (available on major app stores)</p>
-<p>2. Select ‘Join with your organisation’</p>
-<p>3. Enter agency code available from <a href="https://intranet.moe.gov.sg/academy/Staff_Well-Being/Pages/access_code.aspx" rel="noopener noreferrer nofollow" target="_blank">MOE Intranet</a>
+<p>2. Select <strong>‘I'm new here’</strong> then <strong>‘With your organisation’</strong>
 </p>
-<p>4. Sign up with your official work email address</p>
+<p>3. Enter agency code available from MOE Intranet (Please ensure that there
+is no spacing before or after the code.)</p>
+<p>4. Sign up with your <strong>official work email address (either @<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a> or @<a href="http://moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">moe.gov.sg</a>). Do not use your iCON email.</strong>
+</p>
+<p></p>
 <p>Please reach out to the Intellect team at <a href="mailto:ewp@intellect.co" rel="noopener noreferrer nofollow" target="_blank">ewp@intellect.co</a> for the following:</p>
 <p>1. App/web portal technical related issues</p>
 <p>2. User account issues</p>
