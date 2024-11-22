@@ -21,10 +21,10 @@ sections:
       title: Join AUPE - the largest public sector union in Singapore
       subtitle: AUPE Membership
       id: infopic
-      description: Celebrate National Day with AUPE
+      description: AUPE Union Members - Enjoy More for Less
       button: Click to read more
       url: /aupe/
-      image: /images/AUPE_July.jpg
+      image: /images/AUPE_1.png
       alt: Image alt text
   - infopic:
       title: MSF Fostering Scheme
