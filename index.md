@@ -27,15 +27,6 @@ sections:
       image: /images/AUPE_July.jpg
       alt: Image alt text
   - infopic:
-      title: Community Chest Heartstrings Walk 2024
-      subtitle: Community Well-being
-      id: infopic
-      description: Making a difference starts with a single step!
-      button: Click to read more
-      alt: Image alt text
-      url: /community-chest-heartstrings-walk-2024/
-      image: /images/Commchest_2024.jpg
-  - infopic:
       title: MSF Fostering Scheme
       subtitle: Community well-being
       id: infopic
@@ -43,15 +34,6 @@ sections:
       button: Click to read more
       url: https://www.msf.gov.sg/what-we-do/fostering/home
       image: /images/fostering2024_1.jpg
-      alt: Image alt text
-  - infopic:
-      title: Read for Books 2024
-      subtitle: Community Well-being
-      id: infopic
-      description: Turn pages and change lives! MOE supports Read for Books 2024!
-      button: click to read more
-      url: /olive-staff-well-being/read-for-books-2024/
-      image: /images/Read2024.jpg
       alt: Image alt text
   - infopic:
       title: MOE supports President's Challenge
@@ -85,8 +67,8 @@ sections:
       title: Priority Codes for CSC Chalets
       subtitle: CSC Chalets
       id: infopic
-      description: Please use priority code CS2311 for bookings made between 29 Sep
-        2023 to 28 Sep 2024
+      description: Please use priority code CS2466 for bookings made between 29 Sep
+        2024 to 28 Sep 2025
       button: Click here to learn more
       url: /olive-staff-well-being/csc-priority-code/
       image: /images/new csc priority code 2023 (banner).png
