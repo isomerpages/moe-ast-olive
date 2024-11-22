@@ -24,7 +24,7 @@ sections:
       description: Celebrate National Day with AUPE
       button: Click to read more
       url: /aupe/
-      image: /images/AUPE_July.jpg
+      image: /images/AUPE_1.png
       alt: Image alt text
   - infopic:
       title: MSF Fostering Scheme
