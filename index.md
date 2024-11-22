@@ -21,7 +21,7 @@ sections:
       title: Join AUPE - the largest public sector union in Singapore
       subtitle: AUPE Membership
       id: infopic
-      description: Celebrate National Day with AUPE
+      description: AUPE Union Members - Enjoy More for Less
       button: Click to read more
       url: /aupe/
       image: /images/AUPE_1.png
