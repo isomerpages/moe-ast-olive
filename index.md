@@ -36,15 +36,6 @@ sections:
       image: /images/fostering2024_1.jpg
       alt: Image alt text
   - infopic:
-      title: Read for Books 2024
-      subtitle: Community Well-being
-      id: infopic
-      description: Turn pages and change lives! MOE supports Read for Books 2024!
-      button: click to read more
-      url: /olive-staff-well-being/read-for-books-2024/
-      image: /images/Read2024.jpg
-      alt: Image alt text
-  - infopic:
       title: MOE supports President's Challenge
       description: You can now make a difference in the lives of beneficiaries
         supported by the President's Challenge via our MOE online fundraising
