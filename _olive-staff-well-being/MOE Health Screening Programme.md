@@ -44,7 +44,7 @@ recover the full cost of the medical treatment charged to the Ministry
 from the officer. &nbsp;<a href="https://minmed.sg/x/moe_health_screening/" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
 </p>
 <p>&nbsp;</p>
-<p><strong>2.&nbsp;&nbsp;&nbsp;<u>&nbsp;Is it compulsory for MOE staff to utilise the health screening subsidy every year?</u></strong> 
+<p><strong>2.&nbsp;&nbsp;&nbsp;<u>&nbsp;Is it compulsory for MOE staff to utilise the health screening subsidy every year?</u></strong>
 </p>
 <p>&nbsp;No, it is not compulsory.</p>
 <p>&nbsp;</p>
@@ -72,7 +72,7 @@ for all MOE officers on an annual basis.</p>
 health promotion initiative to promote a healthy lifestyle as early detection
 of diseases can lead to better management of health and health outcomes</p>
 <p>&nbsp;</p>
-<p><strong>7.&nbsp;&nbsp;&nbsp;<u>Who is eligible for the health screening subsidy under MOE?&nbsp;</u> </strong>
+<p><strong>7.&nbsp;&nbsp;&nbsp;<u>Who is eligible for the health screening subsidy under MOE?&nbsp;</u></strong>
 </p>
 <p>The following employees will be eligible for the health screening subsidy:</p>
 <p>(i) All permanent employees of Ministry of Education on full/part load.&nbsp;</p>
@@ -81,17 +81,17 @@ of diseases can lead to better management of health and health outcomes</p>
 are required to show their <strong>Singapore Public Service </strong>card
 with MOE sticker for verification purposes.&nbsp;</p>
 <p>&nbsp;</p>
-<p><strong>8.  <u>Are flexi-adjunct staff or casual employees eligible for the health screening subsidy?</u></strong>
+<p><strong>8. <u>Are flexi-adjunct staff or casual employees eligible for the health screening subsidy?</u></strong>
 </p>
 <p>No. Flexi-adjunct staff or casual employees are not eligible for the health
 screening subsidy.</p>
 <p>&nbsp;</p>
-<p><strong> 9.  <u>Can Non-MOE staff sign up for the health screening and/ or flu vaccination?</u></strong>
+<p><strong>9. <u>Can Non-MOE staff sign up for the health screening and/ or flu vaccination?</u></strong>
 </p>
 <p>Yes. Non-MOE staff may sign up for the basic health screening at a cost
 of $10.80 (including GST) and flu vaccination at $18.53 (including GST).&nbsp;</p>
 <p>&nbsp;</p>
-<p><strong> 10.  <u>Can I go for health screening when I am pregnant / breastfeeding?</u></strong>
+<p><strong>10. <u>Can I go for health screening when I am pregnant / breastfeeding?</u></strong>
 </p>
 <p>When pregnant, you will typically be seeing your obstetrician regularly
 for follow-up and antenatal care. Screening tests necessary (e.g. screening
@@ -107,7 +107,7 @@ check with our doctors for suitability via teleconsult<a href="https://minmed.sg
 However, this should not take place in lieu of or before your post natal
 follow-up with your obstetrician.</p>
 <p></p>
-<p><strong>11.&nbsp; <u>Can I go for health screening when I am having my menses? </u></strong>
+<p><strong>11.&nbsp; <u>Can I go for health screening when I am having my menses?</u></strong>
 </p>
 <p>It is acceptable to go for health screening when you are having your menses.
 However, kindly refrain from submitting your urine specimen when you are
