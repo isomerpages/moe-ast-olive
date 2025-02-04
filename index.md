@@ -118,6 +118,6 @@ sections:
       id: infopic
       button: Click to read more
       url: /olive-staff-well-being/gratitudejar/
-      image: /images/banner_gratitude_jar.png
+      image: /images/EWYFD_banner.png
       alt: Image alt text
 ---
