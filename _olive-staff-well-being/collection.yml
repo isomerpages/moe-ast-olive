@@ -2,7 +2,6 @@ collections:
   olive-staff-well-being:
     output: true
     order:
-      - Eat With Your Family Day.md
       - Employee Wellness Programme (New).md
       - AUPE.md
       - Fostering Open House.md
@@ -14,6 +13,7 @@ collections:
       - OLiveWellness Micro Learning Units.md
       - Volunteers Wanted.md
       - Well Being Programmes for Schools and Divisions.md
+      - Eat With Your Family Day.md
       - OLiveWellness Gratitude Jar Challenge.md
       - SWB OLive Speaker Series.md
       - SGInHarmony.md
