@@ -11,7 +11,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/MOE_supports_PC2025_banner.png" alt="MOE supports President's Challenge 2025" style="width:100%;"> 
+<img src="/images/MOE_supports_PC2025_banner.png" alt="MOE supports President's Challenge 2025" style="width:70%;"> 
 
 
 In support of the President's Challenge 2025, the MOE Community Involvement Programme (MCIP) Committee is coordinating MOE's efforts in supporting this cause through various fundraising activities.  
