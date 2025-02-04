@@ -113,11 +113,9 @@ sections:
       alt: Image alt text
       subtitle: Community Well-being
   - infopic:
-      title: Gratitude Jar Challenge
-      subtitle: "#OLiveWellness"
+      title: Eat with Your Family Day
+      subtitle: Social Well-being
       id: infopic
-      description: "Check out the Top 10 submissions for our #OLiveWellness Gratitude
-        Jar Challenge, and be inspired!"
       button: Click to read more
       url: /olive-staff-well-being/gratitudejar/
       image: /images/banner_gratitude_jar.png
