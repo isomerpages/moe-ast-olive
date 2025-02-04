@@ -41,8 +41,8 @@ sections:
         supported by the President's Challenge via our MOE online fundraising
         campaign.
       button: Click to read more!
-      url: /olive/spotlight/moe-supports-presidents-challenge-2024/
-      image: /images/Giving_sg_campaign_banner.jpg
+      url: /olive/spotlight/moe-supports-presidents-challenge/
+      image: /images/logo_for_MOE_supports_PC_2025.png
       alt: Empowering a brighter future
       subtitle: Community Well-being
   - infopic:
@@ -113,13 +113,11 @@ sections:
       alt: Image alt text
       subtitle: Community Well-being
   - infopic:
-      title: Gratitude Jar Challenge
-      subtitle: "#OLiveWellness"
+      title: Eat with Your Family Day
+      subtitle: Social Well-being
       id: infopic
-      description: "Check out the Top 10 submissions for our #OLiveWellness Gratitude
-        Jar Challenge, and be inspired!"
       button: Click to read more
-      url: /olive-staff-well-being/gratitudejar/
-      image: /images/banner_gratitude_jar.png
+      url: /eat-with-your-family-day/
+      image: /images/EWYFD_banner.png
       alt: Image alt text
 ---
