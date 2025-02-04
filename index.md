@@ -41,7 +41,7 @@ sections:
         supported by the President's Challenge via our MOE online fundraising
         campaign.
       button: Click to read more!
-      url: https://www.giving.sg/donate/campaign/moepc2025
+      url: /olive/spotlight/moe-supports-presidents-challenge/
       image: /images/MOE_supports_PC2025_banner.png
       alt: Empowering a brighter future
       subtitle: Community Well-being
