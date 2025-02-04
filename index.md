@@ -117,7 +117,7 @@ sections:
       subtitle: Social Well-being
       id: infopic
       button: Click to read more
-      url: /olive-staff-well-being/gratitudejar/
+      url: /olive-staff-well-being/eat-with-your-family-day/
       image: /images/EWYFD_banner.png
       alt: Image alt text
 ---
