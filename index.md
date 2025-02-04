@@ -42,7 +42,7 @@ sections:
         campaign.
       button: Click to read more!
       url: /olive/spotlight/moe-supports-presidents-challenge/
-      image: /images/MOE_supports_PC2025_banner.png
+      image: /images/logo_for_MOE_supports_PC_2025.png
       alt: Empowering a brighter future
       subtitle: Community Well-being
   - infopic:
