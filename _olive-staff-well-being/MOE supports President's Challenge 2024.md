@@ -11,11 +11,12 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/Giving_sg_campaign_banner.jpg" alt="MOE supports President's Challenge 2024" style="width:100%;"> 
+<img src="/images/MOE_supports_PC2025_banner.png" alt="MOE supports President's Challenge 2025" style="width:100%;"> 
 
-In support of the President's Challenge 2024, the MOE Community Involvement Programme (MCIP) Committee is coordinating MOE's efforts in supporting this cause through fundraising activities such as the PC Heart Train/Bus Campaign, OLive Run and OLive Fiesta.  
 
-You can now contribute towards President's Challenge at your own convenience via our MOE online fundraising campaign on Giving.sg ([https://www.giving.sg/donate/campaign/moepc2024](https://www.giving.sg/donate/campaign/moepc2024)) in four simple steps!  
+In support of the President's Challenge 2025, the MOE Community Involvement Programme (MCIP) Committee is coordinating MOE's efforts in supporting this cause through various fundraising activities.  
+
+You can now contribute towards President's Challenge at your own convenience via our MOE online fundraising campaign on Giving.sg ([https://www.giving.sg/donate/campaign/moepc2025](https://www.giving.sg/donate/campaign/moepc2025)) in four simple steps!  
   
 Step 1: <br> 
 One-time creation of an account under Giving.sg.  
