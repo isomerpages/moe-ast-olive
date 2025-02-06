@@ -23,7 +23,7 @@ sections:
       id: infopic
       description: AUPE Union Members - Enjoy More for Less
       button: Click to read more
-      url: /aupe/
+      url: https://www.aupe.org.sg/union/membership-benefits/
       image: /images/AUPE_1.png
       alt: Image alt text
   - infopic:
