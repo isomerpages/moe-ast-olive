@@ -23,7 +23,7 @@ sections:
       id: infopic
       description: AUPE Union Members - Enjoy More for Less
       button: Click to read more
-      url: /aupe/
+      url: /olive/spotlight/aupe/
       image: /images/aupe_1.png
       alt: Image alt text
   - infopic:
