@@ -23,8 +23,8 @@ sections:
       id: infopic
       description: AUPE Union Members - Enjoy More for Less
       button: Click to read more
-      url: https://www.aupe.org.sg/union/membership-benefits/
-      image: /images/AUPE_banner.png
+      url: /aupe/
+      image: /images/aupe_1.png
       alt: Image alt text
   - infopic:
       title: MSF Fostering Scheme
