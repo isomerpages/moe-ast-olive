@@ -2,6 +2,7 @@
 title: FAQs
 permalink: /olive/icare/faqs/
 description: ""
+variant: markdown
 ---
 **1\. What is counselling?**
 
@@ -69,14 +70,13 @@ iCARE does not accept referral. iCARE works on the principles of personal choice
 
 *   HR- related matters such as
 
-	\- Request for a transfer to another school/division
-
-	\- Request for deployment to HQ
+	\- Request for a transfer to another school/HQ division
 
 	\- Clarification on the terms of employment
+	
+	\-Appeal against a performance grade
 
-For all these HR matters, please contact the HR Partner for your school/HR Partner (HQ) for HQ officers. Alternatively, you may contact HR Communications Hub at phone : 6879 6879 or email : [MOE\_HSCD\_HRC\_HUB@moe.gov.sg](mailto:MOE_HSCD_HRC_HUB@moe.gov.sg)
+For all these HR matters, you may submit an [e-Enquiry via HR Online (Intranet)](https://intranet.moe.gov.sg/hronline/Pages/eForm_notes.aspx) or email  [MOE\_HSCD\_HRC\_HUB@moe.gov.sg](mailto:MOE_HSCD_HRC_HUB@moe.gov.sg). You may also submit in writing in accordance to the [Air Grievance and Work-Related Appeals procedure](https://intranet.moe.gov.sg/hronline/ContactHr/Pages/air-grievance.aspx) and template found on HR Online.
 
-*   Appeal against a performance grade
 
-The aggrieved officer should follow the protocol on appealing against the given performance grade as set out in the respective school/HQ division.
+
