@@ -2,6 +2,7 @@ collections:
   olive-staff-well-being:
     output: true
     order:
+      - MCIP Spotlight Feature.md
       - Employee Wellness Programme (New).md
       - AUPE.md
       - MOE supports President's Challenge.md
