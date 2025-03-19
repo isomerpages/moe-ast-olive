@@ -120,15 +120,4 @@ sections:
       url: /eat-with-your-family-day/
       image: /images/EWYFD_banner.png
       alt: Image alt text
-  - infopic:
-      title: MCIP Spotlight Feature
-      subtitle: MCIP
-      id: infopic
-      description: The MCIP Spotlight Feature celebrates the amazing efforts of
-        schools and divisions that have gone beyond the call of duty to make a
-        difference in 2024.
-      button: Click to read more
-      url: /mcip-spotlight-feature/btyss/
-      image: /images/MCIP_Spotlight_Features_thumbnail.png
-      alt: Image alt text
 ---
