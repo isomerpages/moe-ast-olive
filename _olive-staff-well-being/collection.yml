@@ -2,7 +2,7 @@ collections:
   olive-staff-well-being:
     output: true
     order:
-      - MCIP Spotlight Feature 2.md
+      - "MCIP Spotlight Feature: Park View Primary School.md"
       - "MCIP Spotlight Feature: Beatty Secondary School.md"
       - Employee Wellness Programme (New).md
       - AUPE.md
