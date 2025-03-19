@@ -4,7 +4,7 @@ permalink: /mcip-spotlight-feature/btyss/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Beatty Secondary School</strong></h4>
+<h3><strong>Beatty Secondary School: Symphony of Dreams Concert</strong></h3>
 <p>In 2024, Beatty Secondary School proudly hosted its inaugural <em>Symphony of Dreams</em> concert
 in support of the President’s Challenge. Held in our school hall to keep
 ticket prices accessible, the concert not only showcased the diverse talents
