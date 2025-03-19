@@ -8,8 +8,9 @@ description: ""
 <p></p>
 <p>The RMID Go the Distance! Challenge is an annual fundraising event organised
 by the Research and Management Information Division (RMID) in support of
-the President's Challenge. &nbsp;<a rel="noopener noreferrer nofollow" target="_blank">This month-long event, which started from 2021, combines philanthropy with fitness, encouraging RMID colleagues to step up for a good cause.</a>
-</p>
+the President's Challenge.&nbsp;This month-long event, which started from
+2021, combines philanthropy with fitness, encouraging RMID colleagues to
+step up for a good cause.</p>
 <p>More than just a fundraiser, this initiative aims to build team morale,
 promote health awareness, and strengthen workplace bonds. The enthusiastic
 participation of our colleagues each year reflects our strong commitment
