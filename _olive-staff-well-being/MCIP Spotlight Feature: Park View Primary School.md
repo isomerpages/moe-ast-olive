@@ -35,3 +35,52 @@ and generosity of our PVPS family, which made this initiative a resounding
 success and left a lasting impact on our school community. Together, we
 are cooking more than just meals – we are helping to build a brighter future
 for those in need!</p>
+<p></p>
+<p><strong><u>The Cooking Recollections</u></strong>
+</p>
+<p>After the cooking demonstration class, our staff shared delightful stories
+on how they had recreated their dishes at home. Despite being simple meals,
+these dishes became repeat menu items, with their families loving and enjoying
+each dish.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BTYSS_1.jpg">
+</div>
+<p></p>
+<p><strong><u>The Unexpected Feast</u></strong>
+</p>
+<p>What started as a cooking demonstration transformed into a lively ‘makan’
+session that no one saw coming. As the cooking came to an end, the aroma
+of freshly prepared dishes filled the air, and the staff couldn’t resist
+the temptation to dig in all the dishes by our PVPS in-house chefs. It
+was not just about the food – it was about coming together as a community
+to share an unforgettable experience.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BTYSS_2.jpg">
+</div>
+<p></p>
+<p><strong><u>Cooking with Laughter</u></strong>
+</p>
+<p>The cookout sessions became an unexpected highlight of the day, filled
+with joy and laughter, as everyone sang along while waiting for their designated
+'chef' to whip up their culinary creations.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BTYSS_3.jpg">
+</div>
+<p></p>
+<p><strong><u>Song Dedication Magic</u></strong>
+</p>
+<p>What started as a fun “song dedication corner” by our very own Staff Well
+Being DJ quickly evolved into something much more meaningful. The moment
+transformed into a heartfelt platform for colleagues to express gratitude
+for each other's hard work and support. As songs played, heartfelt and
+uplifting messages filled the air. The atmosphere was filled with warmth
+and gratitude, making it clear that the true melody of the day was the
+camaraderie and care shared amongst the staff.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BTYSS_4.jpg">
+</div>
+<p></p>
