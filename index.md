@@ -121,7 +121,7 @@ sections:
       image: /images/EWYFD_banner.png
       alt: Image alt text
   - infopic:
-      title: Girl Guide Cookie Sales
+      title: Girl Guides Cookie Sales
       subtitle: Community Well-being
       id: infopic
       button: Click to read more
