@@ -125,7 +125,7 @@ sections:
       subtitle: Community Well-being
       id: infopic
       button: Click to read more
-      url: /girl-guide-cookie-sales/
+      url: /girl-guides-cookie-sales/
       image: /images/girl_guide_cookies.png
       alt: Image alt text
 ---
