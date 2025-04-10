@@ -1,6 +1,6 @@
 ---
-title: Girl Guide Cookie sales
-permalink: /girl-guide-cookie-sales/
+title: Girl Guides Cookie Sales
+permalink: /girl-guides-cookie-sales/
 variant: tiptap
 description: ""
 ---
