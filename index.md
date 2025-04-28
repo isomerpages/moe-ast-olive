@@ -24,7 +24,7 @@ sections:
       description: AUPE Union Members - Enjoy More for Less
       button: Click to read more
       url: /olive/spotlight/aupe/
-      image: /images/aupe_1.png
+      image: /images/1__AUPE_Happy_May_Day_EDM.jpg
       alt: Image alt text
   - infopic:
       title: MSF Fostering Scheme
