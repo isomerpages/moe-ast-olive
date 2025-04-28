@@ -6,30 +6,27 @@ description: ""
 image: /images/AUPE_July.jpg
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aupe_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1__AUPE_Happy_May_Day_EDM.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aupe_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2__AUPE_Happy_May_Day_EDM.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aupe_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3___AUPE_Happy_May_Day_EDM.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aupe_4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4___AUPE_Happy_May_Day_EDM.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aupe_5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5___AUPE_Happy_May_Day_EDM.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aupe_6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6___AUPE_Happy_May_Day_EDM.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aupe_7.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7___AUPE_Happy_May_Day_EDM.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aupe_8.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aupe_9.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/8___AUPE_Happy_May_Day_EDM.jpg">
 </div>
 <p></p>
