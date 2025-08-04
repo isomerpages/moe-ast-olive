@@ -25,7 +25,14 @@ here. <a href="https://www.cscchalets.sg" rel="noopener noreferrer nofollow" tar
 listed here. <a href="http://www.cscloyang.sg" rel="noopener noreferrer nofollow" target="_blank">www.cscloyang.sg</a> or
 <a href="http://www.cscchangi.sg" rel="noopener noreferrer nofollow" target="_blank">www.cscchangi.sg</a>
 </p>
-<p></p>
+</li>
+<li>
+<p>Read more about CSC news and upcoming events here <a href="https://www.csc.sg/News" rel="noopener noreferrer nofollow" target="_blank">https://www.csc.sg/News</a>
+</p>
+</li>
+<li>
+<p>CSC newsletter <a href="https://go.gov.sg/csc-newsletter-aug-2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/csc-newsletter-aug-2025</a>
+</p>
 </li>
 </ul>
 <p></p>
