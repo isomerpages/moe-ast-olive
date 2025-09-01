@@ -2,7 +2,6 @@ collections:
   olive-staff-well-being:
     output: true
     order:
-      - MOE Supports Read for Books 2025.md
       - "MCIP Spotlight Feature: Beatty Secondary School.md"
       - "MCIP Spotlight Feature: Park View Primary School.md"
       - "MCIP Spotlight Feature: Research and Management Information Division.md"
