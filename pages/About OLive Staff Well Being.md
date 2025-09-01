@@ -21,7 +21,7 @@ environment.</p>
 </div>
 <p><strong>OLive Philosophy</strong>
 </p>
-<p><em>We value our staff and their well-being.&nbsp; We aim to foster a supportive and vibrant work environment, and provide opportunities for them to care for their well-being holistically.&nbsp;These will energise, encourage and enable them as they connect with their inner calling and our mission to shape the future of our nation.</em>
+<p><em>We value our staff and their well-being. We aim to foster a supportive and vibrant work environment, and provide opportunities for them to care for their well-being holistically.&nbsp;These will energise, encourage and enable them as they connect with their inner calling and our mission to shape the future of our nation.</em>
 </p>
 <p><strong>OLive Vision</strong>
 </p>
