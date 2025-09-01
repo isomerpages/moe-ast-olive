@@ -11,15 +11,6 @@ sections:
   - hero:
       background: /images/hero banner 2023.png
   - infopic:
-      title: Read for Books 2025
-      subtitle: Read and do good
-      id: infopic
-      description: "Transform Lives One Page at a Time: Be a Part of Read for Books 2025!"
-      button: Click to read more
-      url: /moe-supports-read-for-books-2025/
-      image: /images/Screenshot_2025_07_07_111516.png
-      alt: Image alt text
-  - infopic:
       title: Well-being@Gov
       subtitle: Holistic Well-being
       id: infopic
