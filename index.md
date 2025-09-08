@@ -20,23 +20,14 @@ sections:
       alt: Image alt text
       image: /images/ewp3.jpg
   - infopic:
-      title: Join AUPE - the largest public sector union in Singapore
-      subtitle: AUPE Membership
-      id: infopic
-      description: AUPE Union Members - Enjoy More for Less
-      button: Click to read more
-      url: /olive/spotlight/aupe/
-      image: /images/1__AUPE_Happy_May_Day_EDM.jpg
-      alt: Image alt text
-  - infopic:
-      title: MSF Fostering Scheme
-      subtitle: Community well-being
-      id: infopic
-      description: Foster a child and make a difference
-      button: Click to read more
-      url: https://www.msf.gov.sg/what-we-do/fostering/home
-      image: /images/fostering2024_1.jpg
-      alt: Image alt text
+      title: MOE Health Screening
+      description: Prevention is better than cure! Check out MOE Health Screening and
+        Flu Vaccination Programme!
+      button: Click to read more!
+      url: /olive/spotlight/for-schools-info-moe-health-screening-programme/
+      image: /images/Banner_for_HS_Webpage.png
+      alt: MOE Health Screening
+      subtitle: Physical Well-being
   - infopic:
       title: MOE supports President's Challenge
       description: You can now make a difference in the lives of beneficiaries
@@ -48,15 +39,6 @@ sections:
       alt: Empowering a brighter future
       subtitle: Community Well-being
   - infopic:
-      title: MOE Health Screening
-      description: Prevention is better than cure! Check out MOE Health Screening and
-        Flu Vaccination Programme!
-      button: Click to read more!
-      url: /olive/spotlight/for-schools-info-moe-health-screening-programme/
-      image: /images/Banner_for_HS_Webpage.png
-      alt: MOE Health Screening
-      subtitle: Physical Well-being
-  - infopic:
       title: OLive Platinum Job Opportunities
       description: If you are a retiring or retired MOE officer, join our OLive
         Platinum Community to receive email alerts on future job opportunities.
@@ -65,6 +47,15 @@ sections:
       image: /images/retirement-beach-small.jpeg
       alt: Retirement
       subtitle: Financial Well-being
+  - infopic:
+      title: Advance Care Planning (ACP)
+      subtitle: Emotional Well-being
+      id: infopic
+      description: "Advance Care Planning: Because Your Wishes Matter"
+      button: Click to read more
+      url: /advance-care-planning/
+      image: /images/ACP2.jpg
+      alt: Image alt text
   - infopic:
       title: Priority Codes for CSC Chalets
       subtitle: CSC Chalets
@@ -85,6 +76,15 @@ sections:
       image: /images/icare.jpeg
       alt: iCARE
       subtitle: Emotional Well-being
+  - infopic:
+      title: MSF Fostering Scheme
+      subtitle: Community well-being
+      id: infopic
+      description: Foster a child and make a difference
+      button: Click to read more
+      url: https://www.msf.gov.sg/what-we-do/fostering/home
+      image: /images/fostering2024_1.jpg
+      alt: Image alt text
   - infopic:
       title: Well-being Programmes for Schools and Divisions
       description: Check out these resources on well-being programmes available for
