@@ -130,4 +130,13 @@ sections:
       url: /girl-guides-cookie-sales/
       image: /images/girl_guide_cookies.png
       alt: Image alt text
+  - infopic:
+      title: Advance Care Planning (ACP)
+      subtitle: Emotional Well-being
+      id: infopic
+      description: "Advance Care Planning: Because Your Wishes Matter"
+      button: Click to read more
+      url: /advance-care-planning/
+      image: /images/ACP2.jpg
+      alt: Image alt text
 ---
