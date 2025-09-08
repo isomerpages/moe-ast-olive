@@ -20,15 +20,6 @@ sections:
       alt: Image alt text
       image: /images/ewp3.jpg
   - infopic:
-      title: Join AUPE - the largest public sector union in Singapore
-      subtitle: AUPE Membership
-      id: infopic
-      description: AUPE Union Members - Enjoy More for Less
-      button: Click to read more
-      url: /olive/spotlight/aupe/
-      image: /images/1__AUPE_Happy_May_Day_EDM.jpg
-      alt: Image alt text
-  - infopic:
       title: MSF Fostering Scheme
       subtitle: Community well-being
       id: infopic
