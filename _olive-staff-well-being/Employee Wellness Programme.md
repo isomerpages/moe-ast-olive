@@ -41,9 +41,20 @@ is no spacing before or after the code.)</p>
 <p>1. App/web portal technical related issues</p>
 <p>2. User account issues</p>
 <p>Join us to kickstart this journey towards a healthier and happy you!</p>
+<p>Click <a href="https://olive.moe.edu.sg/olivewellnessoct2025/" rel="noopener nofollow" target="_blank">here</a> to
+view <em>[#OLiveWellness] Feedback that Fuels Growth: Give It, Take It, Use It</em>
+</p>
 <p>You may wish to view the following Well-being@Gov wellness webinars now
 available on OPAL2.0 for your easy access!</p>
 <ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/974f6e5d-18ea-4f01-834f-920335a2896d" rel="noopener noreferrer nofollow" target="_blank"><u>Unlocking Potential: Coaching Skills for Leaders</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/19ee168e-d935-46f4-8182-e9a04df72d92" rel="noopener noreferrer nofollow" target="_blank">Beyond the Awkward: Turning Performance Reviews into Positive Experiences</a>
+</p>
+</li>
 <li>
 <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/02064977-c821-4238-a817-bf73a52c7f1a" rel="noopener noreferrer nofollow" target="_blank">Psychological Safety, Trust &amp; Empowerment</a>
 </p>
@@ -116,5 +127,10 @@ available on OPAL2.0 for your easy access!</p>
 <p>Launch Webinar: <a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/005c32ed-7947-4697-b6ae-114f666964cb" rel="noopener noreferrer nofollow" target="_blank">Overview of Well-being@Gov Services</a>­­­</p>
 </li>
 </ul>
-<p></p>
+<p>As part of ongoing efforts to provide timely and reliable service when
+support is needed most, the Whole-of-Government 24/7 Hotline has been updated
+as follows:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/New_WOG_Hotline.jpg">
+</div>
 <p></p>
