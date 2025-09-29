@@ -48,6 +48,10 @@ view <em>[#OLiveWellness] Feedback that Fuels Growth: Give It, Take It, Use It</
 available on OPAL2.0 for your easy access!</p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/974f6e5d-18ea-4f01-834f-920335a2896d" rel="noopener noreferrer nofollow" target="_blank"><u>Unlocking Potential: Coaching Skills for Leaders</u></a>
+</p>
+</li>
+<li>
 <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/19ee168e-d935-46f4-8182-e9a04df72d92" rel="noopener noreferrer nofollow" target="_blank">Beyond the Awkward: Turning Performance Reviews into Positive Experiences</a>
 </p>
 </li>
