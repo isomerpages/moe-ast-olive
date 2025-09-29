@@ -120,7 +120,7 @@ available on OPAL2.0 for your easy access!</p>
 <p>Launch Webinar: <a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/005c32ed-7947-4697-b6ae-114f666964cb" rel="noopener noreferrer nofollow" target="_blank">Overview of Well-being@Gov Services</a>­­­</p>
 </li>
 </ul>
-<p>Click <a href="https://academyofsingaporeteachers.moe.edu.sg/olivewellnessoct2025/" rel="noopener nofollow" target="_blank">here</a> to
+<p>Click <a href="https://olive.moe.edu.sg/olivewellnessoct2025/" rel="noopener nofollow" target="_blank">here</a> to
 view <em>[#OLiveWellness] Feedback that Fuels Growth: Give It, Take It, Use It</em>
 </p>
 <p>As part of ongoing efforts to provide timely and reliable service when
