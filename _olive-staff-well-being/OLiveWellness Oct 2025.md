@@ -10,11 +10,10 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Oct_edm_2.jpg">
 </div>
-<p></p>
+<p>Log in to Intellect and access the Personal Insights Quiz <a href="https://app.intellect.co/self-care/personal-insights/start" rel="noopener nofollow" target="_blank">here</a>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Oct_edm_3_updated.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Oct_edm_4_updated.jpg">
 </div>
