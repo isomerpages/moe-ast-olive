@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Oct_edm_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Oct_edm_1_updated.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Oct_edm_2.jpg">
@@ -24,3 +24,4 @@ worth it. Let’s embrace each learning point as an opportunity to grow stronger
 wiser, and more resilient. <strong>Take the next step – reflect, reframe and keep showing up for yourself.</strong>
 </p>
 <p>&nbsp;</p>
+<p></p>
