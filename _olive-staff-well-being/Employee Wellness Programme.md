@@ -45,6 +45,10 @@ is no spacing before or after the code.)</p>
 available on OPAL2.0 for your easy access!</p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/19ee168e-d935-46f4-8182-e9a04df72d92" rel="noopener noreferrer nofollow" target="_blank">Beyond the Awkward: Turning Performance Reviews into Positive Experiences</a>
+</p>
+</li>
+<li>
 <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/02064977-c821-4238-a817-bf73a52c7f1a" rel="noopener noreferrer nofollow" target="_blank">Psychological Safety, Trust &amp; Empowerment</a>
 </p>
 </li>
@@ -117,4 +121,10 @@ available on OPAL2.0 for your easy access!</p>
 </li>
 </ul>
 <p></p>
+<p>As part of ongoing efforts to provide timely and reliable service when
+officers need support most, the Whole-of-Government 24/7 Hotline has been
+updated as follows:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/New_WOG_Hotline.jpg">
+</div>
 <p></p>
