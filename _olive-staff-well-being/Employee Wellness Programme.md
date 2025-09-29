@@ -42,7 +42,7 @@ is no spacing before or after the code.)</p>
 <p>2. User account issues</p>
 <p>Join us to kickstart this journey towards a healthier and happy you!</p>
 <p>Click <a href="https://olive.moe.edu.sg/olivewellnessoct2025/" rel="noopener nofollow" target="_blank">here</a> to
-view <em>[#OLiveWellness] Feedback that Fuels Growth: Give It, Take It, Use It</em>
+view <em>[#OLiveWellness] Grow and Glow Through What You Go Through</em>
 </p>
 <p>You may wish to view the following Well-being@Gov wellness webinars now
 available on OPAL2.0 for your easy access!</p>
