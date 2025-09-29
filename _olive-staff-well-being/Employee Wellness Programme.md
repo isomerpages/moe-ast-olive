@@ -120,7 +120,8 @@ available on OPAL2.0 for your easy access!</p>
 <p>Launch Webinar: <a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/005c32ed-7947-4697-b6ae-114f666964cb" rel="noopener noreferrer nofollow" target="_blank">Overview of Well-being@Gov Services</a>­­­</p>
 </li>
 </ul>
-<p></p>
+<p>Click here to view #OLiveWellness Oct 2025 on Feedback that Fuels Growth:
+Give It, Take It, Use It.</p>
 <p>As part of ongoing efforts to provide timely and reliable service when
 officers need support most, the Whole-of-Government 24/7 Hotline has been
 updated as follows:</p>
