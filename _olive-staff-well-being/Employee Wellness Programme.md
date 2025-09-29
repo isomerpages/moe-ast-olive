@@ -128,8 +128,8 @@ available on OPAL2.0 for your easy access!</p>
 </li>
 </ul>
 <p>As part of ongoing efforts to provide timely and reliable service when
-officers need support most, the Whole-of-Government 24/7 Hotline has been
-updated as follows:</p>
+support is needed most, the Whole-of-Government 24/7 Hotline has been updated
+as follows:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/New_WOG_Hotline.jpg">
 </div>
