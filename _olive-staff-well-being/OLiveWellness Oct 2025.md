@@ -10,11 +10,13 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Oct_edm_2.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Oct_edm_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Oct_edm_3_updated.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Oct_edm_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Oct_edm_4_updated.jpg">
 </div>
 <p>Feedback is a powerful catalyst for growth. When we pause, reflect, and
 lean into the learning, we often find insightful lessons that will help
