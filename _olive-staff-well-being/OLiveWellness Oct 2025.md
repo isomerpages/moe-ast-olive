@@ -17,11 +17,12 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Oct_edm_4_updated.jpg">
 </div>
-<p>Feedback is a powerful catalyst for growth. When we pause, reflect, and
-lean into the learning, we often find insightful lessons that will help
-us become better versions of ourselves. It’s not always easy but it’s always
-worth it. Let’s embrace each learning point as an opportunity to grow stronger,
-wiser, and more resilient. <strong>Take the next step – reflect, reframe and keep showing up for yourself.</strong>
+<p>Let’s continue to create a space where listening comes before judging,
+and feedback becomes a powerful catalyst for growth. Every interaction
+is a chance to learn, reflect, and support one another. When we pause,
+reflect, and lean into the learning, we often find insightful lessons that
+will help us become better versions of ourselves. It’s not always easy
+but it’s always worth it. Together, we grow stronger, wiser, and more resilient. <strong>Take the next step – reflect, reframe and keep showing up for yourself and others around you.</strong>
 </p>
 <p>&nbsp;</p>
 <p></p>
