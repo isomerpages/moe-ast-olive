@@ -23,10 +23,6 @@ The Ministry of Education Sports and Recreation Club (MESRC) is a society which 
 [Corporate website of the Health Promotion Board, Singapore (hpb.gov.sg)](https://www.hpb.gov.sg/) <br>
 The Health Promotion Board (HPB) is a government organisation committed to promoting healthy living in Singapore. HPB is a credible and authoritative source of evidence-based health information that seeks to empower the Singapore public with knowledge and skills to take ownership of their health and live a healthy lifestyle.
 
-[Chair aerobics (PESTA) – by Ms Cassandra Siua and Ms Diana Goh (7:11 mins)](https://drive.google.com/file/d/1h8emer1NzmBcN-QuUih1dZcjAisO1AZk/view?usp=sharing)&nbsp;
-
-[Chair aerobics (PESTA) – by Mr Teng Tse Seng, Jia En and Abigail (17:26 mins)](https://drive.google.com/file/d/1ZMXIVhDhXBMEh6_9k81aBTe4sWp96VzE/view?usp=sharing)&nbsp;  
-
 Intellectual
 ------------
 
