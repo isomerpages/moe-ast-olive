@@ -130,4 +130,13 @@ sections:
       url: /girl-guides-cookie-sales/
       image: /images/girl_guide_cookies.png
       alt: Image alt text
+  - infopic:
+      title: AUPE Membership Drive
+      subtitle: Holistic Well-being
+      id: infopic
+      description: Your Union, Your Voice, Your Benefits
+      button: Click to read more
+      url: /joinAUPE/
+      image: /images/Screenshot_2025_12_18_085346.png
+      alt: Image alt text
 ---
