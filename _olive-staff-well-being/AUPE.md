@@ -26,6 +26,7 @@ image: /images/Screenshot_2025_12_18_091047.png
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_12_18_092610.png">
 </div>
+<p></p>
 <p>For membership queries, kindly contact: <a rel="noopener noreferrer nofollow" target="_blank">membership@aupe.org.sg</a>
 </p>
 <p>For ACC queries, kindly contact: <a rel="noopener noreferrer nofollow" target="_blank">coop@aupe.org.sg</a>
