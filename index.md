@@ -25,7 +25,7 @@ sections:
       id: infopic
       description: Your Union, Your Voice, Your Benefits
       button: Click to read more
-      url: olive-staff-well-bing/olive/spotlight/aupe/
+      url: /olive/spotlight/aupe/
       image: /images/Screenshot_2025_12_18_085346.png
       alt: Image alt text
   - infopic:
