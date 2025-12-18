@@ -20,6 +20,15 @@ sections:
       alt: Image alt text
       image: /images/ewp3.jpg
   - infopic:
+      title: AUPE Membership Drive
+      subtitle: Holistic Well-being
+      id: infopic
+      description: Your Union, Your Voice, Your Benefits
+      button: Click to read more
+      url: /olive-staff-well-being/olive/spotlight/aupe/
+      image: /images/Screenshot_2025_12_18_085346.png
+      alt: Image alt text
+  - infopic:
       title: MOE Health Screening
       description: Prevention is better than cure! Check out MOE Health Screening and
         Flu Vaccination Programme!

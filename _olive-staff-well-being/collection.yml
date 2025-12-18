@@ -2,6 +2,8 @@ collections:
   olive-staff-well-being:
     output: true
     order:
+      - OLiveWellness Year End 2025.md
+      - AUPE.md
       - OLiveWellness Oct 2025.md
       - Advance Care Planning.md
       - "MCIP Spotlight Feature: Beatty Secondary School.md"
@@ -18,4 +20,3 @@ collections:
       - Well Being Programmes for Schools and Divisions.md
       - Eat With Your Family Day.md
       - Girl Guides Cookie Sales.md
-      - AUPE.md
