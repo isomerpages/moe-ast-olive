@@ -32,7 +32,7 @@ listed here. <a href="http://www.cscloyang.sg" rel="noopener noreferrer nofollow
 </p>
 </li>
 <li>
-<p>CSC newsletter <a href="https://go.gov.sg/csc-newsletter-aug-2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/csc-newsletter-aug-2025</a>
+<p>CSC newsletter <a href="https://go.gov.sg/csc-newsletter-jan-2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/csc-newsletter-jan-2026</a>
 </p>
 </li>
 </ul>
