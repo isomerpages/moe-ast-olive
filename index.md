@@ -34,7 +34,7 @@ sections:
         Flu Vaccination Programme!
       button: Click to read more!
       url: /olive/spotlight/for-schools-info-moe-health-screening-programme/
-      image: /images/Banner_for_HS_Webpage.png
+      image: /images/Banner_2026_MOE_Health_Screening___Flu_Vaccination.png
       alt: MOE Health Screening
       subtitle: Physical Well-being
   - infopic:
