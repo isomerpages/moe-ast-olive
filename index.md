@@ -69,8 +69,8 @@ sections:
       title: Priority Codes for CSC Chalets
       subtitle: CSC Chalets
       id: infopic
-      description: Please use priority code CS2466 for bookings made between 29 Sep
-        2024 to 28 Sep 2025
+      description: Please use priority code CS2511 for bookings from 29 Sep 2025 till
+        28 Sep 2026
       button: Click here to learn more
       url: /olive-staff-well-being/csc-priority-code/
       image: /images/new csc priority code 2023 (banner).png
@@ -130,13 +130,5 @@ sections:
       button: Click to read more
       url: /eat-with-your-family-day/
       image: /images/EWYFD_banner.png
-      alt: Image alt text
-  - infopic:
-      title: Girl Guides Cookie Sales
-      subtitle: Community Well-being
-      id: infopic
-      button: Click to read more
-      url: /girl-guides-cookie-sales/
-      image: /images/girl_guide_cookies.png
       alt: Image alt text
 ---
