@@ -48,6 +48,10 @@ view <em>[#OLiveWellness] Grow and Glow Through What You Go Through</em>
 available on OPAL2.0 for your easy access!</p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/9c96338b-0904-46da-a35a-33aa613e043e" rel="noopener nofollow" target="_blank">Building Healthy Habits to Achieve the Goals You Want</a>
+</p>
+</li>
+<li>
 <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/974f6e5d-18ea-4f01-834f-920335a2896d" rel="noopener noreferrer nofollow" target="_blank"><u>Unlocking Potential: Coaching Skills for Leaders</u></a>
 </p>
 </li>
