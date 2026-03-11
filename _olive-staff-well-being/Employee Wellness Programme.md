@@ -48,6 +48,10 @@ view <em>[#OLiveWellness] Grow and Glow Through What You Go Through</em>
 available on OPAL2.0 for your easy access!</p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/bb96a8f9-61c0-46c6-b109-ec0dc3a00208" rel="noopener nofollow" target="_blank">Mindful Moments: A 30-min Guided Journey to Calm</a>
+</p>
+</li>
+<li>
 <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/9c96338b-0904-46da-a35a-33aa613e043e" rel="noopener nofollow" target="_blank">Building Healthy Habits to Achieve the Goals You Want</a>
 </p>
 </li>
