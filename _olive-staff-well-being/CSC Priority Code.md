@@ -12,7 +12,7 @@ verification during check-in to enjoy the civil servant rental fee.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CSC_Priority_Code_2025.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CSC_Priority_Code_2025.png">
 </div>
 <p></p>
 <ul data-tight="true" class="tight">
@@ -32,7 +32,7 @@ listed here. <a href="http://www.cscloyang.sg" rel="noopener noreferrer nofollow
 </p>
 </li>
 <li>
-<p>CSC newsletter <a href="https://go.gov.sg/csc-newsletter-jan-2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/csc-newsletter-jan-2026</a>
+<p>CSC newsletter <a href="https://go.gov.sg/csc-newsletter-apr2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/csc-newsletter-apr2026</a>
 </p>
 </li>
 </ul>
