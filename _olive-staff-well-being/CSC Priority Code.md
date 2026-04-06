@@ -12,7 +12,7 @@ verification during check-in to enjoy the civil servant rental fee.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CSC_Priority_Code_2025.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CSC_Priority_Code_2025.png">
 </div>
 <p></p>
 <ul data-tight="true" class="tight">
