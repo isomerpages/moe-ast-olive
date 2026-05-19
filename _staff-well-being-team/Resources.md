@@ -56,14 +56,8 @@ Embracing balance and positivity
 [Resources (moe.edu.sg)](https://olive.moe.edu.sg/olive/icare/resources/) <br>
 iCARE offers counselling services and workshops for the individual’s social, emotional and psychological growth.&nbsp;The aim is to enhance staff well-being and build personal and professional capacity.  
 
-[mindline at work for MOE](https://www.mindline.sg/moe)
-This resource is specially created for MOE staff in collaboration with MOH Office for Healthcare Transformation (MOHT). Please access this useful online resource via this [link](https://www.mindline.sg/moe "https://www.mindline.sg/moe") or the QR Code shown below for the following and more:
-
-*   Links to curated online articles, videos and comic relief
-*   Clinically validated self-assessment tool
-*   Helplines
-
-<img src="/images/mindline-at-work-moe.png" style="width:27%">
+[mindline at work](https://www.mindline.sg/workspace)
+Workplace mental health plays an important role in our lives. mindline at work provides a variety of tools and resources to help you cope better and thrive at work.
 
 #### Other Useful Links
 
