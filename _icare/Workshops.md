@@ -12,7 +12,7 @@ variant: markdown
 5. Ikigai - A key to A Purposeful Life (Term 1 and Term 3)
 6. Managing Difficult Conversations (Term 4)
 7. Mastering the Art of Assertiveness for Professional Effectiveness  (Term 1 and Term 4)
-8. Psychological Flexibility - A Pathway to Improve Mental Wellness (Term 3)
+8. Psychological Flexibility - A Path to Improve Mental Wellness (Term 3)
 9. The Thriving Professional: Optimise Work, Nuture Well-Being, Harmonise Life (Term 2)
 
 Term 1, 2, 3 or 4 refers to school term in which the workshop is conducted.
