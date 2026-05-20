@@ -5,41 +5,33 @@ variant: tiptap
 description: ""
 ---
 <h1><strong>Well-being@Gov</strong></h1>
-<p>As part of our commitment to enhancing the well-being of public officers,
-the Public Service has launched Well-being@Gov, a new Employee Wellness
-Programme powered by Intellect. This additional tool is designed to empower
-you to take better care of yourself, providing holistic support and integrating
-technology and human touch. We would like to highlight that confidentiality
-is the key tenet of Well-being@Gov services. In order to maintain confidentiality,
-Intellect will not reveal the identities of users who have utilised Well-being@Gov
-services (e.g., counselling and coaching sessions), unless there is a clear
-risk of harm or injury to the user or others.</p>
+<p>Well-being@Gov is an Employee Wellness Programme powered by Intellect.
+It offers holistic support, integrating technology and human touch. <strong>Confidentiality is a key tenet of Well-being@Gov.</strong> Intellect
+will not reveal the identities of users (e.g., counselling and coaching
+sessions), unless there is a clear risk of harm or injury to the user or
+others.</p>
 <p>With Well-being@Gov, you have access to:</p>
-<p>● Self-guided content, from 5-minute sessions to curated learning paths
-to help you build skills, overcome challenges, and more</p>
+<p>● Self-guided content, from 5-minute sessions to curated learning paths</p>
 <p>● 1-to-1 coaching and counselling sessions</p>
-<p>● 24/7 distress helpline for the moments that need a little extra care</p>
-<p>Note: Well-being@Gov is meant to complement MOE staff well-being provisions
-which are customised for MOE’s profile and needs (e.g., health screening,
-flu vaccination, iCARE counselling service, OLive and MESRC programmes)
-and will continue to be made available to all staff.</p>
-<p>📲 Access Well-being@Gov services via the ‘Intellect’ app</p>
-<p>Well-being@Gov services are available on various modalities, such as an
-app, web portal, helpline and in-person sessions (for counselling and behavioural
-health coaching). Officers can download the app and sign up for an account
-using the agency code which can be accessed from <a href="https://intranet.moe.gov.sg/academy/Staff_Well-Being/Pages/access_code.aspx" rel="noopener noreferrer nofollow" target="_blank">MOE Intranet</a>.
-Please follow the steps below.</p>
-<p>1. Download the ‘Intellect’ app (available on major app stores)</p>
+<p>● 24/7 distress helpline</p>
+<p>Well-being@Gov complements existing MOE staff well-being provisions (e.g.,
+health screening, flu vaccination, iCARE counselling service, OLive and
+MESRC programmes).</p>
+<p>📲<strong> Access Well-being@Gov services via the ‘Intellect’ app</strong>
+</p>
+<p>Access services via the app, web portal, helpline or in-person sessions
+(for counselling and behavioural health coaching). Officers can download
+the app and sign up for an account using the agency code available on the
+<a href="https://intranet.moe.gov.sg/academy/Staff_Well-Being/Pages/access_code.aspx" rel="noopener noreferrer nofollow" target="_blank">MOE Intranet</a>.</p>
+<p>1. Download the 'Intellect' app from your app store</p>
 <p>2. Select <strong>‘I'm new here’</strong> then <strong>‘With your organisation’</strong>
 </p>
 <p>3. Enter agency code available from MOE Intranet (Please ensure that there
 is no spacing before or after the code.)</p>
-<p>4. Sign up with your <strong>official work email address (either @<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a> or @<a href="http://moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">moe.gov.sg</a>). Do not use your iCON email.</strong>
+<p>4. Sign up with your <strong>official work email (@<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a> or @<a href="http://moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">moe.gov.sg</a>) - not your iCON email</strong>
 </p>
 <p></p>
-<p>Please reach out to the Intellect team at <a href="mailto:ewp@intellect.co" rel="noopener noreferrer nofollow" target="_blank">ewp@intellect.co</a> for the following:</p>
-<p>1. App/web portal technical related issues</p>
-<p>2. User account issues</p>
+<p>For app/technical or account issues, contact Intellect at <strong><a href="mailto:ewp@intellect.co" rel="noopener noreferrer nofollow" target="_blank"><u>ewp@intellect.co</u></a></strong>.</p>
 <p>Join us to kickstart this journey towards a healthier and happy you!</p>
 <p>Click <a href="https://olive.moe.edu.sg/olivewellnessoct2025/" rel="noopener nofollow" target="_blank">here</a> to
 view <em>[#OLiveWellness] Grow and Glow Through What You Go Through</em>
