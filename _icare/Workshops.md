@@ -17,5 +17,4 @@ variant: markdown
 
 Term 1, 2, 3 or 4 refers to school term in which the workshop is conducted.
 
-Please look out for our eDM or email us at [moe\_icare@moe.gov.sg](mailto:moe_icare@moe.gov.sg) for the upcoming workshops details.
-
+Workshop details are published approximately 2 months before the commencement date through MOE Academy's eDM. Please look out for our eDM or email us at [moe\_icare@moe.gov.sg](mailto:moe_icare@moe.gov.sg) for more information.
